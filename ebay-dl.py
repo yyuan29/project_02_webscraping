@@ -38,12 +38,43 @@ for page_number in range(1, int(args.num_pages)+1):
     tags_items = soup.select('.s-item')
     
     for tag in tags_items:
-
+        # name 
         name = None
         tags_name = tag.select('.s-item__title')
         for tag_name in tags_name:
-            name = tag.text
+            name = tag_name.text
 
+        # price 
+        price = None 
+        tags_price = tag.select('.s-item__price')
+        for tag_price in tags_price: 
+            text = tag_price.text 
+            match = re.search(r'\$([\d,.]+)', text)
+            if match:
+                dollars = float(match.group(1).replace(',', ''))
+                price = int(dollars * 100)
+
+        # status 
+        status = None 
+        tags_status = tag.select('.SECONDARY_INFO')
+        for tag_status in tags_status:
+            status = tag_status.text
+        
+        # shipping 
+        shipping = None
+        tags_shipping = tag.select('.s-item__shipping')
+        for tag_ship in tags_shipping:
+            text = tag_ship.text
+
+            if 'Free' in text:
+                shipping = 0
+            else:
+                match = re.search(r'\$([\d,.]+)', text)
+                if match:
+                    dollars = float(match.group(1).replace(',', ''))
+                    shipping = int(dollars * 100)
+
+        # free returns
         freereturns = False
         tags_freereturns = tag.select('.s-item__free-returns')
         for tag_return in tags_freereturns:
@@ -59,5 +90,5 @@ for page_number in range(1, int(args.num_pages)+1):
     pprint.pprint(items)
 
     filename = args.search_term.replace(" ", "_") + ".json"
-    with open(flename, "w") as f: 
+    with open(filename, "w") as f: 
         json.dump(items, f, indent = 2)
