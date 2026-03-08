@@ -80,9 +80,20 @@ for page_number in range(1, int(args.num_pages)+1):
         for tag_return in tags_freereturns:
             freereturns = True
 
+        # items sold 
+        items_sold = None
+        tags_sold = tag.select('.s-item__hotness')
+        for tag_sold in tags_sold: 
+            match = re.search(r'([\d,]+)', tag_sold.text)
+            if match:
+                items_sold = int(match.group(1).replace(',', ''))
         items.append({
             'name': name,
             'freereturns': freereturns,
+            'status': status,
+            'shipping': shipping,
+            'free_returns': freereturns,
+            'items_sold': items_sold,
             })
 
     #print('len(tags_name)=', len(tags_name))
