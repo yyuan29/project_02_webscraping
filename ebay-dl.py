@@ -15,7 +15,6 @@ parser.add_argument('--num_pages', type=int, default=10)
 args = parser.parse_args()
 print('args.search_term=', args.search_term)
 
-items = []
 
 for page_number in range(1, int(args.num_pages)+1):
 
@@ -35,8 +34,10 @@ for page_number in range(1, int(args.num_pages)+1):
 
     # process the html
     soup = BeautifulSoup(html, 'html.parser')
+    items = [] 
+
+    tags_items = soup.select('.s-item')
     item = {}
-    tags_items = soup.select('.s-item__wrapper')
     
     for tag in tags_items:
         # name 
