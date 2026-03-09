@@ -27,52 +27,65 @@ for page_number in range(1, int(args.num_pages)+1):
     print('url=', url)
 
     # download the html
-    r = requests.get(url)
+    headers = {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36",
+        "Accept-Language": "en-US,en;q=0.9"
+    }
+    r = requests.get(url, headers=headers)
     status = r.status_code
     print('status=', status)
     html = r.text
 
     # process the html
     soup = BeautifulSoup(html, 'html.parser')
-
-    tags_items = soup.select('.s-item')
+    item = {}
+    tags_items = soup.select('#srp-river-results li.s-item')
     
     for tag in tags_items:
         # name 
         name = None
-        tags_name = tag.select('.s-item__title')
-        for tag_name in tags_name:
-            name = tag_name.text
-
+        tag_name = tag.select_one('.s-item__title')
+        for tag in tag_name:   
+            name = tag.text
+        print(name)
+            
         # price 
         price = None 
         tags_price = tag.select('.s-item__price')
-        for tag_price in tags_price: 
-            text = tag_price.text 
-            match = re.search(r'\$([\d,.]+)', text)
-            if match:
-                dollars = float(match.group(1).replace(',', ''))
+
+        if tags_price:
+            text = tags_price.text.strip()
+            text = text.replace('$', '').replace(',', '')
+            first_price = text.split()[0]
+            try:
+                dollars = float(first_price)
                 price = int(dollars * 100)
+            except:
+                price = None
+        print(price)
 
         # status 
-        status = None 
+        item_status = None 
         tags_status = tag.select('.SECONDARY_INFO')
-        for tag_status in tags_status:
-            status = tag_status.text
+        if tags_status:
+            item_status = tags_status.text.strip()
+
         
         # shipping 
         shipping = None
-        tags_shipping = tag.select('.s-item__shipping')
-        for tag_ship in tags_shipping:
-            text = tag_ship.text
-
+        tag_shipping = tag.select_one('.s-item__shipping')
+        if tag_shipping:
+            text = tag_shipping.text.strip()
             if 'Free' in text:
                 shipping = 0
             else:
-                match = re.search(r'\$([\d,.]+)', text)
-                if match:
-                    dollars = float(match.group(1).replace(',', ''))
+                text = text.replace('$', '').replace(',', '').replace('+', '')
+                parts = text.split()
+                try:
+                    dollars = float(parts[0])
                     shipping = int(dollars * 100)
+                except:
+                    shipping = None
 
         # free returns
         freereturns = False
@@ -83,23 +96,25 @@ for page_number in range(1, int(args.num_pages)+1):
         # items sold 
         items_sold = None
         tags_sold = tag.select('.s-item__hotness')
-        for tag_sold in tags_sold: 
-            match = re.search(r'([\d,]+)', tag_sold.text)
-            if match:
-                items_sold = int(match.group(1).replace(',', ''))
+        if tags_sold:
+            text = tags_sold.text.strip()
+            number = text.split()[0]
+            number = number.replace(',', '')
+            items_sold = int(number)
+        
         items.append({
             'name': name,
-            'freereturns': freereturns,
+            'price': price,
             'status': status,
             'shipping': shipping,
             'free_returns': freereturns,
             'items_sold': items_sold,
             })
 
-    #print('len(tags_name)=', len(tags_name))
+    #print('len(tags_name)=', len(tags_items))
     #print('len(tags_freereturns)=', len(tags_freereturns))
     pprint.pprint(items)
 
     filename = args.search_term.replace(" ", "_") + ".json"
     with open(filename, "w") as f: 
-        json.dump(items, f, indent = 2)
+        json.dump(items, f)
