@@ -5,6 +5,8 @@ from bs4 import BeautifulSoup
 import pprint 
 import json
 import re
+import time
+import random
 
 # get command line arguments
 parser = argparse.ArgumentParser(description='Download information from ebay and convert to JSON.')
@@ -13,41 +15,36 @@ parser.add_argument('--num_pages', type=int, default=10)
 args = parser.parse_args()
 print('args.search_term=', args.search_term)
 
-
 items = []
 
 for page_number in range(1, int(args.num_pages)+1):
 
     # build the url
-    url = 'https://www.ebay.com/sch/i.html?_from=R40&_nkw='
+    url = 'https://www.ebay.com/sch/i.html?_nkw=' 
     url += args.search_term
     url += '&_sacat=0&LH_TitleDesc=0&_pgn='
     url += str(page_number)
-    url += '&rt=nc'
     print('url=', url)
 
     # download the html
-    headers = {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36",
-        "Accept-Language": "en-US,en;q=0.9"
-    }
-    r = requests.get(url, headers=headers)
+    r = requests.get(url)
     status = r.status_code
     print('status=', status)
     html = r.text
+    print('html=', html[:50])
 
     # process the html
     soup = BeautifulSoup(html, 'html.parser')
     item = {}
-    tags_items = soup.select('#srp-river-results li.s-item')
+    tags_items = soup.select('.s-item__wrapper')
     
     for tag in tags_items:
         # name 
         name = None
         tag_name = tag.select_one('.s-item__title')
-        for tag in tag_name:   
-            name = tag.text
-        print(name)
+        if not tag_name or "Shop on eBay" in tag_name.text:
+            continue
+        name = tag_name.get_text(strip=True)
             
         # price 
         price = None 
@@ -110,10 +107,13 @@ for page_number in range(1, int(args.num_pages)+1):
             'free_returns': freereturns,
             'items_sold': items_sold,
             })
+        time.sleep(1)
 
     #print('len(tags_name)=', len(tags_items))
     #print('len(tags_freereturns)=', len(tags_freereturns))
     pprint.pprint(items)
+    time.sleep(random.uniform(2.0, 4.0))
+    
 
     filename = args.search_term.replace(" ", "_") + ".json"
     with open(filename, "w") as f: 
