@@ -4,9 +4,19 @@ import argparse
 from bs4 import BeautifulSoup
 import pprint 
 import json
-import re
 import time
-import random
+from playwright.sync_api import sync_playwright
+
+# new html code
+def download_html_and_run_javascript(url):
+    with sync_playwright() as p:
+        browser = p.firefox.launch(headless=True)
+        page = browser.new_page()
+        page.goto(url)
+        page.wait_for_load_state("networkidle")
+        html = page.content()
+        browser.close()
+    return html
 
 # get command line arguments
 parser = argparse.ArgumentParser(description='Download information from ebay and convert to JSON.')
@@ -26,17 +36,14 @@ for page_number in range(1, int(args.num_pages)+1):
     print('url=', url)
 
     # download the html
-    r = requests.get(url)
-    status = r.status_code
-    print('status=', status)
-    html = r.text
-    print('html=', html[:50])
+    html = download_html_and_run_javascript(url)
+    
 
     # process the html
-    soup = BeautifulSoup(html, 'html.parser')
+    soup = BeautifulSoup(html,'html.parser')
     items = [] 
 
-    tags_items = soup.select('.s-item')
+    tags_items = soup.select('li.s-item')
     item = {}
     
     for tag in tags_items:
@@ -103,7 +110,7 @@ for page_number in range(1, int(args.num_pages)+1):
         items.append({
             'name': name,
             'price': price,
-            'status': status,
+            'status': item_status,
             'shipping': shipping,
             'free_returns': freereturns,
             'items_sold': items_sold,
@@ -113,7 +120,6 @@ for page_number in range(1, int(args.num_pages)+1):
     #print('len(tags_name)=', len(tags_items))
     #print('len(tags_freereturns)=', len(tags_freereturns))
     pprint.pprint(items)
-    time.sleep(random.uniform(2.0, 4.0))
     
 
     filename = args.search_term.replace(" ", "_") + ".json"
