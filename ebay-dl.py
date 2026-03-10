@@ -6,12 +6,16 @@ import pprint
 import json
 import time
 from playwright.sync_api import sync_playwright
+from undetected_playwright import Tarnished
+from playwright_stealth import Stealth
 
 # new html code
 def download_html_and_run_javascript(url):
     with sync_playwright() as p:
-        browser = p.firefox.launch(headless=True)
-        page = browser.new_page()
+        browser = p.chromium.launch(headless=True)
+        context = browser.new_context()
+        Tarnished.apply_stealth(context)
+        page = context.new_page()
         page.goto(url)
         page.wait_for_load_state("networkidle")
         html = page.content()
@@ -26,7 +30,7 @@ args = parser.parse_args()
 print('args.search_term=', args.search_term)
 
 
-for page_number in range(1, int(args.num_pages)+1):
+for page_number in range(1, 2):
 
     # build the url
     url = 'https://www.ebay.com/sch/i.html?_nkw=' 
@@ -37,43 +41,35 @@ for page_number in range(1, int(args.num_pages)+1):
 
     # download the html
     html = download_html_and_run_javascript(url)
-    
 
     # process the html
     soup = BeautifulSoup(html,'html.parser')
     items = [] 
 
-    tags_items = soup.select('li.s-item')
+    tags_items = soup.select('.s-card.s-card--horizontal')
     item = {}
     
     for tag in tags_items:
         # name 
         name = None
-        tag_name = tag.select_one('.s-item__title')
+        tag_name = tag.select_one('.su-styled-text.primary.default')
         if not tag_name or "Shop on eBay" in tag_name.text:
             continue
         name = tag_name.get_text(strip=True)
             
         # price 
         price = None 
-        tags_price = tag.select('.s-item__price')
-
-        if tags_price:
-            text = tags_price.text.strip()
-            text = text.replace('$', '').replace(',', '')
-            first_price = text.split()[0]
-            try:
-                dollars = float(first_price)
-                price = int(dollars * 100)
-            except:
-                price = None
-        print(price)
+        tags_price = tag.select('.s-card__price')
+        print("tags_price=", tags_price)
+        for tag in tags_price: 
+            price = tag.text.strip()
+        print("price=", price)
 
         # status 
         item_status = None 
         tags_status = tag.select('.SECONDARY_INFO')
-        if tags_status:
-            item_status = tags_status.text.strip()
+        for tag in tags_status:
+            item_status = tag.text.strip()
 
         
         # shipping 
