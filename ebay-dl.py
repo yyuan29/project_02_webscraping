@@ -8,6 +8,7 @@ import time
 from playwright.sync_api import sync_playwright
 from undetected_playwright import Tarnished
 from playwright_stealth import Stealth
+import csv
 
 # new html code
 def download_html_and_run_javascript(url):
@@ -87,6 +88,7 @@ def parse_items_sold(text):
 parser = argparse.ArgumentParser(description='Download information from ebay and convert to JSON.')
 parser.add_argument('search_term')
 parser.add_argument('--num_pages', type=int, default=10)
+parser.add_argument('--csv', action='store_true', help='Save output as CSV instead of JSON')
 args = parser.parse_args()
 
 items = []
@@ -159,12 +161,30 @@ for page_number in range(1, int(args.num_pages)+1):
             'items_sold': items_sold,
             })
 
-    #print('len(tags_name)=', len(tags_items))
-    #print('len(tags_freereturns)=', len(tags_freereturns))
-    #pprint.pprint(items)
-    
+    filename_base = args.search_term.replace(" ", "_")
 
-    filename = args.search_term.replace(" ", "_") + ".json"
-    with open(filename, "w") as f: 
-        json.dump(items, f, indent=4)
-    print(f'{len(items)} items are in the .json')
+    if args.csv:
+        filename = filename_base + ".csv"
+
+        with open(filename, "w", newline="") as f:
+            writer = csv.DictWriter(f, fieldnames=[
+                "name",
+                "price",
+                "status",
+                "shipping",
+                "free_returns",
+                "items_sold"
+            ])
+            writer.writeheader()
+            writer.writerows(items)
+
+    else:
+        filename = filename_base + ".json"
+
+        with open(filename, "w") as f:
+            json.dump(items, f, indent=4)
+
+    print(f"{len(items)} items saved to {filename}")
+        
+
+    

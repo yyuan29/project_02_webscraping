@@ -39,12 +39,19 @@ python3 ebay-dl.py iphone
 python3 ebay-dl.py laptop
 python3 ebay-dl.py "stuffed animals"
 ```
+Step 4: If you want to save your findings to the csv files, add the --csv tag. 
+```
+python ebay-dl.py iphone --csv
+python ebay-dl.py laptop --csv
+python ebay-dl.py "stuffed animals" --csv
+```
+
 ## Files in this Repository 
 
 - ebay-dl.py: main scraping script
-- iphone.json: scraped eBay data for iPhone listings
-- stuffed_animals.json: scraped eBay data for stuffed animals listings
-- laptop.json: scraped eBay data for laptop listings 
+- iphone.json (and the .csv equivalent): scraped eBay data for iPhone listings
+- stuffed_animals.json (and the .csv equivalent): scraped eBay data for stuffed animals listings
+- laptop.json (and the .csv equivalent): scraped eBay data for laptop listings 
 
 ## Course Project 
 
