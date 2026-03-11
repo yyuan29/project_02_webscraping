@@ -22,7 +22,7 @@ Step 1: Install the required Python packages if you haven't already:
 pip3 install requests 
 pip3 install beautifulsoup4 
 pip3 install playwright
-upip3 install ndetected-playwright 
+pip3 install ndetected-playwright 
 pip3 install playwright-stealth
 ```
 
@@ -39,6 +39,15 @@ python3 ebay-dl.py iphone
 python3 ebay-dl.py laptop
 python3 ebay-dl.py "stuffed animals"
 ```
+## Files in this Repository 
 
+- ebay-dl.py: main scraping script
+- iphone.json: scraped eBay data for iPhone listings
+- stuffed_animals.json: scraped eBay data for stuffed animals listings
+- laptop.json: scraped eBay data for laptop listings 
+
+## Course Project 
+
+Course project repository: https://github.com/mikeizbicki/cmc-csci040/tree/2026spring/project_02_webscraping
 
 
