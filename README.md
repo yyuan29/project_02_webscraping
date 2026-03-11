@@ -16,17 +16,28 @@ My program automatically skips promotional listings.
 
 ## How to Run the Program 
 
-First install the required Python packages: 
+Step 1: Install the required Python packages if you haven't already: 
 
 ```
-pip3 install requests beautifulsoup4 playwright
-undetected-playwright playwright-stealth
+pip3 install requests 
+pip3 install beautifulsoup4 
+pip3 install playwright
+upip3 install ndetected-playwright 
+pip3 install playwright-stealth
 ```
 
-Install the browser used by Playwright:
+Step 2: Install the browser used by Playwright:
 
 ```
 playwright install
+```
+
+Step 3: Run the scraper from the command line (terminal) with a search term. Example search terms used to generate the JSON files in this repository are iphone, laptop, and stuffed animals. If your search term is more than one word, put it in quotation marks. 
+
+```
+python3 ebay-dl.py iphone
+python3 ebay-dl.py laptop
+python3 ebay-dl.py "stuffed animals"
 ```
 
 
