@@ -1,22 +1,238 @@
 [
     {
-        "name": "Vintage 1991 PIYO PIYO Plush Stuffed Animal Duck in Rooster Suit Japan",
-        "price": "$49.04",
-        "status": "Pre-Owned",
-        "shipping": 6.6224,
-        "free_returns": false,
-        "items_sold": null
-    },
-    {
-        "name": "23cm Tyler Plush Stuffed Figure for Game Fans and Tyler**",
-        "price": "$15.90",
+        "name": "12.5'' Three Toed Sloth Plush Toy Soft Stuffed Animal Doll Lifelike Sloth Plush",
+        "price": "$18.99",
         "status": "Brand New",
         "shipping": 0,
         "free_returns": false,
         "items_sold": null
     },
     {
-        "name": "30Cm And 50cm Toy Story Lotso Cute Bear  Sofa Plush Pillow Stuffed Toys Child",
+        "name": "11\" Maggie Crow Plush Toy Soft Stuffed Animal Doll Cute Crow Bird Plush Pillow",
+        "price": "$18.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "5.5'' Cute Mallard Duck Plush Toy Lifelike Green Duck Stuffed Animal Doll",
+        "price": "$14.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "15'' Brown Plush Teddy Bear Stuffed Animals Toy For Kids Birthday Christmas Gift",
+        "price": "$11.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "New Yarnaby Plush Colorful Lion Plush Toy Doll Harley Sawyer Anime Animal Figure",
+        "price": "$29.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": 36
+    },
+    {
+        "name": "Punch Orangutan Djungeskog Brown Ikea Plush 26in Punch Monkey Plush",
+        "price": "$20.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 26
+    },
+    {
+        "name": "IKEA DJUNGELSKOG Orangutan Soft Toy - Brown (104.028.41) Monkey Plush Toys",
+        "price": "$25.45",
+        "status": "Brand New",
+        "shipping": 4.99,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "17.7\" Ted 2 Movie Teddy Bear w/Apron Plush Soft Stuffed Animals Plush Toy Gift",
+        "price": "$29.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "IKEA DJUNGELSKOG Orangutan Soft Toy Brown (104.028.41)",
+        "price": "$24.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Pokemon 20\" Sprigatito Squishmallow",
+        "price": "$17.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 82
+    },
+    {
+        "name": "Pok\u00e9mon 24\" Plush - Piplup",
+        "price": "$17.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Punch Orangutan Plush 26\u201d Viral Ikea Punch Monkey Toy",
+        "price": "$27.50",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "30CM IKEA AFTONSPARV Alien Plush - Green Kids' Favorite 13 \u00bd\" Soft Toy Anime NEW",
+        "price": "$9.24",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Ditto Transforms as Dragonite Plush Soft Toy Doll Teddy Stuffed Animal 6\"",
+        "price": "$15.78",
+        "status": "Brand New",
+        "shipping": 5.99,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "*FREE SHIP* SPONGEBOB SQUAREPANTS 12in Plush Toy Nickelodeon Cartoon",
+        "price": "$21.25",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 64
+    },
+    {
+        "name": "9.4'' Realistic Crow Plush Toy Cute Black Raven Plushie Soft Stuffed Animal Doll",
+        "price": "$16.99",
+        "status": "Brand New",
+        "shipping": 1.0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "NWT IKEA Orangutan \u201cPunch Monkey\u201d Plush 24\u201d \u2013 Viral & Rare AUTHENTIC DJUNGELSKOG",
+        "price": "$39.49",
+        "status": "Brand New",
+        "shipping": 5.49,
+        "free_returns": false,
+        "items_sold": 88
+    },
+    {
+        "name": "JellyCat Malachy Dragon Large Soft Plush Toys Stuffed Animal 22 in 55cm",
+        "price": "$26.48",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "New Shiny Charizard Plush Toy  12\" Collectible Soft Stuffed Animal Gift for Kids",
+        "price": "$12.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": 17
+    },
+    {
+        "name": "Wemmbu Plush Toys Game 20cm Plushies Stuffed Doll Soft Pillow Cuddly Gifts",
+        "price": "$18.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Punch Orangutan Djungeskog Brown Ikea Plush 26in Punch Monkey Plush",
+        "price": "$25.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Jellycat Gobfrey Whale Shark 40cm Plush 2025 New with Dust Bag & Tag Ultra Soft",
+        "price": "$34.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": 40
+    },
+    {
+        "name": "10\" Pillow Cat Stuffed Animal",
+        "price": "$19.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Punch Orangutan Djungeskog Brown Ikea Plush 26in Punch Monkey Plush",
+        "price": "$26.78",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Poppy Playtime CatNap Bigger Bodies Plush 11.8in Stuffed Animal Toy",
+        "price": "$19.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "New Sealed Squishy Highland Cow New Release TikTok Viral Rare Sold Out",
+        "price": "$24.95",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "20cm Cute Roblox Plush Toy, Soft Game-Inspired Doll, Gift for Fans & Collectors",
+        "price": "$11.78",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "New Shiny Charizard Plush Toy  12\" Collectible Soft Stuffed Animal Gift for Kids",
+        "price": "$10.00",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 70
+    },
+    {
+        "name": "144 Pc Bulk Stuffed Animals 7-9 inch, 16 Assort. Styles - Kids Prizes, GiveAways",
+        "price": "$331.20",
+        "status": "Brand New",
+        "shipping": 16.5,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "9\" French Bulldog Stuffed Animal Realistic White Dog Plush Toy Puppy Doll Toys",
         "price": "$23.99",
         "status": "Brand New",
         "shipping": 0,
@@ -24,24 +240,4024 @@
         "items_sold": null
     },
     {
-        "name": "50cm Simulation Snow Leopard Plush Toy Stuffed Animal Snow Leopard Doll Pillow",
-        "price": "$76.99",
+        "name": "7.8inch Blueberry Plush Toy Soft Stuffed Berry Doll Smiling Fruit Plushies",
+        "price": "$17.99",
         "status": "Brand New",
-        "shipping": 16.99,
+        "shipping": 0,
         "free_returns": false,
         "items_sold": null
     },
     {
-        "name": "Miss Delight 12 Inch Stuffed Animal Plush Toys Toddler Fluffy Dolls Kids Gifts",
-        "price": "$9.99",
+        "name": "72 Pc Small Bulk Stuffed Animals 7 to 9 Inch - Kids Prizes, GiveAways, Favors",
+        "price": "$169.20",
         "status": "Brand New",
-        "shipping": 6.75,
+        "shipping": 16.5,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Jellycat Cobblehop Leopard Bunny Plush Toy Doll Soft Stuffed Gifts With Dust Bag",
+        "price": "$41.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 93
+    },
+    {
+        "name": "Punch From IKEA With Tags REAL NOT FROM CHINA Djungleskog Orangutan Soft Toy",
+        "price": "$46.95",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Jellycat Authentic Lazulia Dragon Soft Toy \u2013 50cm \u2013 With Tag With Dust Bag BNWT",
+        "price": "$42.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": 29
+    },
+    {
+        "name": "Malachy Dragon - RARE - NWT - Stunning Toys Medium Plush Toys**",
+        "price": "$24.99",
+        "status": "Brand New",
+        "shipping": 0,
         "free_returns": true,
         "items_sold": null
     },
     {
-        "name": "FIESTA LIL' BUDDIES  SHARK PLUSH TOY 10 INCH LONG NWT",
-        "price": "$9.89",
+        "name": "12'' Teddy Bear Stuffed Animal Soft Plush Toy Baby Shower Valentine's Day Gift",
+        "price": "$9.87",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "IKEA DJUNGELSKOG Orangutan Soft Toy - Brown (104.028.41)",
+        "price": "$26.98",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "6.2\" Green Frog Plush Toy Lifelike Amphibian Reptilian Stuffed Animal Doll",
+        "price": "$14.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "BRUBAKER XXL Teddy Bear 40 Inches - Plush",
+        "price": "$39.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "2026 NEW Cute Dandy\u2019s World Gourdy Plush Toys Gifts Toys USA",
+        "price": "$14.33",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": 77
+    },
+    {
+        "name": "Wemmbu Plush Toys Game 20cm Plushies Stuffed Doll Soft Pillow Cuddly Gifts",
+        "price": "$16.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Punch Orangutan Djungeskog Brown Ikea Plush 26in Punch Monkey Plush",
+        "price": "$21.49",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "30CM IKEA AFTONSPARV Alien Plush - Green Kids' Favorite 13 \u00bd\" Soft Toy Anime NEW",
+        "price": "$9.79",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Tigey Daniel Tiger's Neighborhood 6.5 Inch Mini Plush Basic Plush Toy Figure NWT",
+        "price": "$13.97",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": 141
+    },
+    {
+        "name": "Cecil the Chicken Plush Toy - Super Soft & Cuddly Stuffed Animal",
+        "price": "$13.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "IKEA AFTONSPARV Alien Plush - Green Kids' Favorite 13 \u00bd\" Soft Toy Anime(30cm)",
+        "price": "$9.50",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Jellycat Opalite Dragon (Large 50 cm) with Tags & Dust Bag !!!Plush Toy Gift!!!",
+        "price": "$48.27",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Angry Rabbit Plush Toy, Large Size Stuffed Bunny, Grumpy Cute Plush Doll",
+        "price": "$9.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Jellycat Timmy Turtle Stuffed Animal: 12\" Ultra-Soft Plush, Perfect Kids' Gift\u3002",
+        "price": "$30.07",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "New Where's Chicky Plush Ultra Soft Stuffed Animal Toy 12in",
+        "price": "$34.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": 119
+    },
+    {
+        "name": "Jellycat LACHLAN SAD RAT Plush Soft Stuffed Toy - Authentic NWT",
+        "price": "$30.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Game cartoon plush doll - Perfect Creature Yarnaby Rainbow-Mane Lion Plush Toy",
+        "price": "$40.00",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Reuben The Rat | 7 Inch Stuffed Animal Plush | By TigerHart Toys",
+        "price": "$9.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 715
+    },
+    {
+        "name": "Ikea 8\" Djungelskog Mini Monkey Orangutan Plush Stuffed Brown Animal Toy",
+        "price": "$12.99",
+        "status": "Brand New",
+        "shipping": 5.95,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Genuine Poppy Playtime CatNap Deluxe Purple Plush (14\u201d) W Tags",
+        "price": "$23.00",
+        "status": "Brand New",
+        "shipping": 11.95,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Dorbin The Deer | 21 Inch Stuffed Animal Plush | By TigerHart Toys",
+        "price": "$24.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 227
+    },
+    {
+        "name": "Scooby Doo Plush Stuffed Animal Exclusive Six Flags Parks 9\" Plush NWT USA SELL",
+        "price": "$15.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "BRUBAKER XXL Teddy Bear 40 Inches - Soft Toy - Plush Cuddly Toy - Beige",
+        "price": "$39.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": 27
+    },
+    {
+        "name": "Morocco Flag Teddy Bear Plush 10\" \u2013 Moroccan Baby Gift Souvenir | Rep Ya Flag",
+        "price": "$55.93",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "BRUBAKER XXL Teddy Bear 40 Inches - Soft Toy - Plush Cuddly Toy - Beige",
+        "price": "$39.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": 27
+    },
+    {
+        "name": "Charlie Bears Botwood | Plush Panda Bear Collectable",
+        "price": "$130.00",
+        "status": "Brand New",
+        "shipping": 12.72,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Morocco Flag Teddy Bear Plush 10\" \u2013 Moroccan Baby Gift Souvenir | Rep Ya Flag",
+        "price": "$55.93",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Amethyst Boo - Bearhouse by Charlie Bears Troll Plush Character Stuffed Toy",
+        "price": "$50.00",
+        "status": "Brand New",
+        "shipping": 12.72,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Scooby Doo Plush Stuffed Animal Exclusive Six Flags Parks 9\" Plush NWT USA SELL",
+        "price": "$15.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Lucas The Spider 6\u201d Plush Stuffed Animal YouTube Toy Snuggle Edition NEW W/TAG",
+        "price": "$13.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "New T-Rex Dinosaur 12 Inch Stuffed Animal Plush Toy Tyrannosaurus Rex",
+        "price": "$13.95",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Pok\u00e9mon TCG: Nuzzle Cheeks Plush Toy Card Display Blind Box (Chinese)",
+        "price": "$31.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Mini Green Space Alien 4\" Ikea AFTONSPARV Plush Stuffed Animal Toy 705.624.31",
+        "price": "$4.99",
+        "status": "Brand New",
+        "shipping": 4.95,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Adopt Me! Pets Cow Plush Animal Uplift Games 2023 Roblox Stuffed Toy NEW w/ CODE",
+        "price": "$11.99",
+        "status": "Brand New",
+        "shipping": 4.0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Chowder Bean Bag Plush Toy 6\u201d - Cartoon Network Stuffed Animal Collectible",
+        "price": "$15.00",
+        "status": "Brand New",
+        "shipping": 5.07,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "GiggleScape Plush Bear",
+        "price": "$15.00",
+        "status": "Brand New",
+        "shipping": 9.26,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Warmies Brown Sloth Plush Animal Microwavable Freezable Lavender Scented NWT",
+        "price": "$9.99",
+        "status": "Brand New",
+        "shipping": 6.8324,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "BRUBAKER XXL Teddy Bear 40 Inches with Hello Baby Heart for Newborn Boys - Plush",
+        "price": "$44.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Game Sebastian Solace Plush Toys 25Cm Dolls Collectible Gifts",
+        "price": "$31.73",
+        "status": "Brand New",
+        "shipping": 9.99,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Rottweiler Dog 20\" Printed Pillow Stuffed Animal Plush Toys Doll Kids Gifts",
+        "price": "$18.93",
+        "status": "Brand New",
+        "shipping": 1.99,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Wild Republic Big Head Anaconda 70\" Snake Childrens Plush Cuddly Soft Toy Animal",
+        "price": "$14.90",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Jellycat Plush Toy With White Seal Galumphous Seal Soft Toy",
+        "price": "$39.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "New River Otter 12 inch Stuffed Animal Plush Toy",
+        "price": "$13.95",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "10\" DJ Catnip Plush Toy Stufed Animal",
+        "price": "$15.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "New Djungelskog MINI Orangutan Plush Ikea Djungelskog Soft Toy 7.75\" 506.061.05",
+        "price": "$19.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Percival The Peregrine Falcon | 9 Inch Stuffed Animal Plush | By TigerHart Toys",
+        "price": "$16.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 145
+    },
+    {
+        "name": "28cm Highland Cow Plush Doll Baby Stuffed Animal Soft Toys Scottish Cow New-USA",
+        "price": "$14.89",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "12\" Armadillo Wild Republic Cuddlekins Stuffed Animal Plush Toy Texas",
+        "price": "$21.95",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Douglas Cuddle Toys Plush Pink Dinosaur Tracie Triceratops",
+        "price": "$12.99",
+        "status": "Pre-Owned",
+        "shipping": 5.77,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "RARE The Muppets Pepe The King Prawn Soft Toy Plush 14 Inches plush toy doll",
+        "price": "$29.00",
+        "status": "Brand New",
+        "shipping": 2.0,
+        "free_returns": false,
+        "items_sold": 71
+    },
+    {
+        "name": "IKEA Branded AFTONSPARV Alien Plush - Green - Genuine  13 \u00bd\" Toy Official - USA",
+        "price": "$27.99",
+        "status": "Brand New",
+        "shipping": 5.52,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Douglas Cuddle Toys 4\" Black Multi Chick # 1515 Stuffed Animal Toy",
+        "price": "$10.95",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Beaver Stuffed Animal 8-inch UltraSoft Plush Toy Pillow for Kids Gifts -Hachibis",
+        "price": "$16.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Sao Tome and Principe Flag Teddy Bear Plush 10\" Baby Gift Souvenir | Rep Ya Flag",
+        "price": "$55.93",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Charlie Bears Fizz Bomb - Cute Pink Plush Collectable Teddy Bear",
+        "price": "$65.00",
+        "status": "Brand New",
+        "shipping": 12.72,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Charlie Bears Rainbows End 2024 | Multicolored Unique Dragon Plush Collectable",
+        "price": "$105.00",
+        "status": "Brand New",
+        "shipping": 12.72,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Olympus The Octopus | 18 Inch Stuffed Animal Plush | By TigerHart Toys",
+        "price": "$21.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 351
+    },
+    {
+        "name": "Bedtime Originals Brown Plush Monkey Stuffed Animal - Ollie",
+        "price": "$14.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Regit The Plush Tiger Toy, 17in Tall Striped Sitting Tiger Stuffed Animal",
+        "price": "$39.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": 74
+    },
+    {
+        "name": "Green Plush 11.8\u201d for Fans and Beautiful Plushies Animal Soft Pillow Gifts Green",
+        "price": "$6.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "IN HAND Orangutan Djungeskog Monkey Brown 26 inch IKEA Plush 10402841 104.028.41",
+        "price": "$44.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Cabin Critters Plush Wolverine Stuffed Animal NEW",
+        "price": "$19.00",
+        "status": "Brand New",
+        "shipping": 6.5024,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Charlie Bears Keylime Pie | Plush Bright Green Teddy Bear Collectable",
+        "price": "$90.00",
+        "status": "Brand New",
+        "shipping": 12.72,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "BRUBAKER Plush Heart Hello Baby 10 Inches for Birth - Light Blue",
+        "price": "$9.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Jellycat Heart Dragon Valentine Limited Edition New with Tags",
+        "price": "$39.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "10'' Plush Teddy Bear Stuffed Animal Doll Soft Plushies Toy Valentine's Day Gift",
+        "price": "$10.39",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "New GIRAFFE 9.5 inch Stuffed Animal Plush Toy",
+        "price": "$13.95",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "30CM IKEA AFTONSPARV Alien Plush - Green Kids' Favorite 13 \u00bd\" Soft Toy Anime NEW",
+        "price": "$9.50",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Doc McStuffins Lambie 7\" Plush NWT USA SELLER",
+        "price": "$19.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Shadow 16\" White Wolf Douglas Cuddle Grey White Plush Stuffed Animal coyote",
+        "price": "$44.50",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 77
+    },
+    {
+        "name": "Mike The Armadillo - 10 Inch Stuffed Animal Plush - by TigerHart Toys",
+        "price": "$23.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Caramel Dog 14 Inch Stuffed Dog - Puppy Stuffed Animal - Doodles the Labradoodle",
+        "price": "$18.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "New in Box Fuggler Fart Face Munch Munch 9\" Funny Ugly Monster ZURU Toy Plush",
+        "price": "$22.95",
+        "status": "Brand New",
+        "shipping": 6.95,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Derpy Blue Tiger Minhwa Plush Toy 20\u201d Large Stuffed Animal Soft Pillow Kids Gift",
+        "price": "$48.50",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Kitten Cat 5 Inch Stuffed Animal Plush Toys Toddler Doll Kids Gifts**",
+        "price": "$9.50",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "New 12 Inch STEGOSAURUS Dinosaur Stuffed Animal Plush Toy",
+        "price": "$13.95",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Gigi The Guinea Pig | 7 Inch Stuffed Animal Plush | By TigerHart Toys",
+        "price": "$9.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 481
+    },
+    {
+        "name": "Iscream Starburst Plush Stuffed Animal with Miniplush toys",
+        "price": "$15.29",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Arrow The Tiger | 17 Inch Stuffed Animal Plush | By TigerHart Toys",
+        "price": "$22.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 776
+    },
+    {
+        "name": "Blessing Otter Plush Toy 12\" Stuffed Animal Toddler Doll Gift for Kids",
+        "price": "$19.95",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "QUICKIE THE RABBIT stuffed animal Weenie Babies/Weenies Erection Collection NEW!",
+        "price": "$15.00",
+        "status": "Brand New",
+        "shipping": 7.0,
+        "free_returns": false,
+        "items_sold": 222
+    },
+    {
+        "name": "10\"  Pandy Paws Plush Toy Stuffed Animal",
+        "price": "$15.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Friday - Charlie Bears Plush Stuffie Collectible Toy",
+        "price": "$62.50",
+        "status": "Brand New",
+        "shipping": 12.72,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "BRUBAKER XXL Teddy Bear 40 Inches - Soft Toy - Plush Cuddly Toy - White",
+        "price": "$39.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Cutie Pet-tudies Mishka Husky Cutie Pet-tudies Wrist Cuff",
+        "price": "$6.00",
+        "status": "Brand New",
+        "shipping": 7.0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "My Singing Monsters Buzzinga Plush Doll Anime Game Monster Collection Doll Toys",
+        "price": "$28.49",
+        "status": "Brand New",
+        "shipping": 5.99,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "BRUBAKER Teddy Plush Bear with Red Heart - Happy Birthday - 9.84 Inches - Plush",
+        "price": "$16.97",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": 49
+    },
+    {
+        "name": "Charlie Bears Anniversary Bronte - Cute Plush Panda Collectable",
+        "price": "$95.00",
+        "status": "Brand New",
+        "shipping": 12.72,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Cheeky Chonks 4.5\" Cheeky Os Reversible Plush *SEE DEAL!!!*",
+        "price": "$11.00",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "10\"  Pandy Paws Plush Toy Stuffed Animal",
+        "price": "$15.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Douglas Ringo Raccoon Plush Toy Stuffed Animal 12\u201d Soft Forest Brown NEW",
+        "price": "$21.95",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": 114
+    },
+    {
+        "name": "Punch Orangutan Djungeskog Brown Ikea Plush 26in Punch Monkey Plush",
+        "price": "$21.98",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "26\u201d Punch Orangutan Monkey Stuffed Plush Animal \u201cNOT FROM IKEA READ DESCRIPTION\u201d",
+        "price": "$27.95",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Blessing Otter Plush Toy 12\" Stuffed Animal Toddler Doll Gift for Kids",
+        "price": "$19.95",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Timmy from Shaun The Sheep Plush White Black Stuff Animal Nanco",
+        "price": "$9.99",
+        "status": "Brand New",
+        "shipping": 5.0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Douglas Ozzy Possum Deluxe Plush Toy Stuffed Animal 13\u201d Opposum Soft Cuddle NEW",
+        "price": "$32.95",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": 59
+    },
+    {
+        "name": "Jellycat Gobfrey Whale Shark 40cm Plush 2025 New with Dust Bag & Tag Ultra Soft",
+        "price": "$34.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Charlie Bears Papplewick - Winter Plush Puppy Dog Collectable Five-Way Jointed",
+        "price": "$162.50",
+        "status": "Brand New",
+        "shipping": 12.72,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "BRUBAKER Teddy Plush Bear with Red Heart - I Love You - 9.84 Inches - Plush",
+        "price": "$17.97",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": 48
+    },
+    {
+        "name": "BRUBAKER Plush Heart 'Happy Birthday' - Red - 13 Inch",
+        "price": "$9.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "NEW Unopen Liila\u2019s Garden Tea Party Mini Pendant Plush Blind box",
+        "price": "$9.74",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Schylling Nee Doh Gummy Bear Squeeze Ball Pink Tear-Resistant Gel Toy TIKTOK",
+        "price": "$22.49",
+        "status": "Brand New",
+        "shipping": 6.99,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Fuggler Spongebob Squarepants 9\" Plush - Spongebob",
+        "price": "$26.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "NEW! Care Bears x Basic Fun | Caring Cuties Plush Vinyl Blind Box | GRUMPY!",
+        "price": "$34.99",
+        "status": "Brand New",
+        "shipping": 5.77,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Iscream Twizzlers Plush: Stuffed Toy, Food-Themed with Mini Plush inside- New!!",
+        "price": "$14.00",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Jellycat Onyx Black Sky Dragon Huge 50CM Plush - BNWT w/ Dust Bag & Gift Tags",
+        "price": "$45.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Gorilla Tag Lemming Monke Plush Official - Brand New + Collectible Card & Code",
+        "price": "$159.99",
+        "status": "Brand New",
+        "shipping": 17.65,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Tiger Stuffed Animal,Cute Realistic Plush Tiger Toy Kids Baby-USA Stock",
+        "price": "$16.79",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Cute Squeaky Black Cat Plush (2-Pack) \u2013 Bag/Keychain Charm, Sweet Couples Gift",
+        "price": "$3.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "11.8 in Amuseables Sports Beach Volley Stuffed Toys Doll Gift",
+        "price": "$34.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Punch Monkey Stuffed Animal,9.84\"Soft Plush Toy,Cuddly Realistic Monkey Plushies",
+        "price": "$39.99",
+        "status": "Brand New",
+        "shipping": 9.99,
+        "free_returns": false,
+        "items_sold": 44
+    },
+    {
+        "name": "Unipak Pony Plush - White Yellow 6\"",
+        "price": "$8.50",
+        "status": "Pre-Owned",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Vintage Walt Disney World Disneyland GOOFY Plush Stuffed Animal Hand Puppet",
+        "price": "$12.00",
+        "status": "Pre-Owned",
+        "shipping": 5.39,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Black Raven Crow Bird 5 inch Stuffed Animal Plush Toy Toddler Doll Kids Gifts",
+        "price": "$23.92",
+        "status": "Brand New",
+        "shipping": 1.99,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "BRUBIES Teddy Elephant - 10 Inch Teddy Bear in Elephant Costume with Hood",
+        "price": "$24.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Octopus Stuffed Animal 8-inch Plush Toy Pillow For Kids",
+        "price": "$16.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Northwest Railway Museum Custom Squishable Plush Stuffed Toy Locomotive 4024",
+        "price": "$24.99",
+        "status": "Brand New",
+        "shipping": 6.0024,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Disney Store NWT Frozen Exclusive Olaf 9 inch Plush NWT USA SELLER",
+        "price": "$15.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": 180
+    },
+    {
+        "name": "Nickelodeon SpongeBob SquarePants PATRICK STAR Stuffed Animal Plush",
+        "price": "$11.95",
+        "status": "Pre-Owned",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Pokemon Litten Plush Toy Wicked Cool Toys WCT 2018 Alola region (DAMAGE)",
+        "price": "$12.00",
+        "status": "Pre-Owned",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Chubby Seal Plush Pillow Cute Stuffed Animal Soft Ocean Toy 13 Inch",
+        "price": "$15.28",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "ADORE 13\" Standing Donna the White Duck with Duckling Plush Stuffed Animal Toy",
+        "price": "$21.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": 167
+    },
+    {
+        "name": "SpongeBob Plush MiraBall, Blind Box Surprise Plushies (1-Pack)",
+        "price": "$9.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Dragon Stuffed Animal 8-inch Pillow Plush Toy For Kids",
+        "price": "$16.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "KIDS PREFERRED Curious George Ice Cream Truck Plush Playset -Check Description!",
+        "price": "$8.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "FurReal Friends Coco the Tumbling Panda Stuffed Animal",
+        "price": "$23.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 444
+    },
+    {
+        "name": "Mattel Minecraft Fox Plush 10\" Mattel Character Dolls NWT USA SELLER",
+        "price": "$16.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "BEAR Alpha plush toy Horror Bear alpha soft toy Bear plush toy Bear doll 11 in",
+        "price": "$38.10",
+        "status": "Brand New",
+        "shipping": 9.0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Brand New Jellycat Clyde Capybara Plush Stuffed Toy",
+        "price": "$39.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "random plush lot",
+        "price": "$11.50",
+        "status": "Pre-Owned",
+        "shipping": 6.0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Extra Large Cuddle Sloth 20 inch by Fiesta New with tag Super Soft",
+        "price": "$22.49",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Seal Sea Lion 9 Inch Stuffed Sea Animal Plush Toys Toddler Doll Kids Gifts",
+        "price": "$18.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Jellycat Amuseables Strawberry Birthday Cake Plush Doll Kids Birthday Gift NWT",
+        "price": "$24.55",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Cartoon Queen Chrysalis Plush Toy 12 inches MLP Pony Horse Stuffed Animal Figure",
+        "price": "$24.99",
+        "status": "Brand New",
+        "shipping": 5.0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Jehlani The Giraffe | 18 Inch Stuffed Animal Plush | By TigerHart Toys",
+        "price": "$21.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 427
+    },
+    {
+        "name": "Ikea Djungelskog 7 3/4\u201d Mini Orangutan Monkey Plush 100% Authentic SHIPS FAST",
+        "price": "$18.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "DJUNGELSKOG Orangutan Soft Toy 66cm Plush Stuffed Animal Hanging Monkey Dolls",
+        "price": "$19.99",
+        "status": "Brand New",
+        "shipping": 2.0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Makeship Original Walten Files Sha Plushie Sheep With Tags, No Bag",
+        "price": "$149.99",
+        "status": "Brand New",
+        "shipping": 5.62,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "ADORE 13\" Yukon the Moose Plush Stuffed Animal Walltoy Wall Mount",
+        "price": "$29.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": 520
+    },
+    {
+        "name": "New Yarnaby Plush Colorful Lion Plush Toy Doll Harley Sawyer Anime Animal Figure",
+        "price": "$30.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "VTG Hugfun International Teddy Bears Lot 3 Plush Jointed Knitted Sweaters Hats",
+        "price": "$17.88",
+        "status": "Pre-Owned",
+        "shipping": 8.0024,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Sunny The Seagull With French Fry Plush Toy Large 20 Inch. NWT",
+        "price": "$27.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": 59
+    },
+    {
+        "name": "BRUBIES Teddy Monkey - 10 Inch Teddy Bear in Monkey Costume with Hood",
+        "price": "$24.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "BRUBAKER Plush Heart 'Love' - Red - 13 Inch",
+        "price": "$9.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "BRUBIES Teddy Monkey - 10 Inch Teddy Bear in Monkey Costume with Hood",
+        "price": "$24.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Charlie Bears Raspberry Ripple | Plush Bright Pink Bunny Rabbit Collectible",
+        "price": "$65.00",
+        "status": "Brand New",
+        "shipping": 12.72,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "BRUBAKER Plush Heart 'Love' - Red - 13 Inch",
+        "price": "$9.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "BRUBAKER Panda Plush Bear with Red Heart - I Love You - 10 Inch -",
+        "price": "$17.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "VTG Hugfun International Teddy Bears Lot 3 Plush Jointed Knitted Sweaters Hats",
+        "price": "$17.88",
+        "status": "Pre-Owned",
+        "shipping": 8.0024,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "New ANIMAL DEN HYENA 10 Inch Stuffed Animal Plush Toy",
+        "price": "$13.95",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Cobblehop Bunny 30cm Brown SoftJellycatToy Plush Doll Gifts Exclusive NWT 2026",
+        "price": "$24.99",
+        "status": "Brand New",
+        "shipping": 11.99,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "NWT Broox Bat Plush Stuffed Animal Soft Black Halloween Decor Kids Gift",
+        "price": "$9.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "ADORE 13\" Boone the Whitetail Deer Stuffed Animal Plush Walltoy Wall Mount",
+        "price": "$29.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": 360
+    },
+    {
+        "name": "18cm Derpy Tiger Plush Toy, Funny Stuffed Animal, Cute Gift for Kids & Collector",
+        "price": "$8.35",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Plush Stuffed Animal Sitting Fennec Fox",
+        "price": "$21.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "The Princess and the Frog ray plush toy doll 20cm",
+        "price": "$21.90",
+        "status": "Brand New",
+        "shipping": 2.0,
+        "free_returns": false,
+        "items_sold": 121
+    },
+    {
+        "name": "Gabby's Dollhouse Talking Pandy Paws 13 Inch Plush Toy with Sounds and Songs",
+        "price": "$8.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "BRUBIES Teddy Unicorn - 10 Inch Teddy Bear in Unicorn Costume with Hood",
+        "price": "$24.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Charlie Bears Papplewick - Winter Plush Puppy Dog Collectable Five-Way Jointed",
+        "price": "$162.50",
+        "status": "Brand New",
+        "shipping": 12.72,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Cutie Pet-tudies Mishka Husky Cutie Pet-tudies Wrist Cuff",
+        "price": "$6.00",
+        "status": "Brand New",
+        "shipping": 7.0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Aphmau MeeMeows Litter 9 Royals Wizard Cat 6\u201d Plush",
+        "price": "$19.99",
+        "status": "Brand New",
+        "shipping": 7.0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Stuffed Animals Net Hammock with LED Light Toy Hammock Net Corner Black Large",
+        "price": "$12.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Unipak Pony Plush - White Yellow 6\"",
+        "price": "$8.50",
+        "status": "Pre-Owned",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Bunny Toy for Kids Hopping Walking Rabbit Toy Interactive Realistic Wiggling Ear",
+        "price": "$10.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Whitaker The Wolf | 18 Inch Stuffed Animal Plush | By TigerHart Toys",
+        "price": "$24.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 102
+    },
+    {
+        "name": "New Yarnaby Plush Colorful Lion Plush Toy Doll Harley Sawyer Anime Animal Figure",
+        "price": "$30.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Jazwares Pok\u00e9mon Soft Plush 8\" Jolteon New with Tag",
+        "price": "$19.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "6\" Cute Amuseables Toilet Paper Roll Doll Toys Valentine's Day gift",
+        "price": "$25.75",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Teen Titans Go! Cyborg 9\u201d Plush Toy New",
+        "price": "$18.95",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Mini Beans Seal Stuffed Animal Plush Toy Cute Animal Popular in Japan",
+        "price": "$33.00",
+        "status": "Brand New",
+        "shipping": 10.0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Jellycat Heart Dragon Plush Valentine Limited Edition NWT Stunning Medium Toys",
+        "price": "$45.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Gabby\u2019s Dollhouse 10\" Cat Plush Pillow \u2013 Purr-fect Stuffed Animal Plushie Doll",
+        "price": "$9.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Octopus Stuffed Animal 8-inch Plush Toy Pillow For Kids",
+        "price": "$16.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "BRUBAKER Rainbow Plush Unicorn in Handbag - 8 Inches - Yellow",
+        "price": "$14.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Amuseables 11.8 in Cute Sports Beach Volley Stuffed Plush Toys Gift",
+        "price": "$34.03",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 89
+    },
+    {
+        "name": "3 Baby Plush Ducklings- Stuffed Plush Animals",
+        "price": "$14.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "7\" Scolipede Plush Soft Stuffed Doll Toy",
+        "price": "$9.80",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Wild Raccoon 15 Inch Stuffed Animal Plush Toys Toddler Doll Kids Gifts",
+        "price": "$18.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": 12
+    },
+    {
+        "name": "Angry Rabbit Plush Toy, 30cm Large Size Stuffed Bunny, Grumpy Cute Plush Doll*",
+        "price": "$16.00",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Punch Orangutan Djungeskog Brown Ikea Plush 66cm Punch Monkey Plush",
+        "price": "$19.97",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Sky Dragon Large Blue Plush Stuffed Animal NWT w/ Dust Bag Jellycat Inspired",
+        "price": "$21.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Jazwares Adopt Me! Collector Plush Unicorn With  Virtual Code",
+        "price": "$46.95",
+        "status": "Brand New",
+        "shipping": 14.65,
+        "free_returns": false,
+        "items_sold": 55
+    },
+    {
+        "name": "New Smudge Monkey NWT with Dust Bag Plush Gift Limited..",
+        "price": "$37.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Soft Elephant Plush Toys Stuffed Elephant Plush Animal Toy 24 INCH",
+        "price": "$17.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "New SEA TURTLE 8 inch Stuffed Animal Plush Toy",
+        "price": "$13.95",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Gorilla Chimpanzee 25 Inch Stuffed Animal Plush Toys Toddler Doll Kids Gift",
+        "price": "$19.19",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": 24
+    },
+    {
+        "name": "Sunny The Seagull With French Fry Plush Toy Large 20 Inch. NWT",
+        "price": "$27.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": 59
+    },
+    {
+        "name": "White Kitten Cat 18 Inch Pillow Stuffed Animal Plush Toys Doll Kids Gifts",
+        "price": "$18.49",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Auswella Plush Hunter 20 Inch Border Collie Plush Stuffed Animal-Border Collies",
+        "price": "$29.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Puppy Stuffed Animal Golden Retriever Dog Soft Plush Toy Birthday Gifts 20.8''",
+        "price": "$12.29",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Squishmallows Original 16-Inch Boyle Blue Fruit Bat Plush Soft Stuffed Animals",
+        "price": "$21.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Pillow Pets 18\" Panda Plush Stuffed Folding Pillow Black White CLEAN",
+        "price": "$22.00",
+        "status": "Pre-Owned",
+        "shipping": 6.37,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Frankie 9\" Grey Fox Soft Douglas Plush Stuffed Animal Red White Silver Cuddle",
+        "price": "$27.50",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Peeps Yellow Chick Squishy Fidget Toy NEW",
+        "price": "$9.99",
+        "status": "Brand New",
+        "shipping": 5.7824,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Douglas Cuddle Meadow the Border Collie #4009 Plush Stuffed Animal Toy",
+        "price": "$13.45",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": 36
+    },
+    {
+        "name": "Smiling Friends Allan 8 inch Plush NWT Jazwares AUTHENTIC From Hot Topic",
+        "price": "$31.69",
+        "status": "Brand New",
+        "shipping": 4.69,
+        "free_returns": false,
+        "items_sold": 29
+    },
+    {
+        "name": "25cm Strawberry  Rabbit Plush Toy | Cute Bunny Stuffed Doll",
+        "price": "$9.49",
+        "status": "Brand New",
+        "shipping": 1.99,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Douglas Cuddle Toys Spud Mixed Breed Mutt Dog #3980 Stuffed Animal Toy",
+        "price": "$13.45",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": 98
+    },
+    {
+        "name": "Pokemon -Cinderace  Plush #815  (ORANGE)",
+        "price": "$39.99",
+        "status": "Brand New",
+        "shipping": 5.0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Cute Baby Seal Plush Toys, 12cm Realistic White Ocean Animal Stuffed",
+        "price": "$8.59",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Black Shiny Charizard Plush Doll Soft Toy Stuffed Animal Teddy 25cm for kids.",
+        "price": "$12.00",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Warmies Brown Sloth - Plush Animal Microwavable Freezable Lavender Scented NWT",
+        "price": "$19.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Timmy Turtle Stuffed Animal: 11\" Ultra-Soft Plush, Perfect Kids' Gift!",
+        "price": "$39.75",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Ceci Plush Donkey- Plush Stuffed Animal",
+        "price": "$29.00",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "DJUNGELSKOG Orangutan Soft Toy - Brown",
+        "price": "$29.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Amuseables Arlette Heart Macaron Red Plush Toy W/ Tags & Dust Bag 15cm**",
+        "price": "$19.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Capybara Stuffed Plushie Toy Capybara Plush Cute Doll Stuffed Animals Gifts 25cm",
+        "price": "$11.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "NEW IKEA DJUNGELSKOG 24\" LARGE PLUSH BROWN MONKEY ORANGUTAN VIRAL JAPAN PUNCH",
+        "price": "$58.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": 47
+    },
+    {
+        "name": "New SEA TURTLE 8 inch Stuffed Animal Plush Toy",
+        "price": "$13.95",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Douglas Cuddle Toys Kaleidoscope Curly Rainbow Bunny Rabbit Plush NEW Soft 12\u201d",
+        "price": "$16.95",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Warmies Brown Sloth - Plush Animal Microwavable Freezable Lavender Scented NWT",
+        "price": "$19.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Zuru Fuggler FuggStars Chunky Mcdunky Red 9 Inch Plush Toy Michael Jordan #23",
+        "price": "$28.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Frankie 9\" Grey Fox Soft Douglas Plush Stuffed Animal Red White Silver Cuddle",
+        "price": "$27.50",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Plush Smart Stationery Pencil Soft Toy 22cm Rare Retired Plush Trending Gifts",
+        "price": "$15.95",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Hero the German Shepherd | 19 Inch Stuffed Animal Plush | By TigerHart Toys",
+        "price": "$19.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 440
+    },
+    {
+        "name": "Trike Plush Youtube ChickenEngineer Dinosaur Simulator Makeship Only 483 RARE!",
+        "price": "$78.00",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Douglas Cuddle Toys Amber Red Fox #1725 Stuffed Animal Toy Brand New",
+        "price": "$17.95",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Rusty Robot Stuffed Animal Plushty",
+        "price": "$35.00",
+        "status": "Brand New",
+        "shipping": 8.72,
+        "free_returns": false,
+        "items_sold": 120
+    },
+    {
+        "name": "Malachy Dragon - RARE - NWT - Stunning Toys Medium Plush Toys**",
+        "price": "$27.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Fuddlewuddle Elephant 23cm/9\" Soft Plush Toy Stuffed Doll Best Gift NWT",
+        "price": "$32.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": 18
+    },
+    {
+        "name": "Fuggler Bigg Fugg Pink Monnster Zuru 18 Inch Plush XL WRINKLE MCSTINKLES NEW",
+        "price": "$36.99",
+        "status": "Brand New",
+        "shipping": 12.99,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Pulse of Potential Sunnie The Sloth Weighted Plush For Anxiety Relief",
+        "price": "$39.99",
+        "status": "Brand New",
+        "shipping": 12.07,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "25cm Caylus Plush Toy Cute Cartoon Figure Plush Doll Game Character Plush Toys",
+        "price": "$11.94",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Jellycat Plush Toy With White Seal Galumphous Seal Soft Toy",
+        "price": "$38.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Elephant & Piggie: Plush Toy, MO Willems",
+        "price": "$21.96",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Toy Gift,Tiger Plush Toy Tiger Plush Stuffed Toy Tiger Stuffed",
+        "price": "$13.43",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Five Nights at Freddy\u2019s FNAF 2 Plush Jazwares 8\" GITD COMPLETE SET OF 5 NWT",
+        "price": "$130.00",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "My Little Pony Sweetie Belle Cartoon Stuffed Animal Figure Plush Soft Toy 12in",
+        "price": "$16.99",
+        "status": "Brand New",
+        "shipping": 6.99,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Just like Punch - IKEA DJUNGELSKOG Orangutan - Brown (104.028.41) Monkey Plush",
+        "price": "$30.00",
+        "status": "Brand New",
+        "shipping": 5.77,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Shadow White Wolf Douglas Cuddle Grey White Plush Stuffed Animal coyote",
+        "price": "$44.50",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 57
+    },
+    {
+        "name": "Frog And Toad Plush Set Of 2 Stuffed Animal Small Sekiguchi NEW US 2026",
+        "price": "$32.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Shorthair Cat 13 Inch Stuffed Animal Plush Toys Toddler Doll Kids Gifts",
+        "price": "$21.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": 20
+    },
+    {
+        "name": "Ludo Plush Stuffed Animal \u2013 9.8\" Soft Toy from Labyrinth Movie | Free Shipping",
+        "price": "$42.95",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "FNF Nene, Pico & Darnell Plush \u2013 Soft Friday Night Funkin Doll Gift",
+        "price": "$28.09",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "\u2705Amuse Bull BasketBall Plush Toy Valentine\u2019s Day Gift 25CM Soft Stuffed Animal\u2705",
+        "price": "$12.69",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "IKEA DJUNGELSKOG Orangutan Soft Toy - Brown",
+        "price": "$35.00",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Deluxe Rainbow Pet Net - Stuffed Animal & Toy Organizer - Hammock blue trim flag",
+        "price": "$9.49",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "25cm Cookie Cat Pillow Plush, Steven Universe Toy, Soft Stuffed Cushion Gift",
+        "price": "$20.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "8\" Rainbow Splatter Spider. Soft, Furry Plush With Hard Eyes. Stuffed Animal.",
+        "price": "$15.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "New SEA TURTLE 11  inch Stuffed Animal Plush Toymazing",
+        "price": "$12.50",
+        "status": "Brand New",
+        "shipping": 7.52,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Large Emperor Penguin Plush Toy 14 inch tall Fiesta  Super Soft NWT",
+        "price": "$17.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Hi-Wire plush 6\" tall Black Squirrel Douglas Cuddle stuffed animal toy rodent",
+        "price": "$14.95",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "KINREX Stuffed Elephant Plush Animal Toys for Baby, Boy, Girls - Blue 9 Inches",
+        "price": "$19.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": 113
+    },
+    {
+        "name": "Punch Orangutan Djungeskog Brown Ikea Plush 26in Punch Monkey Plush",
+        "price": "$26.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "KPOP Demon Hunters 12\" Derpy Plush Doll Toy",
+        "price": "$39.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Disney Moana Soft Doll Plush 20\" Pillowfort Princess Collection Used",
+        "price": "$11.95",
+        "status": "Pre-Owned",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Pokemon Nuzzle Cheeks Plush Card Display Gift Box One Blind Box Chinese",
+        "price": "$35.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Cute Baby Seal Plush Toys, 12cm Realistic White Ocean Animal Stuffed",
+        "price": "$8.59",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Adorable Authentic Medium Blossom Blush Bunny Cherry Plush Toy NWT /Dust Bag P",
+        "price": "$18.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Round Plush Werewolf Angry Teeth Toy Mean Face Funny Claws Stuffed Animal",
+        "price": "$14.99",
+        "status": "Pre-Owned",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Lucas The Spider 6\u201d Plush Stuffed Animal YouTube Toy Soft Brand NEW*",
+        "price": "$7.39",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Masha and the Bear Plush Doll Toy",
+        "price": "$23.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Douglas Tan Natural Lil' Bitty Bunny",
+        "price": "$11.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "NWT Squishmallows 6 Inch Cici Winking Red, Brown Belly Panda Plush Animal Clean",
+        "price": "$10.00",
+        "status": "Brand New",
+        "shipping": 5.62,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "NWT 2.5\" Micromallow by Squishmallow \"Joelle the Bigfoot\" MM2 #327-3",
+        "price": "$10.00",
+        "status": "Brand New",
+        "shipping": 6.0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "YOGI the Plush SPOTTED PIG Stuffed Animal - by Douglas Cuddle Toys - #1540",
+        "price": "$13.00",
+        "status": "Pre-Owned",
+        "shipping": 1.0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "OFFICIAL GANZ WEBKINZ BRAND NEW WITH SEALED TAGS ~ CHOOSE FROM SELECTION **NEW**",
+        "price": "$22.80",
+        "status": "Brand New",
+        "shipping": 13.44,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "One Silly Goose Stuffed Animal, 19.7 Inch Soft Goose Doll Plush Toy Hugging Pill",
+        "price": "$21.79",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Godzilla x Kong \u2013 Godzilla 6\u201d Collectable Plush",
+        "price": "$12.90",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Douglas Koala Softie Plush Stuffed Animal, 11\"",
+        "price": "$23.45",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Jazwares Pok\u00e9mon Soft Plush 8\" Espeon New with Tag",
+        "price": "$24.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Butter Squishy- TikTok Viral Squeeezy Sunny Day: Target Exclusive",
+        "price": "$16.99",
+        "status": "Brand New",
+        "shipping": 5.39,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Capybara Stuffed Plushie Toy Capybara Plush Cute Doll Stuffed Animals Gifts",
+        "price": "$11.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Timmy Turtle Stuffed Animal: 11\" Ultra-Soft Plush, Perfect Kids' Gift!",
+        "price": "$28.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Miffy Kawaii Plush Pillow Cute Bunny Stuffed Toy Soft Doll Room Decor Gift",
+        "price": "$24.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "20\" Hanging Orangutan Plush Toy Cuddly Stuffed Animal Plush Gift For Childrens",
+        "price": "$22.79",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "30cm Cute Fat Orange Plush Cat \u2013 Soft Cartoon Stuffed Animal Plush Toy",
+        "price": "$18.00",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Goose Stuffed Animal Plush Toy, 6 Foot Giant Duck 75-Inch Plush Super Soft Huge",
+        "price": "$61.48",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Godzilla x Kong \u2013 Godzilla 6\u201d Collectable Plush",
+        "price": "$12.90",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Douglas Koala Softie Plush Stuffed Animal, 11\"",
+        "price": "$23.45",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Original IKEA Aftonsparv Plush Stuffed Alien toy 13\"",
+        "price": "$19.99",
+        "status": "Brand New",
+        "shipping": 4.7824,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "10.2IN Jellycat Smudge Monkey Medium NWT with Dust Bag Plush Gift",
+        "price": "$32.66",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Sinclair Australian Shepherd Dog Plush Stuffed Animal",
+        "price": "$70.37",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Kellytoy Giraffe Rattle Plush 11\u201d Stuffed Animal Toy Crinkle Ears",
+        "price": "$16.99",
+        "status": "Pre-Owned",
+        "shipping": 7.0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Lucky Deer Nai Good Night Bunny Vinyl Plush Brown Glitter Eyes Confirmed \ud83c\udf1f\ud83c\udf1f\ud83c\udf1f",
+        "price": "$13.76",
+        "status": "Brand New",
+        "shipping": 8.46,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "25CM/10\" Gabby\u2019s Dollhouse Pandy Paws Plush Toy Stuffed Gift Toy Free Import",
+        "price": "$9.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Douglas Nectar Hummingbird Plush Stuffed Animal Toy, 6\"",
+        "price": "$13.45",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "25cm Amuseables Sandcastle Plush 11.8\u2033 \u2013 Soft Stuffed Toy + Plush toys",
+        "price": "$20.00",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "AMUSEABLE COFFEE BEAN Soft Plush Toy CUTE Stuffed Food Collectible New in Box",
+        "price": "$19.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Levlovs Birthday Mouse Stuffed Animal\uff5cLinen Mouse Toy\uff5cMouse Family\uff5cCotton Mouse",
+        "price": "$24.95",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Ikea 8\" Djungelskog Small Monkey Orangutan Plush Stuffed Brown Animal Toy New",
+        "price": "$27.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": 57
+    },
+    {
+        "name": "Fuggler 9\" Sasquoosh Plush - Lilac",
+        "price": "$18.00",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Happy Feet Interactive Dancing Penguin",
+        "price": "$20.00",
+        "status": "Pre-Owned",
+        "shipping": 10.0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Butter Squishy- TikTok Viral Squeeezy Sunny Day: Target Exclusive",
+        "price": "$16.99",
+        "status": "Brand New",
+        "shipping": 5.39,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Jazwares Pok\u00e9mon Soft Plush 8\" Eevee New with Tag",
+        "price": "$19.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Derpy Blue Tiger Minhwa Plush - 7 Inch Plush",
+        "price": "$6.50",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Wildlife Plush - Hipster",
+        "price": "$14.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Jellycat Amuseables Strawberry Birthday Cake Plush Doll Kids Birthday Gift NWT",
+        "price": "$24.55",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Disney Soft Plush Gravity Falls Dipper Pines 18\" Plush Brand New with Tag",
+        "price": "$39.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": 74
+    },
+    {
+        "name": "Limited Valentines Edition Gigglescape 6\u201d Matcha Latte Plush",
+        "price": "$17.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "SQUISHMALLOW WICKED GLINDA & ELPHABA CLIP-ON PLUSH 3.5\" - LOT OF 2 NEW",
+        "price": "$13.99",
+        "status": "Brand New",
+        "shipping": 4.0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "NWT! Gigglescape 12\u201d Plush Mole W/ Scarf & Spade~Stuffed Animal~SO SOFT!!",
+        "price": "$15.00",
+        "status": "Brand New",
+        "shipping": 8.95,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Hello Kitty Axolotl Plush Toy 9 inch Sanrio Pink Soft Cute Gift NWT",
+        "price": "$19.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": 114
+    },
+    {
+        "name": "Jellycat Onyx Black Sky Dragon Huge 50CM Plush - BNWT w/ Dust Bag & Gift Tags",
+        "price": "$45.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "6 in 1 Capybara Plush Large Capybara Stuffed Animal with Babies Inside, 14.2\"...",
+        "price": "$45.60",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "18\u201d Glowing Cow Plush Stuffed Animal Light Up LED Soft Cuddle Toy Night Light",
+        "price": "$20.00",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Round Plush Werewolf Angry Teeth Toy Mean Face Funny Claws Stuffed Animal",
+        "price": "$14.99",
+        "status": "Pre-Owned",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Hammerhead Shark Dolll Stuffed Animal Plush Toy Sea Shark Plush Doll",
+        "price": "$9.90",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Manhattan Toy Cream Bunny Rabbit Plush 2015 Huggables Daisy Sleeping 15\" NWT",
+        "price": "$19.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Lot of 24 The Original Flip a Zoo 5-Inch Clip-On Plush Toys",
+        "price": "$24.95",
+        "status": "Brand New",
+        "shipping": 8.5,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "New Super Mario Bros Series 10\" King Bowser Koopa Plush Toy Doll Stuffed Animal",
+        "price": "$18.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Disney Parks Ratatouille - Chef Remy Big Feet 14\u201d Plush Toy Stuff Animal Toy",
+        "price": "$36.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 52
+    },
+    {
+        "name": "8.6 \" Lava Gorilla Tag Plush Toy Stuffed Animal For Childrens Educational Gifts",
+        "price": "$35.14",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": 35
+    },
+    {
+        "name": "26\u201d  Adorable Plush Monkey Toy Soft and Huggable Stuffed Animal Plushie",
+        "price": "$29.88",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Squishmallow Kellytoy Plush Limited Squad Eden The Purple Big Foot Yeti 8\" NWT",
+        "price": "$10.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "HTF Original Squishmallows Jettward The Poodle 14\" BNWT Black Dog Puppy Plush",
+        "price": "$29.99",
+        "status": "Brand New",
+        "shipping": 9.992,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Derpy Blue Tiger Minhwa Plush 4.5-Inches Keychain",
+        "price": "$3.50",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Animal Crossing New Horizons Flick 8\" Plush Little Buddy Official Nintendo 1837",
+        "price": "$24.95",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Igor The Iguana | 27 Inch Stuffed Animal Plush | By TigerHart Toys",
+        "price": "$19.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 150
+    },
+    {
+        "name": "Vintage Crocodile Creek Martha Beanbag Plush 6\" 1999 Hippo Whimsical With Tags",
+        "price": "$20.00",
+        "status": "Brand New",
+        "shipping": 6.43,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Baby Shark's Big Show Fin Friend Baby Shark YELLOW Fish 12\" Plush Nickelodeon",
+        "price": "$17.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Eco Pals T-Rex by Wildlife Artists Eco Stuffed Animal Plush Toy",
+        "price": "$14.95",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Stuffed Plush Panda Bear Large Black/White",
+        "price": "$29.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "4x Teletubbies 10\" Plush Doll, Po Dipsy Laa-Laa Tinky Winky Stuffed Animal Gift",
+        "price": "$24.99",
+        "status": "Brand New",
+        "shipping": 6.99,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Douglas Baby Dragon Satin Soft Fleece Wings Plush Stuffed Animal Lovey 14.5\"",
+        "price": "$14.00",
+        "status": "Pre-Owned",
+        "shipping": 4.99,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "AUTHENTIC Jellycat medium smudge monkey- NWT-Christmas gifts",
+        "price": "$33.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": 32
+    },
+    {
+        "name": "NWT Cute Red Gummy Bear Plush 16 Inch Valentine's Day Anniversary Mother\u2019s Day",
+        "price": "$15.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Black Shiny Charizard Plush Doll Soft Toy Stuffed Animal Teddy 25cm for kids.",
+        "price": "$10.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "DreamWorks Trolls Smidge Plush Doll Toy 10\" 2020 NWT",
+        "price": "$14.50",
+        "status": "Brand New",
+        "shipping": 5.77,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "12\" Astro Bot Plush Toy Cute PlayStation Game Robot Character Gift Collectible~",
+        "price": "$18.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "25cm New Foltyn Family Standard Plush Toy Anime Plush Toy Plush Toy Stuffed",
+        "price": "$15.00",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Douglas Cuddle Toys Mr g The Groundhog # 4074 Stuffed Animal Toy",
+        "price": "$12.95",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Punch Orangutan Djungeskog Brown Ikea Plush 26in Punch Monkey Plush",
+        "price": "$26.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "20cm Dart Monkey Plush Toy, Bloons TD Monkey Stuffed Doll, Cute Game Gift**",
+        "price": "$23.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Stuffed Animal Snail Plush Toy Soft Doll Toy Gifts for Kids& ,11''",
+        "price": "$23.95",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "NWT Viral Punch Monkey Plush Toy \u2013 66cm Extra Large Kawaii Soft Stuffed Animal",
+        "price": "$28.89",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Adorable Plush Monkey Toy Soft and Huggable Stuffed Animal Plushie 60cm/24in",
+        "price": "$29.76",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Gourdy Plush Pumpkin Smiling Soft Stuffed Doll Cute Plush Toy free shipping",
+        "price": "$32.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "10.2IN Jellycat Smudge Monkey Medium NWT with Dust Bag Plush Gift",
+        "price": "$35.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Ikea 8\" Djungelskog Mini Monkey Orangutan Plush Stuffed Brown Animal Toy",
+        "price": "$12.99",
+        "status": "Brand New",
+        "shipping": 5.95,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "ADORE 16\" Grooves the Sulcata Tortoise Plush Stuffed Animal Toy",
+        "price": "$26.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Cheeky Chonks 4.5\" Straw-Bootie Reversible Plush *SEE DEAL!!!*",
+        "price": "$11.00",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "30\" Weighted Plush Cow Hug-A-Lumps Series 2 Giant Soft Stuffed Animal w/Tag New",
+        "price": "$68.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Jazwares Pok\u00e9mon Soft Plush 8\" Flareon New with Tag",
+        "price": "$19.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Squishmallows Celebration YAY Bear 12\u201d Plush Birthday Party",
+        "price": "$18.00",
+        "status": "Pre-Owned",
+        "shipping": 1.0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Douglas Mini Dollie Lamb Soft",
+        "price": "$16.95",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Kohl's Cares Doll 18\" Diary of a Wimpy Kid Greg Heffley DOLL NEW NWT",
+        "price": "$9.99",
+        "status": "Brand New",
+        "shipping": 5.77,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "8.5\" Cute Raccoon Plush Toy Super Soft Stuffed Animal Realistic Raccoon For Kids",
+        "price": "$19.94",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Cute Teddy Bear Plush Toy Soft Stuffed Animal Doll 30cm Gift Decor USA seller",
+        "price": "$21.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Tyler and Snowi Plush Stuffed Figure for Game Fans both Tyler and Snowi",
+        "price": "$23.98",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": 44
+    },
+    {
+        "name": "28cm Monster Plush Toy Rare Mammoth Soft Stuffed Animal Birthday Xmas Gift",
+        "price": "$19.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "6.5\" 2012 Wildlife Artists, Inc. Great Horned Owl Plush",
+        "price": "$10.99",
+        "status": "Pre-Owned",
+        "shipping": 5.77,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "30\" weighted plush hug a lumps series 2 soft a giant brand new with tags Duck",
+        "price": "$68.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Vintage Plush Cow Soft Classics ToysRus Stuffed Animal 12\"",
+        "price": "$19.97",
+        "status": "Pre-Owned",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "NEW Kohl's Cares Beekle Unimaginary Friend Dan Santant 12\" Stuffed Plush",
+        "price": "$18.95",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": 44
+    },
+    {
+        "name": "Realistic Simulation Raccoon Plush Model Doll Lovely Furry Animal Gift",
+        "price": "$19.27",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "IKEA DJUNGELSKOG Orangutan Soft Toy - Brown (104.028.41)",
+        "price": "$29.00",
+        "status": "Brand New",
+        "shipping": 11.0,
+        "free_returns": false,
+        "items_sold": 88
+    },
+    {
+        "name": "One Silly Goose Stuffed Animal, 19.7 Inch Soft Goose Doll Plush Toy Hugging Pill",
+        "price": "$21.79",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Baby Shark's Big Show Fin Friend Baby Shark YELLOW Fish 12\" Plush Nickelodeon",
+        "price": "$17.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Gigglescape Valentines Day Snake With Heart Tongue Stuffed Animal Nwt",
+        "price": "$12.99",
+        "status": "Brand New",
+        "shipping": 6.43,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Hello Kitty Axolotl Plush Toy 9 inch Sanrio Pink Soft Cute Gift NWT",
+        "price": "$19.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": 114
+    },
+    {
+        "name": "Cloud Island - Bunny Interactive Plush Toy - New !!",
+        "price": "$9.75",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Cheeky Chonks 4.5\" Toasty Buns Reversible Plush *SEE DEAL!!!*",
+        "price": "$12.00",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Squishable Ant Eater WITH TAGS 11 inch RARE RETIRED, Soft and Adorable",
+        "price": "$35.00",
+        "status": "Brand New",
+        "shipping": 7.52,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "New Cute  20CM Charmeleon Soft Animals Plush Doll For Kids Soft Party Gift",
+        "price": "$12.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Slowy\u2122 Sloth 22 Inches- Stuffed Plush Animal Sloth",
+        "price": "$39.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "1pc 8.66in  Cute Moana Pig Pua Plush Doll with Soft PP Cotton Filling - NEW",
+        "price": "$17.89",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Minions Minion Stuffed Plush Kids Toy NEW Lot of 3 Rise Of Gru Gift Birthday",
+        "price": "$9.79",
+        "status": "Brand New",
+        "shipping": 8.85,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Official Makeship WEBFISHING Game Plush Cat Plushie lamedeveloper Limited 1/8997",
+        "price": "$90.00",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "New Peeps Plush 6\" Green Chick Stuffed Animal Easter",
+        "price": "$11.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "IKEA AFTONSPARV Alien Plush 30cm Green Soft Toy Kids Anime Stuffed Doll",
+        "price": "$7.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "IKEA AFTONSPARV Collection Alien Plush 4\" \u2013 2 Pack \u2013 Cute Mini Travel Buddies!",
+        "price": "$15.97",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Timmy Turtle Plush \u2013 11\u201d Ultra-Soft Stuffed Animal, Ideal Gift for Kids",
+        "price": "$37.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "5\" Kitten Cat Plush Stuffed Animal Toy 5 Inch Soft Kids Gift Cute NWT Birthday!!",
+        "price": "$9.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "NEW - PhatMojo Bee Swarm Simulator Collectible Plush Series 1 -  Tabby Bee, NWT",
+        "price": "$25.00",
+        "status": "Brand New",
+        "shipping": 6.01,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Douglas Cuddle Toys Sootie Grey Dragon 9\" Super Soft Plush",
+        "price": "$17.99",
+        "status": "Pre-Owned",
+        "shipping": 6.99,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Seriously Super-Sized Stuffed CHEESEBURGER Giant Food Plush JUMBO",
+        "price": "$25.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "vintage moose country plush stuffed animals",
+        "price": "$12.00",
+        "status": "Pre-Owned",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Buddie 16\" Iguana Soft Douglas Stuffed Animal Plush Reptile Lizard Toy Aboreal",
+        "price": "$25.95",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Toucan Finger Puppet Plush Toy 3\" Stuffed Animal Toddler Doll Gift for Kids",
+        "price": "$8.70",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Retired 2012 My Pillow Pets Neonz Shaggy Dog Medium Plush \u201c18 CLEAN",
+        "price": "$32.00",
+        "status": "Pre-Owned",
+        "shipping": 6.37,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "New 13 Inch Triceratops Dinosaur Stuffed Animal Plush Toy",
+        "price": "$13.95",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "New BRACHIOSAURUS Dinosaur 15 Inch Stuffed Animal Plush Toy Green",
+        "price": "$14.95",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Jellycat Authentic Medium Blossom Blush Bunny Cherry Plush Toy NWT",
+        "price": "$17.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Cheeky Chonks 4\" Bubble Botea Plush *SEE DEAL!!!*",
+        "price": "$11.00",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Jazwares Pokemon 12\" Blastoise Large Plush (PKW4693) (New with Tags)",
+        "price": "$28.97",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "IKEA Orangutan Punch Monkey Plush 24\u201d NWT Viral 104.028.41 DJUNGELSKOG AUTHENTIC",
+        "price": "$44.66",
+        "status": "Brand New",
+        "shipping": 4.66,
+        "free_returns": false,
+        "items_sold": 13
+    },
+    {
+        "name": "Pizza Rat 6.5\" Macaroon Douglas Cuddle stuffed animal toy rodent foodie mouse",
+        "price": "$18.45",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Flip-A-Zoo, 2 In 1 Stuffed Plush Animals 3\u201d Lot Of 12 Bee, Dog, Dinosaurs",
+        "price": "$19.99",
+        "status": "Brand New",
+        "shipping": 6.0124,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "30CM IKEA AFTONSPARV Alien Plush - Green Kids' Favorite 13 \u00bd\" Soft Toy Anime NEW",
+        "price": "$8.25",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Everest 12\" White Retriever Douglas Golden Plush Stuffed Animal English cream",
+        "price": "$33.95",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "TwCare Rainbow Friends 11.8in Orange Plush Stuffed Soft Gift Boys Grils Birthday",
+        "price": "$6.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": 96
+    },
+    {
+        "name": "IKEA DJUNGELSKOG Mini Orangutan Plush 7 3/4\" Monkey Stuffed Animal Soft Toy",
+        "price": "$21.10",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Tumblie Duck Stuffed Animal - Medium 14\" Soft Plush Toy",
+        "price": "$18.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "NWT Authentic IKEA DJUNGELSKOG Orangutan Plush Monkey 8\u201d 506.061.05(Punch\u2019s Toy)",
+        "price": "$44.97",
+        "status": "Brand New",
+        "shipping": 13.25,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Cat Plush Doll Black Cat Stuffed Animal Doll Cute Cat Doll Birthday Gift",
+        "price": "$18.00",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "TULLY TURTLE Soft Plush Toys Stuffed Animal Dolls - 28cm",
+        "price": "$13.98",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Smudge Monkey Plush Toy 10.2\" Soft Stuffed Animal Birthday Gift",
+        "price": "$30.00",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "10.2IN Jellycat Smudge Monkey Medium NWT with Dust Bag Plush Gift",
+        "price": "$32.89",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 29
+    },
+    {
+        "name": "Bunny Toys for Kids Realistic Rabbit Toys with Jumping Action Wiggling Ears New",
+        "price": "$9.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "18\" Fuggler Sphinx  BIG FUGG Wrinkle McStinkles Hairless Cat Pink Plush ToyXL",
+        "price": "$43.00",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Seriously Super-Sized Stuffed CHEESEBURGER Giant Food Plush JUMBO",
+        "price": "$25.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "RI 20\" Green Alien Soft, Stuffed Plush Kids Chair",
+        "price": "$39.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Mattel - Minecraft Block Plush Stuffed Animal - GRASS BLOCK [3 inch] - New",
+        "price": "$15.89",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Chonky Blob Seal Pillow Toy Stuffed Plush Animal Toy Cute Ocean  (Lg) Gift",
+        "price": "$9.99",
+        "status": "Brand New",
+        "shipping": 8.81,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Goffa Plush Stuffed Animal Hedgehog 18\"",
+        "price": "$22.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Douglas Toys Reindeer Muzzle Plush Stuffed Animal Toy, 7\" long",
+        "price": "$15.95",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Douglas Capybara Cuddle Toy Stuffed Animal Plush Medium Brown Soft",
+        "price": "$10.99",
+        "status": "Pre-Owned",
+        "shipping": 6.5,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Happy Milk Dragon Plush Toy, Cute Fantasy Stuffed Animal, Gift for Fans",
+        "price": "$20.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Pillow Pets Pee Wee Ladybug 11\u201d Red Black MS Lady Bug Soft Stuffed Plush",
+        "price": "$25.00",
+        "status": "Pre-Owned",
+        "shipping": 5.77,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Mini Squishable Valentine's Mothman Set",
+        "price": "$39.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Plush Stuffed Animal Pig Pink",
+        "price": "$19.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "HollyHOME Big Teddy Bear Large Teddy Bear Stuffed Animal Birthday Valentines Day",
+        "price": "$53.96",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "NEW 2026 Five Nights at Freddy\u2019s Toy Bonnie Wave 2 Plush Jazwares 8\" GITD Eyes",
+        "price": "$30.00",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "My blue nose friends NWT smoo highland cow 4\u201d plush NOS",
+        "price": "$35.00",
+        "status": "Brand New",
+        "shipping": 5.07,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Demdaco Heartful Hugs Weighted Monkey- 20 Inches In Length-",
+        "price": "$29.89",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "IKEA DJUNGELSKOG Orangutan Soft Toy - Brown (104.028.41)",
+        "price": "$28.98",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Cheeky Chonks 4\" Bubble Botea Plush *SEE DEAL!!!*",
+        "price": "$11.00",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Retired Manhattan Toy Woodlanders Ollie Hedgehog 12\u201d Stuffed Plush Soft Toy Rare",
+        "price": "$21.75",
+        "status": "Pre-Owned",
+        "shipping": 9.26,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "NWT Jellycat Smudge Monkey Soft Plush Toys Christmas Gifts Medium size 10.2IN",
+        "price": "$31.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "NEW Kohl's Cares Beekle Unimaginary Friend Dan Santant 12\" Stuffed Plush",
+        "price": "$18.95",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": 44
+    },
+    {
+        "name": "12\" Timmy the Turtle Plush Toy With Tags Jellycat Inspired Cute Gift Collectible",
+        "price": "$29.98",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "New! Llama Plush Ninja Classy Llama Gym Douglas Ren's Story Stuffed Animal NWT",
+        "price": "$12.95",
+        "status": "Brand New",
+        "shipping": 6.97,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Zuru Fuggler X The Powerpuff Girls Mojo Jojo Funny Ugly Doll",
+        "price": "$23.99",
+        "status": "Brand New",
+        "shipping": 7.23,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Punch IKEA Djungelskog Orangutan Monkey Ape Plush Stuffed Animal Toy 66cm 26\"NEW",
+        "price": "$45.00",
+        "status": "Brand New",
+        "shipping": 19.99,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "66cm IKEA DJUNGELSKOG Orangutan Soft Toy - Brown",
+        "price": "$25.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Homily Stuffed Elephant Plush Animal Toy 24 INCH With Free Shipping",
+        "price": "$18.00",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Rygel XVI Farscape Movie Plush Stuffed Toy Figure by Toy Vault",
+        "price": "$24.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": 184
+    },
+    {
+        "name": "Adorable Plush Monkey Toy Soft and Huggable Stuffed Animal Plushie For Kids Gift",
+        "price": "$19.91",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": 56
+    },
+    {
+        "name": "IKEA DJUNGELSKOG Orangutan Stuffed Animal 23 1/4\", 104.028.41, Inspired By Punch",
+        "price": "$48.00",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "2 Way To Celebrate! Floral Tropical Print Duck Plush Duck Stuffed Animal Lot 6\u201d",
+        "price": "$17.13",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Butterfly Hand Puppet Plush Toy 13\" Stuffed Animal Toddler Doll Gift for Kids",
+        "price": "$15.49",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Pillow Pet Valentine\u2019s Cat 18\" Plush Red White with Hearts Full-Size Big NWT",
+        "price": "$71.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "10'' Yellow Duck Plush Toy Soft & Cuddly Stuffed Animal For Kids Duck Doll Gift",
+        "price": "$23.74",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "30CM IKEA AFTONSPARV Alien Plush - Green Kids' Favorite 13 \u00bd\" Soft Toy Anime NEW",
+        "price": "$9.00",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Amuseables Horatio Pistachio soft Plush Toy ( 12cm )",
+        "price": "$9.59",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Piplup Squishmallow 12 inch Pok\u00e9mon Center Exclusive Pokemon Plush 12\u201d",
+        "price": "$39.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Amuseables Strawberry Birthday Cake Plush Toys Doll Kids Birthday Gift",
+        "price": "$29.44",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Circo Love and Nature Owl Pillow (#EB6T6)",
+        "price": "$12.99",
+        "status": "Brand New",
+        "shipping": 6.09,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "ZURU Glossies Plush Toy",
+        "price": "$20.00",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "30CM IKEA AFTONSPARV Alien Plush - Green Kids' Favorite 13 \u00bd\" Soft Toy Anime NEW",
+        "price": "$9.44",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Disney Big Hero 6 Baymax Kids' Cuddleez Plush",
+        "price": "$14.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 272
+    },
+    {
+        "name": "30CM IKEA AFTONSPARV Alien Plush - Green Kids' Favorite 13 \u00bd\" Soft Toy Anime NEW",
+        "price": "$7.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "My blue nose friends nwt gossip lizard 4\u201d plush reptile NOS",
+        "price": "$18.00",
+        "status": "Brand New",
+        "shipping": 5.07,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "BRUBIES Teddy Frog - 10 Inch Teddy Bear in Frog Costume with Hood",
+        "price": "$24.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Garten of Banban Syringeon 10 in Plush NWT \u2705",
+        "price": "$21.62",
+        "status": "Brand New",
+        "shipping": 5.77,
+        "free_returns": true,
+        "items_sold": 11
+    },
+    {
+        "name": "20cm Monkey Plush Doll Keychain Bag Pendant Soft Toy",
+        "price": "$9.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "1pc 13.7in Mandrake Plush Toy Soft Stuffed Anime Doll Christmas Gift - NEW",
+        "price": "$16.29",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Oggy Oggy Friends 6-inch Oggy Plush - New with Tag",
+        "price": "$11.90",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": 25
+    },
+    {
+        "name": "Douglas Cuddle Toys Yogi Brown Spotted Pig # 1540 Stuffed Animal Toy",
+        "price": "$13.45",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Gigglescape Whimsical Pilea Plant 6\" Mini Plush NWT",
+        "price": "$9.88",
+        "status": "Brand New",
+        "shipping": 7.5024,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "World Of Eric Carle Blue Horse 12\" Plush Kohl's Cares New With Tag NWT",
+        "price": "$12.99",
+        "status": "Brand New",
+        "shipping": 5.77,
+        "free_returns": false,
+        "items_sold": 39
+    },
+    {
+        "name": "AMUSEABLE PEANUT Authentic Soft Plush Toy Fun***********************************",
+        "price": "$11.00",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "RI 7\" Heirloom Buddy Hyena",
+        "price": "$19.79",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "30CM IKEA AFTONSPARV Alien Plush - Green Kids' Favorite 13 \u00bd\" Soft Toy Anime NEW",
+        "price": "$8.29",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Squishible Mini Tree Stump Plush Toy -NWT",
+        "price": "$21.06",
+        "status": "Brand New",
+        "shipping": 5.62,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Half-asleep Chris Plush Toys Cat Ralph Bella Stuffed Animal Doll Cute Kids Gift",
+        "price": "$27.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Soft Cream Bunny Rabbit Plush Toy Stuffed Animal Doll Medium Cute Gift",
+        "price": "$18.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "30CM IKEA AFTONSPARV Alien Plush - Green Kids' Favorite 13 \u00bd\" Soft Toy Anime NEW",
+        "price": "$9.44",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Disney Big Hero 6 Baymax Kids' Cuddleez Plush",
+        "price": "$14.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 272
+    },
+    {
+        "name": "AMUSEABLE PEANUT Authentic Soft Plush Toy Fun*",
+        "price": "$8.50",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "30CM IKEA AFTONSPARV Alien Plush - Green Kids' Favorite 13 \u00bd\" Soft Toy Anime NEW",
+        "price": "$7.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Small Version Smoko Tayto Potato Gray Short-haired Cat With Taiyaki 9 Inch Plush",
+        "price": "$30.00",
+        "status": "Brand New",
+        "shipping": 5.77,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "My blue nose friends nwt gossip lizard 4\u201d plush reptile NOS",
+        "price": "$18.00",
+        "status": "Brand New",
+        "shipping": 5.07,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Douglas Cuddle Toys Hi-Wire Black Squirrel #4153 Stuffed Animal Toy",
+        "price": "$12.95",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Garten of Banban Syringeon 10 in Plush NWT \u2705",
+        "price": "$21.62",
+        "status": "Brand New",
+        "shipping": 5.77,
+        "free_returns": true,
+        "items_sold": 11
+    },
+    {
+        "name": "Amuseables Strawberry Birthday Cake Plush Toys Doll Kids Birthday Gift",
+        "price": "$29.44",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "40cm Danganronpa Monokuma Black & White Bear Plush Stuffed Toy",
+        "price": "$19.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Jellycat Cat Opalite Dragon Large UK Selfridge Exclusive Stuffed Toys Plush Toy",
+        "price": "$57.32",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Punch Orangutan Djungeskog Monkey Brown 26 inch Ikea Plush 10402841 104.028.41",
+        "price": "$35.00",
+        "status": "Pre-Owned",
+        "shipping": 7.95,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Crazy Fun Sugar Bear Squishies Set 4-Pack New In Box Fast Ship USA Seller",
+        "price": "$11.99",
+        "status": "Brand New",
+        "shipping": 6.43,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "BRUBIES Teddy Frog - 10 Inch Teddy Bear in Frog Costume with Hood",
+        "price": "$24.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Rainbow Friends Plush Toys Purple Plush Stuffed Toy Cartoon Kids Doll Gift New",
+        "price": "$23.89",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "20cm Monkey Plush Doll Keychain Bag Pendant Soft Toy",
+        "price": "$9.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Barbie Teddy Bear Squish  Soft Squishy Stuffed  Animal Plush 2022",
+        "price": "$11.25",
+        "status": "Pre-Owned",
+        "shipping": 9.26,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Oggy Oggy Friends 6-inch Oggy Plush - New with Tag",
+        "price": "$11.90",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": 25
+    },
+    {
+        "name": "1pc 13.7in Mandrake Plush Toy Soft Stuffed Anime Doll Christmas Gift - NEW",
+        "price": "$16.29",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Gigglescape Whimsical Pilea Plant 6\" Mini Plush NWT",
+        "price": "$9.88",
+        "status": "Brand New",
+        "shipping": 7.5024,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "World Of Eric Carle Blue Horse 12\" Plush Kohl's Cares New With Tag NWT",
+        "price": "$12.99",
+        "status": "Brand New",
+        "shipping": 5.77,
+        "free_returns": false,
+        "items_sold": 39
+    },
+    {
+        "name": "The Original Morey\u2019s Piers Sunny the Seagull FLORA Size Small",
+        "price": "$10.00",
+        "status": "Brand New",
+        "shipping": 8.75,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "1pc 10.6\u201311.8in Gingerbread Man Plush Toy Soft Cookie Doll Gift & D\u00e9cor - NEW",
+        "price": "$15.39",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "NEW Squishmallows Ava The Avocado 9\" - Baby Mini Soft Pocket Plush Justice NWT",
+        "price": "$25.00",
+        "status": "Brand New",
+        "shipping": 7.52,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Adorable Authentic Medium Blossom Blush Bunny Cherry Plush Toy NWT /Dust Bag",
+        "price": "$22.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": 18
+    },
+    {
+        "name": "White Plush Stuffed Moose",
+        "price": "$4.50",
+        "status": "Brand New",
+        "shipping": 5.77,
+        "free_returns": false,
+        "items_sold": 11
+    },
+    {
+        "name": "NWT Viral Punch Monkey Plush Toy \u2013 66cm Extra Large Kawaii Soft Stuffed Animal",
+        "price": "$28.90",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "New 20CM Cute Charmeleon Soft Animals Plush Doll For Kids Soft Party Gift",
+        "price": "$12.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "3-Pack bundle Baby Three BB3 Mini Animal Heads Plush Pendant Blind Box",
+        "price": "$14.99",
+        "status": "Brand New",
+        "shipping": 5.77,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Jellycat Cobblehop Leopard Bunny Plush Toy Doll Soft Stuffed Gifts With Dust Bag",
+        "price": "$41.55",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Posh Paws 50128 Gabby's Dollhouse 10\" / 25cm Marty The Party Cat Soft Plush Toy,",
+        "price": "$30.05",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": 194
+    },
+    {
+        "name": "3 Fiesta Stuffed Animals",
+        "price": "$20.00",
+        "status": "Pre-Owned",
+        "shipping": 9.26,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "The Dark Crystal Fizzgig Plushie #71000 Toy Vault 2006 Jim Henson NWT Plush",
+        "price": "$13.49",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "IKEA RARE LARGE AUTHENTIC DJUNGELSKOG Orangutan Plush Soft Toy 24in SHIPS FAST",
+        "price": "$46.00",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Realistic Highland Cow Stuffed Animals Plush White Large Fluffy Cow Valentine's",
+        "price": "$22.43",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Ebba Loppy Giraffe Plush Stuffed Toy Animal",
+        "price": "$10.99",
+        "status": "Pre-Owned",
+        "shipping": 6.5,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Tentacle Kitty Plush Black Midnight 11\" Cat Octopus",
+        "price": "$18.00",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Pokemon 18\" Sleeping Plush Teddiursa",
+        "price": "$17.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 1502
+    },
+    {
+        "name": "Jellycat Onyx Dragon Plush \u2013 Black - RETIRED RARE 50cm - NEW WITH TAGS",
+        "price": "$42.88",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Aphmau MeeMeows 6\u201d Classic Mystery Plush - Love Cat - New - Open Box",
+        "price": "$19.95",
+        "status": "Brand New",
+        "shipping": 5.45,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Stuffed Animals Net Hanging Corner Holder Toy Net Storage with LED Light",
+        "price": "$11.29",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Adorable Albee Bee Spring Plush Toy for Kids Super Soft, Cuddly, and Cute Elepha",
+        "price": "$9.48",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Aphmau MeeMeows 6\u201d Classic Mystery Plush - Lightning Cat - New - Open Box",
+        "price": "$17.95",
+        "status": "Brand New",
+        "shipping": 5.45,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Brightheart - Warrior Cats 11\" Mystery Plush - Factory Sealed - New In Bag!",
+        "price": "$39.99",
+        "status": "Brand New",
+        "shipping": 7.46,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "New 28cm Platypus plush Anime Plush Toy Plush Toy Stuffed Animals Soft Plush*",
+        "price": "$8.70",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "NEW 12\" Plush Hanging Monkey Stuffed Valentine's Day ~ White",
+        "price": "$8.49",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": 93
+    },
+    {
+        "name": "Pete the Cat Plush Doll, 12-Inch , Blue",
+        "price": "$12.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Cute Little Frog Plush Keychain",
+        "price": "$1.65",
+        "status": "Brand New",
+        "shipping": 5.35,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Hammerhead Shark Dolll Stuffed Animal Plush Toy Sea Shark Plush Doll",
+        "price": "$9.90",
         "status": "Brand New",
         "shipping": 0,
         "free_returns": false,
@@ -56,11 +4272,43 @@
         "items_sold": null
     },
     {
-        "name": "IKEA DJUNGELSKOG Orangutan Stuffed Animal 23 1/4\", 104.028.41, Inspired By Punch",
-        "price": "$48.00",
+        "name": "Bluey Friends 2-Pack Plush Floppy & Turtleboy Soft Stuffed Animals Kids Gift 3+\u2b50",
+        "price": "$23.30",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "2X Toy Hammock Kids Toy Net Stuffed Small Animals Organizer Hanging Storage Bath",
+        "price": "$6.54",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Douglas Toys Donna Donkey Muzzle Plush Stuffed Animal Toy, 7\" long",
+        "price": "$15.95",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Hatsune Miku x Cinnamoroll PoteKoro Mascot Plush Keychain x1 Mystery Blind Box",
+        "price": "$12.99",
         "status": "Brand New",
         "shipping": 0,
         "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "New Shiny Charizard Plush Toy  12\" Collectible Soft Stuffed Animal Gift for Kids",
+        "price": "$14.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
         "items_sold": null
     },
     {
@@ -72,82 +4320,290 @@
         "items_sold": 48
     },
     {
-        "name": "New Kohls Cares Lot Of 2 Nancy Tillman Giraffe Elephant 2015 NWT Plush...",
-        "price": "$24.00",
+        "name": "Angry Rabbit Plush Toy, 30cm Large Size Stuffed Bunny, Grumpy Cute Plush Doll*",
+        "price": "$16.49",
         "status": "Brand New",
-        "shipping": 6.85,
+        "shipping": 0,
         "free_returns": false,
         "items_sold": null
     },
     {
-        "name": "Gianni The Guinea Pig - 9 Inch Stuffed Animal Plush - by TigerHart Toys",
-        "price": "$14.99",
+        "name": "Mary Meyer Putty Monkey Plush Stuffed Animal Toy 13\" Light Brown Gray",
+        "price": "$19.97",
+        "status": "Pre-Owned",
+        "shipping": 2.99,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Timmy Turtle Stuffed Animal: 11\" Ultra-Soft Plush, Perfect Kids' Gift!",
+        "price": "$28.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "25cm Caylus Plush Toy Cute Cartoon Figure Plush Doll Game Character Plush Toys",
+        "price": "$15.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Buffy 6\" Brown Goat Douglas Plush Stuffed Animal Cuddle Toy White Doe Buck Billy",
+        "price": "$13.95",
         "status": "Brand New",
         "shipping": 0,
         "free_returns": true,
         "items_sold": null
     },
     {
-        "name": "Smiling Friends Adult Swim Jazwares Charlie 8\" Plush NWT",
-        "price": "$39.95",
+        "name": "Zuru Series 3  Fuggler Funny Ugly Monster Plush Mini Keyring LOT OF 3",
+        "price": "$24.90",
         "status": "Brand New",
-        "shipping": 0,
+        "shipping": 5.77,
         "free_returns": false,
         "items_sold": null
     },
     {
-        "name": "Wild Republic Black & White Plush Sitting Lemur Animal Toy",
-        "price": "$14.99",
+        "name": "Bev 9\" Beaver Plush Stuffed Animal Douglas Cuddle Toy Water Rodent Lovie Doll",
+        "price": "$20.95",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Wild Republic Bobcat Lynx Plush Stuffed Animal Realistic Brown Spotted 9 Inch",
+        "price": "$14.00",
         "status": "Pre-Owned",
-        "shipping": 6.35,
+        "shipping": 9.26,
         "free_returns": false,
         "items_sold": null
     },
     {
-        "name": "Cosplay Phighting Medkit Plush Toy Soft Stuffed Doll Kids Birthday New Gifts",
-        "price": "$23.40",
+        "name": "WILD BABY Microwavable & Weighted Plush Toy - Fox Stuffed Animal",
+        "price": "$19.95",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "21in Large Dog Stuffed Animals Plush Soft Cuddly Golden Retriever Toy Puppy Gift",
+        "price": "$12.29",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Spirit Airlines Daron Promo Plush Toy Jet Plane Stuffed Plush New MT025 NWT",
+        "price": "$19.99",
+        "status": "Brand New",
+        "shipping": 10.26,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Mini Rabbit w/ Big Pointy Teeth Plush Toy, Monty Python Stuffed Evil Bunny",
+        "price": "$19.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": 126
+    },
+    {
+        "name": "Wild Republic Ecokins Sloth Plush Stuffed Animal 12 Inch Embroidered Eyes",
+        "price": "$15.95",
+        "status": "Pre-Owned",
+        "shipping": 7.99,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "25cm Milo Plushie-Cute Soft Stuffed Toy Game Merchandise Doll for Fans & Gifts*",
+        "price": "$13.20",
         "status": "Brand New",
         "shipping": 0,
         "free_returns": false,
         "items_sold": null
     },
     {
-        "name": "20cm Dart Monkey Plush Toy, Bloons TD Monkey Stuffed Doll, Cute Game Gift",
+        "name": "Huggle Healers Sloth Weighted Stuffed Animals for Adults and Kids 4.5 lbs  38\"",
+        "price": "$56.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Milo and Chip Plush Toy 25cm Soft Stuffed Cute Plushie Doll Christmas Gift",
+        "price": "$16.14",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "AMUSEABLE PEANUT Authentic Soft Plush Toy Fun***********************************",
+        "price": "$11.00",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Ikea 8\" Djungelskog Small Monkey Orangutan Plush Stuffed Brown Animal Toy New",
+        "price": "$27.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": 57
+    },
+    {
+        "name": "23cm Tyler Plush Stuffed Figure for Game Fans and Tyler**",
+        "price": "$15.90",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Aphmau MeeMeows 6\u201d Classic Mystery Plush - Dream Cat - New - Open Box",
+        "price": "$19.95",
+        "status": "Brand New",
+        "shipping": 5.45,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Adopt Me! Series 1 Collector 8\" Plush Cow Uplift Games Stuffed Toy W/ CODE NWT",
+        "price": "$14.25",
+        "status": "Brand New",
+        "shipping": 7.52,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Stuffed Animal Hammock Net JUMBO Toy Storage with LED Light Corner Organizer",
+        "price": "$9.95",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Douglas Cuddle Toys Roadie Red Squirrel #3793 Stuffed Animal Toy",
+        "price": "$12.95",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Limited Edition Gigglescape 6\u201d Matcha Latte Cup Plush HTF NEW",
+        "price": "$19.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Aphmau MeeMeows 6\u201d Classic Mystery Plush - Air Cat - New - Open Box",
+        "price": "$17.95",
+        "status": "Brand New",
+        "shipping": 5.45,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "HYOJO ICEE BLUE RASPBERRY And CHERRY Slushie 2026 Blind Box Collectible Plushes",
+        "price": "$20.00",
+        "status": "Brand New",
+        "shipping": 3.5,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Aphmau MeeMeows 6\u201d Classic Mystery Plush - Fire Cat - New - Open Box",
+        "price": "$17.95",
+        "status": "Brand New",
+        "shipping": 5.45,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Disney Pillow Pets Dream Lites - Minnie Mouse Stuffed Animal Plush Toy (Mini 4\")",
+        "price": "$14.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": 286
+    },
+    {
+        "name": "New Cute Miffy Plush Pillow Rabbit 16In Cotton Doll Toy Creative Room Decoration",
+        "price": "$15.00",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Fengtuo International Multicolor Tie Dye 10\" Easter Bunny Dinosaur Plush 2023",
+        "price": "$15.99",
+        "status": "Pre-Owned",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Pepe The Frog Sad Frog Plush Stuffed Animal Toy Stuffed Animal Doll Cuddles NEW",
         "price": "$20.99",
         "status": "Brand New",
         "shipping": 0,
         "free_returns": false,
-        "items_sold": 12
+        "items_sold": null
     },
     {
-        "name": "Punch IKEA Djungelskog Orangutan Monkey Ape Plush Stuffed Animal Toy 66cm 26\"NEW",
-        "price": "$45.00",
+        "name": "Apex Legends NESSIE PLUSH 6\" Stuffed Animal Figure Collectible Toy Green NEW NWT",
+        "price": "$14.97",
         "status": "Brand New",
-        "shipping": 19.99,
+        "shipping": 0,
         "free_returns": false,
         "items_sold": null
     },
     {
-        "name": "65cm Giant Squid Stuffed Animal Plush Toy Plush Squid Stuffed Animal Home Decor",
-        "price": "$26.87",
-        "status": "Brand New",
-        "shipping": 0,
-        "free_returns": true,
+        "name": "Madagascar Penguin Plush Private Derpy Face Character Dreamworks 2005 Nanco 12\u201d",
+        "price": "$23.80",
+        "status": "Pre-Owned",
+        "shipping": 5.77,
+        "free_returns": false,
         "items_sold": null
     },
     {
-        "name": "K Pop Demon Hunters Derpy Tiger Plush 8\" Plushy Doll Stuffed Toy",
-        "price": "$8.99",
+        "name": "Miffy Official Plush Stuffed Animal 15 Inch New With Tags Rabbit",
+        "price": "$24.00",
         "status": "Brand New",
-        "shipping": 0,
+        "shipping": 6.2024,
         "free_returns": false,
-        "items_sold": 12
+        "items_sold": null
     },
     {
-        "name": "Sun Yellow 13 Inch Stuffed Animals Soft Toddler Plush Toys Kids Fluffy Doll Gift",
-        "price": "$6.65",
+        "name": "Gigglescape Christmas Brown Mouse With Green Hat 7\" Soft Plush Toy",
+        "price": "$11.99",
         "status": "Brand New",
-        "shipping": 2.5,
+        "shipping": 5.77,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Culvers Scoopie Ice Cream Cone and 3\u201d Goldie Cheese Curd Plush Lot of 2",
+        "price": "$15.99",
+        "status": "Pre-Owned",
+        "shipping": 5.85,
         "free_returns": false,
         "items_sold": null
     },
@@ -160,33 +4616,97 @@
         "items_sold": null
     },
     {
-        "name": "Douglas Natural Lil' Bitty White Bunny",
-        "price": "$11.99",
+        "name": "Wobbly Life Monster Plush Toy Soft Stuffed Pillow Kids Gift",
+        "price": "$14.47",
         "status": "Brand New",
         "shipping": 0,
         "free_returns": false,
         "items_sold": null
     },
     {
-        "name": "25cm Bibble Plush Toys Cute Soft Stuffed Anime Home Room Decor Dolls For Kid",
-        "price": "$11.98",
+        "name": "Cheburashka Plush Doll Big Eyes Monkey Stuffed ToyCute Pillow for Kids Gift 23CM",
+        "price": "$21.27",
         "status": "Brand New",
         "shipping": 0,
         "free_returns": false,
         "items_sold": null
     },
     {
-        "name": "Scooby Doo Plush Stuffed Animal Exclusive Six Flags Parks 9\" Plush NWT USA SELL",
-        "price": "$16.99",
+        "name": "Palm-Sized Sheep Stuffed Animals Cute Soft Lamb Plush Doll Small Plushies Toys G",
+        "price": "$26.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Emo Capybara Plush By CapyVibe 10\u201d Soft Capybara Plush Funny Gift",
+        "price": "$9.89",
         "status": "Brand New",
         "shipping": 0,
         "free_returns": false,
-        "items_sold": 772
+        "items_sold": null
     },
     {
-        "name": "Douglas Cuddle Toys Stella Black Cat Plush Stuffed Animal 12\u201d #1926.1 **WORN",
-        "price": "$200.00",
+        "name": "RMS Mini Squishy Mystery Dumpling Series 3 Collectible Squishy Fidget Toy",
+        "price": "$9.99",
+        "status": "Brand New",
+        "shipping": 5.2,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Goffa Stuffed Animal Plush Owl",
+        "price": "$22.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Kid Connection Plush Blue Dog 12 in",
+        "price": "$12.00",
         "status": "Pre-Owned",
+        "shipping": 5.62,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Drevnar The Dragon | 29 Inch Stuffed Animal Plush | By TigerHart Toys",
+        "price": "$36.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 141
+    },
+    {
+        "name": "Chirping Chick Toy",
+        "price": "$2.00",
+        "status": "Brand New",
+        "shipping": 10.5,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Love Bunz Incredible Novelties Squishi Valentines Dumplings  LOT OF 2 New",
+        "price": "$35.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Ringtail Cat Soft Recycled Plush Woodland Forest Wildlife Stuffed Animal",
+        "price": "$25.95",
+        "status": "Pre-Owned",
+        "shipping": 6.99,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Stuffed Animal - White Squirrel with Brown Nose - Medium Size",
+        "price": "$9.99",
+        "status": "Brand New",
         "shipping": 5.77,
         "free_returns": false,
         "items_sold": null
@@ -200,240 +4720,8 @@
         "items_sold": null
     },
     {
-        "name": "Douglas Toys Mini Sweetie Soft Rainbow Bunny Stuffed Animal Toy, 6\" sitting",
-        "price": "$16.95",
-        "status": "Brand New",
-        "shipping": 0,
-        "free_returns": true,
-        "items_sold": null
-    },
-    {
-        "name": "Gigglescape Christmas Brown Mouse With Green Hat 7\" Soft Plush Toy",
-        "price": "$11.99",
-        "status": "Brand New",
-        "shipping": 5.77,
-        "free_returns": false,
-        "items_sold": null
-    },
-    {
-        "name": "Nintendo Super Mario Bros. Plush & Toys Mixed Brands And Sizes Bundle Lot",
-        "price": "$99.99",
-        "status": "Pre-Owned",
-        "shipping": 28.94,
-        "free_returns": false,
-        "items_sold": null
-    },
-    {
-        "name": "Eco Nation by Aurora 'Red Fox' Stuffed 6\" Plush Toy",
-        "price": "$11.50",
-        "status": "Pre-Owned",
-        "shipping": 1.0,
-        "free_returns": true,
-        "items_sold": null
-    },
-    {
-        "name": "Bravest Warriors Impossibear 6\" Plush",
-        "price": "$9.99",
-        "status": "Brand New",
-        "shipping": 0,
-        "free_returns": true,
-        "items_sold": null
-    },
-    {
-        "name": "66cm IKEA DJUNGELSKOG Orangutan Soft Toy - Brown",
-        "price": "$25.99",
-        "status": "Brand New",
-        "shipping": 0,
-        "free_returns": false,
-        "items_sold": null
-    },
-    {
-        "name": "Squishmallows Large 24-36 in Gray & White Mouse Plush Doll Stuffed Animal Toy",
-        "price": "$22.50",
-        "status": "Brand New",
-        "shipping": 0,
-        "free_returns": false,
-        "items_sold": null
-    },
-    {
-        "name": "Jellycat Cobblehop Leopard Bunny Plush Toy Doll Soft Stuffed Gifts With Dust Bag",
-        "price": "$41.69",
-        "status": "Brand New",
-        "shipping": 0,
-        "free_returns": true,
-        "items_sold": null
-    },
-    {
-        "name": "ZURU Glossies Plush Toy",
-        "price": "$20.00",
-        "status": "Brand New",
-        "shipping": 0,
-        "free_returns": false,
-        "items_sold": null
-    },
-    {
-        "name": "Demdaco brand plush Panda with baby",
-        "price": "$28.00",
-        "status": "Brand New",
-        "shipping": 7.22,
-        "free_returns": false,
-        "items_sold": null
-    },
-    {
-        "name": "Hello Kitty Axolotl Plush Toy 9 inch Sanrio Pink Soft Cute Gift NWT",
-        "price": "$19.99",
-        "status": "Brand New",
-        "shipping": 0,
-        "free_returns": false,
-        "items_sold": 114
-    },
-    {
-        "name": "2014 Minecraft Brown Reversible 2 in 1 Cow Raw Beef + Sheep Plush Lot Mattel",
-        "price": "$19.95",
-        "status": "Pre-Owned",
-        "shipping": 0,
-        "free_returns": false,
-        "items_sold": null
-    },
-    {
-        "name": "Limited Valentines Edition Gigglescape 6\u201d Matcha Latte Plush  \ud83c\udf75",
-        "price": "$19.99",
-        "status": "Brand New",
-        "shipping": 0,
-        "free_returns": false,
-        "items_sold": null
-    },
-    {
-        "name": "Large Stuffed Monkey Giant Monkey Stuffed Animal Big Stuffed Gorilla Plush Toy f",
-        "price": "$35.49",
-        "status": "Brand New",
-        "shipping": 0,
-        "free_returns": false,
-        "items_sold": null
-    },
-    {
-        "name": "CLYDE CAPYBARA Soft Plush Toy NWT Stuffed Rodent RARE &",
-        "price": "$22.00",
-        "status": "Brand New",
-        "shipping": 0,
-        "free_returns": false,
-        "items_sold": null
-    },
-    {
-        "name": "Marvel Groot Kids' Cuddleez",
-        "price": "$8.99",
-        "status": "Brand New",
-        "shipping": 9.26,
-        "free_returns": false,
-        "items_sold": null
-    },
-    {
-        "name": "Limited Edition Gigglescape 6\u201d Matcha Latte Cup Plush HTF NEW",
-        "price": "$19.99",
-        "status": "Brand New",
-        "shipping": 0,
-        "free_returns": false,
-        "items_sold": null
-    },
-    {
-        "name": "JellyCat Yummy Mouse Soft Plush Toys Gray Stuffed Animal Toy Gift",
-        "price": "$30.99",
-        "status": "Brand New",
-        "shipping": 0,
-        "free_returns": false,
-        "items_sold": null
-    },
-    {
-        "name": "Domo Teddy Bear 6\" Plush",
-        "price": "$29.99",
-        "status": "Brand New",
-        "shipping": 0,
-        "free_returns": true,
-        "items_sold": null
-    },
-    {
-        "name": "Douglas Cuddle Toy 13\" Realistic Beagle Dog Stuffed Animal White Brown Blk Plush",
-        "price": "$21.99",
-        "status": "Pre-Owned",
-        "shipping": 0,
-        "free_returns": false,
-        "items_sold": null
-    },
-    {
-        "name": "New 18\" STINGRAY PLUSH Stuffed Animal Plush Toy",
-        "price": "$13.95",
-        "status": "Brand New",
-        "shipping": 0,
-        "free_returns": true,
-        "items_sold": null
-    },
-    {
-        "name": "Douglas Nectar Hummingbird Plush Stuffed Animal Toy, 6\"",
-        "price": "$13.45",
-        "status": "Brand New",
-        "shipping": 0,
-        "free_returns": true,
-        "items_sold": null
-    },
-    {
-        "name": "Squishmallow Delzi Donkey 5\" Purple Floral Stuffed Animal Toy NEW",
-        "price": "$9.95",
-        "status": "Brand New",
-        "shipping": 0,
-        "free_returns": false,
-        "items_sold": null
-    },
-    {
-        "name": "New Fuggler Alley Cats Ugly Siamese Yawper Kitty Cat 9\" Plush Toy Zuru",
-        "price": "$17.95",
-        "status": "Brand New",
-        "shipping": 5.95,
-        "free_returns": false,
-        "items_sold": null
-    },
-    {
-        "name": "WARRIOR CATS 6\" MINI PLUSH SERIES 1 YELLOWFANG THUNDERCLAN",
-        "price": "$24.50",
-        "status": "Brand New",
-        "shipping": 0,
-        "free_returns": true,
-        "items_sold": null
-    },
-    {
-        "name": "Lot Of 7 Small Stuffed Animals Plushies New With tags",
-        "price": "$16.99",
-        "status": "Brand New",
-        "shipping": 5.0,
-        "free_returns": true,
-        "items_sold": null
-    },
-    {
-        "name": "Emo Capybara Plush By CapyVibe 10\u201d Soft Capybara Plush Funny Gift",
-        "price": "$9.89",
-        "status": "Brand New",
-        "shipping": 0,
-        "free_returns": false,
-        "items_sold": null
-    },
-    {
-        "name": "Xlarge Moose Plush Toy 15 inch Tall Super Soft NWT",
-        "price": "$22.49",
-        "status": "Brand New",
-        "shipping": 0,
-        "free_returns": false,
-        "items_sold": 30
-    },
-    {
-        "name": "Gigglescape Lion Plush Stuffed Animal Toy 12 Inches Zoo Animal Theme",
-        "price": "$9.00",
-        "status": "Pre-Owned",
-        "shipping": 9.26,
-        "free_returns": false,
-        "items_sold": null
-    },
-    {
-        "name": "Squishmallows Kellytoy Plush Wilderness Animal Chip The Beaver 5\" NWT",
-        "price": "$9.99",
+        "name": "2 Koala Bear Plush Clip On Pencil Huggers Australia Wildlife SUPER CUTE!!!!\ud83d\udc28\ud83d\udc28",
+        "price": "$10.99",
         "status": "Brand New",
         "shipping": 0,
         "free_returns": false,
@@ -448,35 +4736,67 @@
         "items_sold": null
     },
     {
-        "name": "30CM IKEA AFTONSPARV Alien Plush - Green Kids' Favorite 13 \u00bd\" Soft Toy Anime NEW",
-        "price": "$7.99",
-        "status": "Brand New",
+        "name": "Aussie Friends Kangaroo Plush Baby Joey 12\u201d Australia Stuffed Animal Soft Toy",
+        "price": "$21.95",
+        "status": "Pre-Owned",
         "shipping": 0,
         "free_returns": false,
         "items_sold": null
     },
     {
-        "name": "Amuseable Fluffy Peach Plush Toy-Valentine's Day gift",
-        "price": "$14.89",
-        "status": "Brand New",
-        "shipping": 0,
+        "name": "Tiny Tukkins 5.5\u201d Plush Mommy Fox Miniature Plush Stuffed Animal Toy Doll",
+        "price": "$4.99",
+        "status": "Pre-Owned",
+        "shipping": 5.92,
         "free_returns": false,
         "items_sold": null
     },
     {
-        "name": "Bedtime Originals Construction Zone Plush Dump Truck Stuffed Toy - Gray/Yellow",
-        "price": "$19.99",
-        "status": "Brand New",
-        "shipping": 0,
-        "free_returns": false,
-        "items_sold": null
-    },
-    {
-        "name": "Sheriff Labrador Plush Toy Soft Police Dog Doll Stuffed Animal Kids Gift",
-        "price": "$21.69",
+        "name": "Douglas Toys Shasta Squirrel Plush Stuffed Animal Toy, 5\"",
+        "price": "$13.95",
         "status": "Brand New",
         "shipping": 0,
         "free_returns": true,
+        "items_sold": 69
+    },
+    {
+        "name": "EARL THE DEAD CAT Plush Toy Reissue NWT",
+        "price": "$24.99",
+        "status": "Brand New",
+        "shipping": 11.95,
+        "free_returns": false,
+        "items_sold": 200
+    },
+    {
+        "name": "Plush - Hello Kitty and Friends - Axolotl Sealife Costume Cosplay 6\" Toy Doll",
+        "price": "$16.95",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Aphmau MeeMeows 6\u201d Classic Mystery Plush - Water Cat - New - Open Box",
+        "price": "$17.95",
+        "status": "Brand New",
+        "shipping": 5.45,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Cosplay Phighting Medkit Plush Toy Soft Stuffed Doll Kids Birthday New Gifts",
+        "price": "$23.40",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Half Asleep Chris Plush Toys Cat Ralph Bella Stuffed Animal Doll Cute Kids Gift",
+        "price": "$18.34",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
         "items_sold": null
     }
 ]

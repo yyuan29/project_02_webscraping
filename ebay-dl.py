@@ -89,7 +89,7 @@ parser.add_argument('search_term')
 parser.add_argument('--num_pages', type=int, default=10)
 args = parser.parse_args()
 
-
+items = []
 for page_number in range(1, int(args.num_pages)+1):
 
     # build the url
@@ -104,8 +104,7 @@ for page_number in range(1, int(args.num_pages)+1):
     html = download_html_and_run_javascript(url)
 
     # process the html
-    soup = BeautifulSoup(html,'html.parser')
-    items = [] 
+    soup = BeautifulSoup(html,'html.parser') 
 
     tags_items = soup.select('li.s-card, li.s-item')
     item = {}

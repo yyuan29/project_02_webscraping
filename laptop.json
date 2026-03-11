@@ -1,0 +1,4802 @@
+[
+    {
+        "name": "Dell Latitude 7390 13.3\" HD Laptop Core i5 16GB RAM 256GB SSD Windows 11 WiFi",
+        "price": "$206.78",
+        "status": "Good - Refurbished \u00b7 Dell",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 255
+    },
+    {
+        "name": "Dell Latitude 14\" Laptop Computer Intel i5 Up To 32GB RAM 1TB SSD Windows 11 Pro",
+        "price": "$545.25",
+        "status": "Good - Refurbished",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 94
+    },
+    {
+        "name": "Dell Latitude Laptop Computer PC Intel i5 Up To 32GB RAM 1TB SSD Windows 11",
+        "price": "$547.02",
+        "status": "Good - Refurbished",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 54
+    },
+    {
+        "name": "14\" FHD TouchScreen Dell Laptop PC: Intel i5 Quad Core! 16GB RAM, 256GB NVME SSD",
+        "price": "$257.00",
+        "status": "Excellent - Refurbished \u00b7 Dell",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 208
+    },
+    {
+        "name": "Acer Swift Go 14\" Laptop Intel Core Ultra 7 155H 16GB RAM 1TB SSD Refurbished",
+        "price": "$371.99",
+        "status": "Certified - Refurbished \u00b7 Acer \u00b7 1 TB",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 2959
+    },
+    {
+        "name": "HP X360 G2 EE 11\" Laptop Windows 11 Pro Touch Screen 2 in 1  Bundle Gift Set",
+        "price": "$85.00",
+        "status": "Pre-Owned \u00b7 HP \u00b7 32 GB",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": 360
+    },
+    {
+        "name": "Lenovo 100e Chromebook 2nd Gen MTK 11.6\" 32GB 4GB Laptop RESET Tested",
+        "price": "$26.95",
+        "status": "Pre-Owned \u00b7 Lenovo \u00b7 32 GB",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 737
+    },
+    {
+        "name": "Dell Latitude 5420 14\u201d FHD Intel i5 11th Gen 16GB RAM 512GB NVMe SSD Windows 11",
+        "price": "$266.48",
+        "status": "Good - Refurbished \u00b7 Dell",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 179
+    },
+    {
+        "name": "Acer Nitro V 16\" Laptop R5 16GB RAM 512GB SSD NVIDIA GeForce RTX5050 Refurbished",
+        "price": "$624.02",
+        "status": "Certified - Refurbished \u00b7 Acer \u00b7 512 GB",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 963
+    },
+    {
+        "name": "Dell Latitude 5400 14\" Laptop Intel Core i5 8th Gen 4GB RAM 128GB SSD Windows 11",
+        "price": "$105.00",
+        "status": "Pre-Owned \u00b7 Dell",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Acer Aspire AI 14\" Touch Laptop Intel Core Ultra 5 16GB RAM 1TB SSD Refurbished",
+        "price": "$371.99",
+        "status": "Certified - Refurbished \u00b7 Acer",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 1263
+    },
+    {
+        "name": "Dell Latitude 5520 i5 8GB 512GB SSD Business Laptop WiFi Webcam",
+        "price": "$155.00",
+        "status": "Pre-Owned \u00b7 Dell",
+        "shipping": 12.0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Asus Touch Chromebook Flip 14\" i3 1.80GHz/8GB/128GB SSD CX5400FM - w/Warranty",
+        "price": "$139.50",
+        "status": "Good - Refurbished \u00b7 ASUS",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 908
+    },
+    {
+        "name": "Dell Latitude 5450 - Core Ultra 5 135U - 32GB RAM - 512GB SSD - WARRANTY to 4/29",
+        "price": "$640.00",
+        "status": "Open Box \u00b7 Dell \u00b7 512 GB",
+        "shipping": 21.34,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Windows 11 PRO Laptop Notebook PC Computer, 8GB Ram, Webcam, Wifi, and HDMI",
+        "price": "$144.00",
+        "status": "Pre-Owned \u00b7 250 GB",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 1312
+    },
+    {
+        "name": "Dell Latitude 14\" Laptop PC Intel i5 Quad-Core 16GB RAM 256GB SSD Windows 11",
+        "price": "$215.55",
+        "status": "Good - Refurbished \u00b7 Dell \u00b7 256 GB",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 103
+    },
+    {
+        "name": "Dell Latitude Touchscreen 11.6\" Laptop Pentium 4GB RAM 128GB SSD Windows 11 WiFi",
+        "price": "$124.99",
+        "status": "Good - Refurbished \u00b7 Dell",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 573
+    },
+    {
+        "name": "LENOVO Ideapad 14W, 81MQ, Touchscreen, AMD A6-9220C, 8GB RAM, 256GB, WIN 11 OS",
+        "price": "$114.00",
+        "status": "Pre-Owned \u00b7 Lenovo \u00b7 256 GB",
+        "shipping": 9.95,
+        "free_returns": false,
+        "items_sold": 306
+    },
+    {
+        "name": "HP EliteBook 845 G8 14\" FHD AMD Ryzen 5 PRO 5650U 16GB 256GB SSD W11P Laptop SL",
+        "price": "$278.00",
+        "status": "Certified - Refurbished \u00b7 HP",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 38
+    },
+    {
+        "name": "Acer Nitro V 16 AI 16\" Gaming Laptop 16GB RAM 512GB SSD  ANV16-42-R1SF",
+        "price": "$650.99",
+        "status": "Certified - Refurbished \u00b7 Acer \u00b7 512 GB",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 84
+    },
+    {
+        "name": "Acer Aspire 14 AI Laptop 14\" Ultra 7 258V 32GB LPDDR5X RAM 1TB SSD Refurbished",
+        "price": "$517.07",
+        "status": "Certified - Refurbished \u00b7 Acer",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 407
+    },
+    {
+        "name": "Dell Latitude 3510 i5 8GB 512GB SSD Business Laptop WiFi Webcam",
+        "price": "$109.00",
+        "status": "Pre-Owned \u00b7 Dell",
+        "shipping": 12.0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Dell Chromebook 3100 (11.6\", Intel Celeron, 4GB RAM, 16GB, ChromeOS)  NO Charger",
+        "price": "$25.99",
+        "status": "Pre-Owned \u00b7 Dell",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": 847
+    },
+    {
+        "name": "Dell Latitude 5420 14\" Touch Laptop i5-1145G7 16GB RAM 256GB SSD Windows 11 Pro",
+        "price": "$198.95",
+        "status": "Pre-Owned \u00b7 Dell \u00b7 256 GB",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": 417
+    },
+    {
+        "name": "Dell Latitude 3190 2 in 1 11.6\" Intel N5030 @1.10GHz 4GB 128GB SSD ***",
+        "price": "$67.00",
+        "status": "Pre-Owned \u00b7 Dell \u00b7 128 GB",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": 135
+    },
+    {
+        "name": "[90% NEW] AOC 15.6\" Laptop Intel N97 16GB DDR4 RAM 512GB SSD WIFI BT win11 Pro",
+        "price": "$209.99",
+        "status": "Certified - Refurbished \u00b7 Acemagic",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 86
+    },
+    {
+        "name": "Dell Latitude 14\u201d Business Laptop Intel Core i5 16GB RAM 256GB SSD Win 11 WiFi",
+        "price": "$258.06",
+        "status": "Good - Refurbished \u00b7 Dell",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Dell Touchscreen Chromebook 3100 11\" Celeron 1.1GHz/4GB/32GB P30T001 w/Warranty",
+        "price": "$45.57",
+        "status": "Good - Refurbished \u00b7 Dell",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 1057
+    },
+    {
+        "name": "Dell Latitude 5320 13.3\" Touch 2-in-1 Laptop Core i7 16GB RAM 256GB SSD Win 11",
+        "price": "$303.74",
+        "status": "Good - Refurbished \u00b7 Dell",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 182
+    },
+    {
+        "name": "Dell Latitude 5450 - Core Ultra 5 135U - 32GB RAM 512GB SSD - WARRANTY 4/2029!",
+        "price": "$600.00",
+        "status": "Pre-Owned \u00b7 Dell \u00b7 512 GB",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "~WORK FROM HOME~ 14\" Lenovo ThinkPad Laptop: i5 8th Gen! 16GB RAM ~ 256GB SSD!",
+        "price": "$255.41",
+        "status": "Good - Refurbished \u00b7 Lenovo",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 13
+    },
+    {
+        "name": "~Gadgets Pick~ 14\" FHD Dell Laptop PC: Intel i5 Quad Core! 8GB RAM, 256GB SSD!",
+        "price": "$199.76",
+        "status": "Excellent - Refurbished \u00b7 Dell",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 105
+    },
+    {
+        "name": "Lenovo Slim 7i 14\" Laptop OLED Touchscreen Core Ultra 7 258V 32GB 1TB Win11 Home",
+        "price": "$703.99",
+        "status": "Excellent - Refurbished \u00b7 Lenovo",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "HP EliteBook 845 G8 Gaming Laptop Ryzen 5 PRO 5650U 16GB 256GB Windows 11 Pro",
+        "price": "$249.99",
+        "status": "Excellent - Refurbished \u00b7 HP",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 64
+    },
+    {
+        "name": "ACEMAGIC 16\" FHD Laptop Intel 12th N97 16GB RAM 512GB M.2 SSD 5G WIFI 1080P BT",
+        "price": "$228.99",
+        "status": "Certified - Refurbished \u00b7 Acemagic",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "ASUS - Vivobook 14 14\" FHD Laptop - Intel Core 5 120U with 8GB Memory - 256GB...",
+        "price": "See price",
+        "status": "Brand New \u00b7 ASUS",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": 457
+    },
+    {
+        "name": "Lenovo ThinkPad T480 14\" HD i5 8250u 16GB 256gb NVME WIFI CAM WIN 11 PRO laptop",
+        "price": "$299.99",
+        "status": "Excellent - Refurbished \u00b7 Lenovo \u00b7 256 GB",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 1222
+    },
+    {
+        "name": "HP Laptop Computer PC Workstation Gaming Core I7 32GB 1TB Windows 11 PRO OFFICE!",
+        "price": "$429.99",
+        "status": "Pre-Owned",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Dell Latitude 7340 13.3\u201d FHD Laptop Core i5 4.7GHz 16GB RAM 128GB SSD Win 11 Pro",
+        "price": "$333.13",
+        "status": "Excellent - Refurbished \u00b7 Dell",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 90
+    },
+    {
+        "name": "Dell Latitude 14\" FHD Laptop Quad-Core i5 4.4GHz 16GB RAM 256GB SSD Windows 11",
+        "price": "$255.62",
+        "status": "Good - Refurbished \u00b7 Dell",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 189
+    },
+    {
+        "name": "Acer Chromebook 514 14 NB FHD Intel i3-N305 8GB RAM 512GB SSD Refurbished",
+        "price": "$185.99",
+        "status": "Certified - Refurbished \u00b7 Acer",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 1062
+    },
+    {
+        "name": "NIMO15.6\" Laptop Intel Pentium Quad Core N100 8GB Memory 128GB SSD Fingerprint",
+        "price": "$149.99",
+        "status": "Open Box \u00b7 128 GB",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 127
+    },
+    {
+        "name": "Acer Aspire 16 Laptop 16\" WUXGA Snapdragon X Plus 16GB RAM 512GB SSD Refurbished",
+        "price": "$387.80",
+        "status": "Certified - Refurbished \u00b7 Acer",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Acer Nitro V 15.6\" Laptop i5-13420H 16GB RAM 512GB SSD 8GB RTX 5050 Refurbished",
+        "price": "$650.99",
+        "status": "Certified - Refurbished \u00b7 Acer",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 144
+    },
+    {
+        "name": "Lenovo ThinkPad T480s 14\" Laptop i5 8th Gen 256gb NVME 16GB RAM Win 11 Pro FHD",
+        "price": "$299.99",
+        "status": "Excellent - Refurbished \u00b7 Lenovo \u00b7 256 GB",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 1027
+    },
+    {
+        "name": "Dell Latitude Laptop PC 11.6\" HD Intel Celeron 4GB RAM 64GB SSD Windows 11",
+        "price": "$109.99",
+        "status": "Good - Refurbished \u00b7 Dell",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 2485
+    },
+    {
+        "name": "Dell Latitude 15.6\u201d FHD Laptop Intel Core i7 32GB RAM 512GB SSD Windows 11 Pro",
+        "price": "$441.04",
+        "status": "Good - Refurbished \u00b7 Dell",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Dell 3100 2-in-1 Touchscreen Laptop Windows 11 Installed Thanks Giving Gift Set",
+        "price": "$90.00",
+        "status": "Pre-Owned \u00b7 Dell \u00b7 32 GB",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": 105
+    },
+    {
+        "name": "Acer Aspire Go 15 15.6\" Laptop AMDRyzen5 16GB RAM 1TB SSD AG15-21PT Refurbished",
+        "price": "$308.75",
+        "status": "Certified - Refurbished \u00b7 Acer",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 141
+    },
+    {
+        "name": "Lenovo Thinkpad T460 Laptop Intel Core i5 8GB RAM 256GB Drive Windows 11 Pro",
+        "price": "$115.00",
+        "status": "Pre-Owned \u00b7 Lenovo \u00b7 256 GB",
+        "shipping": 7.25,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "2026 HP Laptop Computer 15.6\" Touch 10-Core Intel i5 Up 64GB RAM 2TB SSD Win Pro",
+        "price": "$1,269.00",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Dell Chromebook 3100 2in1 Touch Screen Intel Celeron 4GB RAM 32GB Touchscreen !!",
+        "price": "$46.28",
+        "status": "Pre-Owned \u00b7 Dell \u00b7 32 GB",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": 493
+    },
+    {
+        "name": "HP ProBook Laptop 14\" HD Intel Core i5 16GB RAM 256GB SSD Windows 11 WiFi HDMI",
+        "price": "$215.55",
+        "status": "Good - Refurbished \u00b7 HP",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 745
+    },
+    {
+        "name": "HP Chromebook 11 G7 11.6\" Intel 2.60 GHz 4 GB RAM 32 GB eMMC Bluetooth Webcam SD",
+        "price": "$75.99",
+        "status": "Very Good - Refurbished",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 248
+    },
+    {
+        "name": "2026 Lenovo IdeaPad Laptop Notebook 15.6\" Intel Processor Up to 20GB RAM 1TB SSD",
+        "price": "$579.00",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "ASUS VivoBook Laptop Intel Core Ultra 7 256V 16GB 1 TB SSD 14\" Touch W11H",
+        "price": "$591.99",
+        "status": "Excellent - Refurbished \u00b7 ASUS",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 101
+    },
+    {
+        "name": "Lenovo V15 G4 15.6\" FHD Laptop Intel i5-13420H 16GB/512GB Win11H 83A100PSUS",
+        "price": "$369.99",
+        "status": "Pre-Owned \u00b7 Lenovo",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "HP 11\" X360 G1 EE 2-in-1 Laptop Windows 11 Pro Touch Screen 2in1 Christmas",
+        "price": "$85.00",
+        "status": "Pre-Owned \u00b7 HP \u00b7 32 GB",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": 68
+    },
+    {
+        "name": "HP ProBook 650 G4 Laptop 15.6\u201d HD 4-Core i5 16GB RAM 256GB SSD Windows 11 WiFi",
+        "price": "$268.04",
+        "status": "Good - Refurbished \u00b7 HP",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 149
+    },
+    {
+        "name": "Dell Latitude 7300 13.3\" Business Laptop Core i5 8GB RAM 256GB SSD Windows 11",
+        "price": "$195.96",
+        "status": "Good - Refurbished \u00b7 Dell",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 63
+    },
+    {
+        "name": "~Gadgets Pick~ 14\" FHD Dell Laptop PC: Intel i5 Quad Core! 8GB RAM, 256GB SSD!",
+        "price": "$199.76",
+        "status": "Excellent - Refurbished \u00b7 Dell",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 105
+    },
+    {
+        "name": "14\" Dell Laptop PC: TouchScreen! FHD 1080P! Backlit Keyboard! Windows 11 Pro!",
+        "price": "$199.69",
+        "status": "Excellent - Refurbished \u00b7 Dell",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 112
+    },
+    {
+        "name": "Windows XP PRO SP3 32 Bit Laptop Notebook PC Computer w/ DVD USB FREE SHIPPING",
+        "price": "$149.99",
+        "status": "Pre-Owned \u00b7 40 GB",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 209
+    },
+    {
+        "name": "14\" Lenovo Laptop PC: AMD Ryzen 5 Pro-3500U! 8GB RAM, 256GB NVME SSD! Win 11!",
+        "price": "$219.59",
+        "status": "Good - Refurbished \u00b7 Lenovo",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 124
+    },
+    {
+        "name": "Asus Vivobook 15.6\" FHD Touchscreen Laptop Core 5-120U 12GB/512GB 90NB13Y2-M0095",
+        "price": "$309.98",
+        "status": "Good - Refurbished \u00b7 ASUS",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 95
+    },
+    {
+        "name": "HP Chromebook X360 11 G1 EE N3350 1.1ghz 4GB 32GB 11.6\" Touch 2-in-1 Laptop READ",
+        "price": "$38.00",
+        "status": "Pre-Owned \u00b7 HP \u00b7 32 GB",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": 97
+    },
+    {
+        "name": "Dell Latitude 14\" FHD Laptop Quad-Core i5 4.4GHz 16GB RAM 256GB SSD Windows 11",
+        "price": "$255.62",
+        "status": "Good - Refurbished \u00b7 Dell",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 189
+    },
+    {
+        "name": "Samsung - Galaxy Book4 15.6\" FHD Laptop - Intel Core 7- 16GB Memory - 512GB S...",
+        "price": "See price",
+        "status": "Brand New \u00b7 Samsung",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": 4867
+    },
+    {
+        "name": "ASUS ROG Ally 7\" 120Hz FHD Touch AMD Ryzen Z1 16GB 512GB SSD W11H Gaming Console",
+        "price": "$399.00",
+        "status": "Certified - Refurbished \u00b7 ASUS",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 511
+    },
+    {
+        "name": "Acer Nitro V 15 Laptop ANV15-52-586Z Intel i5-13420H RTX 3050 8GB RAM 512GB SSD",
+        "price": "$576.59",
+        "status": "Certified - Refurbished \u00b7 Acer \u00b7 512 GB",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 104
+    },
+    {
+        "name": "MSI Katana 15 HX B14WEK-001US 15.6\" Gaming Laptop i7-14650HX 5050 16GB 512GB",
+        "price": "$789.00",
+        "status": "Certified - Refurbished \u00b7 MSI",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 160
+    },
+    {
+        "name": "14\" HP ProBook Laptop: Intel i5 (8GB RAM - 256GB M.2 SSD) Zorin Core Edition!",
+        "price": "$157.89",
+        "status": "Good - Refurbished \u00b7 HP",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 99
+    },
+    {
+        "name": "Dell Inspiron 15 3535 Laptop AMD Ryzen 7 7730U 16GB 512GB SSD 15.6\" FHD Touch",
+        "price": "$374.00",
+        "status": "Certified - Refurbished \u00b7 Dell",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 426
+    },
+    {
+        "name": "2026 Lenovo IdeaPad Laptop 15.6\" 1-Yr MS 365 Intel Dual-Core 12GB RAM 384GB SSD",
+        "price": "$329.00",
+        "status": "Brand New \u00b7 Lenovo \u00b7 128 GB",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Dell Latitude 14\" Laptop PC Intel i5 Quad-Core 16GB RAM 256GB SSD Windows 11",
+        "price": "$215.55",
+        "status": "Good - Refurbished \u00b7 Dell \u00b7 256 GB",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 103
+    },
+    {
+        "name": "Dell Latitude 14 Rugged 7424 Laptop  i5-8350U 16GB 1TB ORANGE TOUCH  IP 65 RATED",
+        "price": "$888.88",
+        "status": "Pre-Owned \u00b7 Dell \u00b7 1 TB",
+        "shipping": 18.99,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "2026 HP Laptop Computer 17.3\" 10-Core Intel i7 Upto 64GB RAM 2TB SSD Office 2024",
+        "price": "$1,399.00",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Dell 15 DC15255 15.6\" FHD Touch Ryzen 7 7730U 16GB RAM 512GB SSD W11 Good",
+        "price": "$275.00",
+        "status": "Pre-Owned \u00b7 Dell \u00b7 512 GB",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Dell Latitude 3190 2-in-1 11.6\" Pentium N5030 8GB RAM 128GB SSD Windows 11 Pro",
+        "price": "$92.95",
+        "status": "Pre-Owned \u00b7 Dell \u00b7 128 GB",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": 374
+    },
+    {
+        "name": "Acer Swift 14 AI Laptop 14.5\" Snapdragon X Elite 16GB RAM 1TB SSD Refurbished",
+        "price": "$491.03",
+        "status": "Certified - Refurbished \u00b7 Acer",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "HP 14a-nf0131wm 14\" HD Pentium N200 1.8GHz Intel UHD Graphics 4GB RAM 128GB SSD",
+        "price": "$121.00",
+        "status": "Open Box \u00b7 HP",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 230
+    },
+    {
+        "name": "Dell Latitude 3400 14\u201d HD Laptop Core i5 8GB RAM 256GB SSD Windows 11 PC WiFi",
+        "price": "$195.65",
+        "status": "Good - Refurbished \u00b7 Dell",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 73
+    },
+    {
+        "name": "HP 17.3\" Touchscreen Laptop Intel Core 5 120U 16GB / 1TB SSD 17-cn4153cl NEW",
+        "price": "$479.99",
+        "status": "Brand New \u00b7 HP \u00b7 1 TB",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Dell Latitude 5289 2-in-1 12.3\" i5-7600U@2.8GHz, 8GB RAM, 256GB, Win 11 Pro",
+        "price": "$159.99",
+        "status": "Pre-Owned \u00b7 Dell \u00b7 256 GB",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": 84
+    },
+    {
+        "name": "Dell Latitude 5420 14\" i5-1145G7 16GB Ram 256GB SSD Windows 11 Pro Laptop Touch",
+        "price": "$199.95",
+        "status": "Pre-Owned \u00b7 Dell \u00b7 256 GB",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": 679
+    },
+    {
+        "name": "Dell Latitude 5431 14\" Intel Core i7-1270p 2.2GHz 16GB RAM 512GB SSD",
+        "price": "$299.99",
+        "status": "Pre-Owned \u00b7 Dell",
+        "shipping": 25.0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Dell Latitude 3190 2-in-1 Touch Laptop Intel Pentium 4GB RAM 128GB SSD Win 11",
+        "price": "$128.30",
+        "status": "Good - Refurbished \u00b7 Dell",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 1178
+    },
+    {
+        "name": "Dell Latitude 3189 11.6\" 2-in-1 Touch Laptop Celeron 4GB 64GB SSD Windows 11 !!",
+        "price": "$85.00",
+        "status": "Pre-Owned \u00b7 Dell \u00b7 64 GB",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 219
+    },
+    {
+        "name": "Panasonic  CF-20 Core M5-6Y57 8GB RAM 256GB Hard Drive MK1  *PLEASE READ*",
+        "price": "$111.11",
+        "status": "Pre-Owned \u00b7 Panasonic \u00b7 256 GB",
+        "shipping": 18.99,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Toshiba Ultra Light FULL HD 1080P Touch Screen Gaming Laptop - i5 SSD Wifi HDMI",
+        "price": "$250.00",
+        "status": "Pre-Owned \u00b7 Toshiba",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 56
+    },
+    {
+        "name": "Dell Latitude 7390 Laptop Computer 13.3\u201d Core i5 8GB RAM 256GB SSD Windows 11 PC",
+        "price": "$189.25",
+        "status": "Good - Refurbished \u00b7 Dell",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 446
+    },
+    {
+        "name": "Dell Latitude 5320 Touch i7-1185G7 16GB RAM No SSD See Description (Lot of 2)",
+        "price": "$319.99",
+        "status": "Parts Only \u00b7 Dell",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "OVERSTOCK~ 11.6 HP Pro X360 Laptop PC: TouchScreen! Webcam! Windows 11 Pro!",
+        "price": "$114.95",
+        "status": "Good - Refurbished \u00b7 HP",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 22
+    },
+    {
+        "name": "HP - 14\" Laptop - Intel Celeron N4500 2021 - 4GB Memory - 64GB eMMC - Snowfla...",
+        "price": "See price",
+        "status": "Brand New \u00b7 HP",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": 1343
+    },
+    {
+        "name": "Lenovo 100e 2nd Gen 11.6\" AMD 3015e @ 1.20GHz 4GB RAM 64GB Win11Pro LAPTOP.",
+        "price": "$49.99",
+        "status": "Pre-Owned \u00b7 Lenovo \u00b7 64 GB",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": 65
+    },
+    {
+        "name": "ASUS ROG Strix G16 Gaming Laptop 16\u201d RTX 5060 Ultra 9 275HX 16GB 1TB W11 SEALED",
+        "price": "$399.00",
+        "status": "Brand New \u00b7 ASUS \u00b7 1 TB",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "HP 14-dq6013dx 14\" Intel N150 4GB DDR4 128GB UFS W11H Laptop, Willow Green",
+        "price": "$148.00",
+        "status": "Certified - Refurbished \u00b7 HP",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Windows 7 PRO Laptop Notebook PC Computer Dual core, 4GB Ram, 250GB HD DVD/CD",
+        "price": "$129.99",
+        "status": "Pre-Owned \u00b7 250 GB",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 688
+    },
+    {
+        "name": "Dell Latitude 7340 13.3\u201d FHD Laptop Core i5 4.7GHz 16GB RAM 128GB SSD Win 11 Pro",
+        "price": "$333.13",
+        "status": "Excellent - Refurbished \u00b7 Dell",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 90
+    },
+    {
+        "name": "Dell Precision 15.6\u201d Gaming Laptop Intel i7 32GB RAM 1TB SSD Win 11 Pro NVIDIA",
+        "price": "$507.84",
+        "status": "Good - Refurbished \u00b7 Dell",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Apple MGN63LL/A MacBook Air 13.3\" WQXGA Apple M1 3.2GHz Apple M1 8GB RAM 256GB",
+        "price": "$379.00",
+        "status": "Open Box \u00b7 Apple",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 671
+    },
+    {
+        "name": "HP 14a-nf0131wm 14\" HD Pentium N200 1.8GHz Intel UHD Graphics 4GB RAM 128GB SSD",
+        "price": "$108.00",
+        "status": "Very Good - Refurbished \u00b7 HP",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 228
+    },
+    {
+        "name": "Acer Predator Helios Neo AI 16S Gaming Laptop RTX 5070 Ti Certified Refurbished",
+        "price": "$1,378.25",
+        "status": "Certified - Refurbished \u00b7 Acer",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 1877
+    },
+    {
+        "name": "Dell Latitude 3400 14\" Laptop Intel Core i5-8265U 1.60GHz 4GB 256GB SSD Win 11",
+        "price": "$84.95",
+        "status": "Pre-Owned \u00b7 Dell \u00b7 256 GB",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Dell Latitude 5400 14\" Touchscreen i5-8365U 4GB RAM 128GB SSD Windows 11 - READ",
+        "price": "$105.00",
+        "status": "Pre-Owned \u00b7 Dell",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "EXECUTIVE SPECIAL~ 15.6 DELL Latitude Laptop: Intel i7! 16GB RAM - 1 TB NVME SSD",
+        "price": "$349.95",
+        "status": "Good - Refurbished \u00b7 Dell",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 37
+    },
+    {
+        "name": "Dell Latitude 5521 15\" FHD Intel Core i7-11850H 16GB RAm 512gb NVME WIN11 Laptop",
+        "price": "$379.99",
+        "status": "Excellent - Refurbished \u00b7 Dell \u00b7 512 GB",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Dell Plus 16\" FHD+ Touch Intel Ultra 9 288V 3.3 GHz 32GB 1TB SSD W11H Laptop BL",
+        "price": "$799.00",
+        "status": "Certified - Refurbished \u00b7 Dell",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 88
+    },
+    {
+        "name": "HP 14-ep2011wm 14\" HD N150 0.8GHz Intel UHD Graphics 4GB RAM 128GB SSD Win 11",
+        "price": "$157.00",
+        "status": "Open Box \u00b7 HP",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 828
+    },
+    {
+        "name": "Lenovo 100e 2nd Gen 11.6\" Laptop Intel Celeron N4000 1.10GHz 4GB RAM 64GB eMMC",
+        "price": "$54.00",
+        "status": "Pre-Owned \u00b7 Lenovo \u00b7 64 GB",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "14\" HP Laptop: Intel i5! 8GB RAM! 256GB SSD! CD/DVD Burner! Zorin Core Edition!",
+        "price": "$134.75",
+        "status": "Good - Refurbished \u00b7 HP",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 205
+    },
+    {
+        "name": "Dell Latitude 5400 14\" Touchscreen i5-8365U 4GB RAM 128GB SSD Windows 11 TESTED",
+        "price": "$115.00",
+        "status": "Pre-Owned \u00b7 Dell",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": 240
+    },
+    {
+        "name": "ACEMAGIC 16\"  Laptop CPU Intel 12th N95 16GB RAM 512GB M.2 SSD [Refurbished]",
+        "price": "$209.99",
+        "status": "Certified - Refurbished \u00b7 Acemagic",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 130
+    },
+    {
+        "name": "HP EliteBook x360 1040 G8 14\" 32GB 512GB, Silver",
+        "price": "$350.00",
+        "status": "Excellent - Refurbished \u00b7 HP \u00b7 512 GB",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Lenovo 300e Touchscreen Chromebook 11.6\" 4GB 32gb SSD  *SEE PHOTOS/DESCRIP.*",
+        "price": "$28.00",
+        "status": "Pre-Owned \u00b7 Lenovo \u00b7 32 GB",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": 193
+    },
+    {
+        "name": "Dell Latitude E5440 i5-4310U 8GB RAM 320GB HDD NO OS",
+        "price": "$49.00",
+        "status": "Pre-Owned \u00b7 Dell \u00b7 320 GB",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 25
+    },
+    {
+        "name": "Lenovo ThinkPad 13.3\" 16GB 512GB, Black",
+        "price": "$229.99",
+        "status": "Excellent - Refurbished \u00b7 Lenovo \u00b7 512 GB",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Acer Aspire 3 A315-24PT-R288 15.6\" Laptop Full HD AMD 16GB RAM 1TB SSD",
+        "price": "$316.19",
+        "status": "Certified - Refurbished \u00b7 Acer",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 101
+    },
+    {
+        "name": "2026 Lenovo IdeaPad Laptop Intel Processor 15.6 Upto 20GB RAM 1TB SSD Office 365",
+        "price": "$589.00",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "dell inspiron 15 touch screen laptop 15",
+        "price": "$400.00",
+        "status": "Open Box \u00b7 Dell",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Acer Aspire 14 AI Laptop 14\" WUXGA IPS Intel Core Ultra 7+ARC 16GB RAM 1TB SSD",
+        "price": "$1,049.99",
+        "status": "Brand New \u00b7 Acer \u00b7 1 TB",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "2026 Newest HP Laptop 14\" Quad-Core Intel Processor Up to 16GB RAM 628GB Storage",
+        "price": "$419.00",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "2026 Lenovo IdeaPad Laptop 15.6\" 1-Yr MS 365 Intel Dual-Core 12GB RAM 384GB SSD",
+        "price": "$329.00",
+        "status": "Brand New \u00b7 Lenovo \u00b7 128 GB",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "HP ELITEBOOK 840 G5 14\" INTEL CORE i7 8650U CPU 1.9 GHZ 16GB DDR4 RAM 256GB SSD",
+        "price": "$400.00",
+        "status": "Pre-Owned \u00b7 HP \u00b7 256 GB",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "HP ChromeBook 11 G5 Laptop TouchScreen With Windows 11 Pro Birthday Gift Set",
+        "price": "$90.00",
+        "status": "Pre-Owned \u00b7 HP \u00b7 16 GB",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Acer Aspire Go 15.3\" Laptop 8GB RAM 256GB SSD Intel i5 UHD AG15-51P Refurbished",
+        "price": "$257.60",
+        "status": "Certified - Refurbished \u00b7 Acer",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 294
+    },
+    {
+        "name": "HP ProBook 650 G4 Business Laptop 15.6\u201d Core i5 16GB RAM 512GB SSD Win 11 Pro",
+        "price": "$304.56",
+        "status": "Excellent - Refurbished \u00b7 HP",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 35
+    },
+    {
+        "name": "Dell Latitude 3190  2-in-1  11.6\" Pentium N5030 4GB RAM 128GB SSD Windows 11 Pro",
+        "price": "$84.95",
+        "status": "Pre-Owned \u00b7 Dell",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": 353
+    },
+    {
+        "name": "HP ProBook x360 11 G2 EE 11.6\" Intel Celeron N4000 4GB RAM 32GB | VERY GOOD |",
+        "price": "$39.99",
+        "status": "Very Good - Refurbished \u00b7 HP",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "HP Elitebook 840 G5 Core i5-7300U 2.6GHZ 16GB 256GB SSD WCam WiFi W11 & Cord",
+        "price": "$125.00",
+        "status": "Pre-Owned \u00b7 HP \u00b7 256 GB",
+        "shipping": 15.99,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "17.3 HD+ laptop 16GB RAM 1TB SSD Intel Core N100 MS Office Windows 11 Pro (Used)",
+        "price": "$249.00",
+        "status": "Pre-Owned \u00b7 Unbranded \u00b7 1 TB",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Dell Precision 15.6\" NVIDIA Gaming Laptop - Intel Core i7 64GB RAM 4TB SSD Win11",
+        "price": "$1,143.00",
+        "status": "Excellent - Refurbished",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Acer Swift Go 14\" AI Laptop Qualcomm Snapdragon X+ 16GB RAM 1TB SSD Refurbished",
+        "price": "$427.79",
+        "status": "Certified - Refurbished \u00b7 Acer",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "HP Laptop Computer 15.6\" Touchscreen 13th Gen Intel i3, Up to 32GB RAM & 1TB SSD",
+        "price": "$749.00",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Dell Latitude 14 Rugged 7424 Laptop  i5-8350U 16GB 1TB ORANGE TOUCH  IP 65 RATED",
+        "price": "$888.88",
+        "status": "Pre-Owned \u00b7 Dell \u00b7 1 TB",
+        "shipping": 18.99,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "2026 Dell Inspiron 15 Laptop FHD Touch Intel i5 Upto 32GB RAM&1TB SSD Win 11 Pro",
+        "price": "$1,289.00",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Dell Latitude 5420 Laptop 14\u201d HD Intel Core i5 16GB RAM 512GB SSD Windows 11 Pro",
+        "price": "$264.64",
+        "status": "Good - Refurbished \u00b7 Dell",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 318
+    },
+    {
+        "name": "Dell Latitude D620/D630 2GB Laptop Windows XP pro SP3 WiFi Serial port DVD/CD",
+        "price": "$149.99",
+        "status": "Pre-Owned \u00b7 Dell \u00b7 160 GB",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 340
+    },
+    {
+        "name": "Microsoft Surface Laptop 2 i7-8650U 1.91GHz 16GB LPDDR3 512GB Win 10 Pro",
+        "price": "$145.00",
+        "status": "Pre-Owned \u00b7 Microsoft \u00b7 512 GB",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Dell Latitude 5500 Intel Core i5-8265U 1.60GHz 128GB 4GB Windows 11 Laptop BIOS",
+        "price": "$95.95",
+        "status": "Pre-Owned \u00b7 Dell \u00b7 128 GB",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Lenovo Yoga 11e Touchscreen 2-in-1 Laptop Pentium 4GB RAM 256GB SSD Windows 11",
+        "price": "$137.16",
+        "status": "Good - Refurbished \u00b7 Lenovo",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 1056
+    },
+    {
+        "name": "HP EliteBook 14\" Touchscreen, Core i7\u201110710U 3.0GHz, 32GB RAM, 512GB SSD, WIN11P",
+        "price": "$399.99",
+        "status": "Excellent - Refurbished \u00b7 HP \u00b7 512 GB",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Dell Latitude Business Laptop 14\" Intel Core i5 16GB RAM 512GB SSD Win 11 Pro",
+        "price": "$274.34",
+        "status": "Good - Refurbished \u00b7 Dell",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 719
+    },
+    {
+        "name": "Acer TravelMate B311-31 11.6\" N100 3.40GHz/8GB/128GB (Black) N23C1 - w/Warranty",
+        "price": "$101.37",
+        "status": "Very Good - Refurbished \u00b7 Acer",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 114
+    },
+    {
+        "name": "Dell Latitude 5590 15.6 Laptop i5-8250U 1.60GHz 4GB 256GB SSD Windows 11 Pro",
+        "price": "$87.95",
+        "status": "Pre-Owned \u00b7 Dell \u00b7 256 GB",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Lenovo ThinkPad E16 Gen 1 16\" Intel Core i7-1355U 16GB DDR4 512GB SSD Windows 11",
+        "price": "$624.95",
+        "status": "Open Box \u00b7 Lenovo",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Lenovo IdeaPad Slim 3x 15.3\" Touch Snapdragon X 16GB 1TB SSD GRAY 83N30010US",
+        "price": "$399.00",
+        "status": "Open Box \u00b7 Lenovo",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "dell latitude E5550 15'6 touch screen 16gb ram 256SSD win11pro",
+        "price": "$120.00",
+        "status": "Pre-Owned \u00b7 Dell \u00b7 16 GB",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Windows XP PRO SP3 32 Bit Laptop Notebook PC Computer w/ DVD USB FREE SHIPPING",
+        "price": "$149.99",
+        "status": "Pre-Owned \u00b7 40 GB",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 209
+    },
+    {
+        "name": "Dell Pro 14 PC14250 - Core Ultra 5 235U  32GB RAM DDR5 512GB SSD  WARRANTY 2030!",
+        "price": "$625.00",
+        "status": "Pre-Owned \u00b7 Dell \u00b7 512 GB",
+        "shipping": 21.34,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "2026 Dell Inspiron Laptop 15 Touch 10-Core Intel i5 Upto 64GB RAM 2TB SSD WinPRO",
+        "price": "$1,289.00",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "2026 HP Laptop Computer 14 Office 2024 Intel CPU 8GB RAM & 628GB Storage Win Pro",
+        "price": "$289.00",
+        "status": "Brand New \u00b7 HP \u00b7 500 GB",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "ASUS ROG Ally 7\" Touch AMD Ryzen Z1 Extreme 16GB 512GB SSD W11H Gaming Console",
+        "price": "$459.00",
+        "status": "Certified - Refurbished \u00b7 ASUS",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 135
+    },
+    {
+        "name": "15.6 DELL Precision Laptop PC: i5-9400H! 16GB RAM ~ 1TB NVME SSD! Windows 11 Pro",
+        "price": "$334.29",
+        "status": "Good - Refurbished \u00b7 Dell",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 19
+    },
+    {
+        "name": "Laptop 16GB RAM 512GB SSD 17.3\" Intel Celeron N5095 Backlit KB Win11 Pro(Used)",
+        "price": "$185.99",
+        "status": "Pre-Owned \u00b7 Unbranded \u00b7 512 GB",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 22
+    },
+    {
+        "name": "HP EliteBook 840 G7 14\" 512GB i5-10310U WIN11P,\u00a0Silver",
+        "price": "$225.00",
+        "status": "Excellent - Refurbished \u00b7 HP \u00b7 512 GB",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 133
+    },
+    {
+        "name": "HP ZBook Studio G5 Laptop i7-9850H 2.6GHz 8GB 512GB SSD Win 10 Pro COA",
+        "price": "$179.99",
+        "status": "Pre-Owned \u00b7 HP",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "HP Laptop Computer 14\", Quad-Core Intel N150, 16GB RAM 628GB Storage, Win 11 Pro",
+        "price": "$299.00",
+        "status": "Open Box \u00b7 HP \u00b7 500 GB",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 17
+    },
+    {
+        "name": "Toshiba Ultra Light FULL HD 1080P Touch Screen Gaming Laptop - i5 SSD Wifi HDMI",
+        "price": "$250.00",
+        "status": "Pre-Owned \u00b7 Toshiba",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 56
+    },
+    {
+        "name": "Toshiba Dynabook i7 10th Gen 512GB SSD 16GB Windows 11 Pro Wifi-6 HDMI Laptop",
+        "price": "$477.00",
+        "status": "Pre-Owned \u00b7 Toshiba \u00b7 512 GB",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 122
+    },
+    {
+        "name": "HP Elitebook 840 G5 Core I5-8350  1.70GHZ  16GB , 256GB SSD, WiFi ,Win 11 Cord",
+        "price": "$130.00",
+        "status": "Pre-Owned \u00b7 HP \u00b7 256 GB",
+        "shipping": 15.99,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Acer Aspire 5 15.6\" Laptop FHD Core i7 16GB RAM 512GB SSD Iris Xe Refurbished",
+        "price": "$399.89",
+        "status": "Certified - Refurbished \u00b7 Acer",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "\u301090% New\u3011ACEMAGIC 15.6\" Laptop Intel 12th Alder Lake N95 16GB RAM 512GB WIFI BT",
+        "price": "$189.97",
+        "status": "Certified - Refurbished \u00b7 Acemagic",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 169
+    },
+    {
+        "name": "Lenovo AMD Ryzen 5 PRO 14\" Gaming Laptop 16GB RAM 512GB SSD RADEON RX Windows 11",
+        "price": "$399.99",
+        "status": "Excellent - Refurbished \u00b7 Lenovo",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 36
+    },
+    {
+        "name": "Dell Latitude 5440 Laptop 14\u201d 10-Core i5 4.7GHz 16GB RAM 256GB SSD Windows 11",
+        "price": "$374.31",
+        "status": "Excellent - Refurbished \u00b7 Dell",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 64
+    },
+    {
+        "name": "~REWRITABLE CD/DVD~ 14\" HP ProBook Laptop PC: Intel i5, 16GB RAM - 1TB Storage!",
+        "price": "$162.00",
+        "status": "Good - Refurbished \u00b7 HP \u00b7 1 TB",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 174
+    },
+    {
+        "name": "15.6 Student Laptop Intel Pentium Quad Core N100 8GB RAM 256GB SSD WiFi 6 Win 11",
+        "price": "$179.99",
+        "status": "Open Box \u00b7 256 GB",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 39
+    },
+    {
+        "name": "Lenovo Yoga Book YB1-X90F 10.1\" Atom x5-Z8550 2.4GHz 4GB RAM 64GB SSD",
+        "price": "$60.00",
+        "status": "Pre-Owned \u00b7 Lenovo",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": 70
+    },
+    {
+        "name": "Gateway 14\" Chromebook 314 4GB RAM 128GB SSD Intel Celeron N4500 UHD Refurbished",
+        "price": "$83.69",
+        "status": "Certified - Refurbished \u00b7 Acer \u00b7 128 GB",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 184
+    },
+    {
+        "name": "HP OmniBook 5 Laptop Computer 14\" 2K Snapdragon X 16 GB memory;512 GB SSD",
+        "price": "$499.99",
+        "status": "Brand New \u00b7 HP",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Microsoft Surface Laptop 3, 13.5\" Touch, Intel i7, 16GB RAM, 256GB SSD - Black",
+        "price": "$309.99",
+        "status": "Open Box \u00b7 Microsoft",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 143
+    },
+    {
+        "name": "HP ZBook 15 G3 15\" Core  i7-6820HQ 2.7ghz 16gb 256gb SSD WCam WiFi W11 Corrd",
+        "price": "$125.00",
+        "status": "Pre-Owned \u00b7 HP \u00b7 256 GB",
+        "shipping": 15.99,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Dell Precision 5530 i7 8th Gen 32GB 256GB WIN 10 PRO",
+        "price": "$249.99",
+        "status": "Brand New \u00b7 Dell \u00b7 32 GB",
+        "shipping": 16.84,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "NIMO 15.6 FHD Student Laptop 8/16GB RAM 1TB SSD Intel Pentium N100 Win11 Wifi6",
+        "price": "$369.99",
+        "status": "Certified - Refurbished",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Lenovo IdeaPad 100-15IBY 15.6\" Laptop Celeron N3060 2GB RAM 64GB Win10 w/ Charge",
+        "price": "$58.00",
+        "status": "Pre-Owned \u00b7 Lenovo \u00b7 64 GB",
+        "shipping": 16.73,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "2026 ASUS Vivobook Laptop 16\" Intel i7-1355U, Up to 40GB RAM 2TB SSD, Win 11 Pro",
+        "price": "$1,149.00",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "ACEMAGIC 18.5\" Laptop AMD R3 4300U 16GB DDR4 512GB SSD WIFI windows 11 Pro 1080P",
+        "price": "$399.99",
+        "status": "Brand New \u00b7 Acemagic",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Dell Inspiron 15 Touchscreen Laptop 15.6\" FHD Intel i5-1334U 8GB RAM 512GB SSD",
+        "price": "$319.99",
+        "status": "Open Box \u00b7 Dell \u00b7 512 GB",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 94
+    },
+    {
+        "name": "Dell Latitude 5320 Touch i7-1185G7 16GB RAM No SSD See Description (Lot of 2)",
+        "price": "$319.99",
+        "status": "Parts Only \u00b7 Dell",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "NEW 2026 HP Laptop Computer 14 Quad-Core Intel Processor 8GB RAM & 628GB Storage",
+        "price": "$339.00",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Acer Aspire 14 AI Laptop 14\" WUXGA IPS Intel Core Ultra 7+ARC 16GB RAM 1TB SSD",
+        "price": "$1,049.99",
+        "status": "Brand New \u00b7 Acer \u00b7 1 TB",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Dell Pro Max 14 Premium Laptop | Core Ultra 7 265H | RTX PRO 1000 | 32GB | 256GB",
+        "price": "$3,299.00",
+        "status": "Open Box \u00b7 Dell \u00b7 256 GB",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "NEW 2026 HP Laptop Computer 14 Quad-Core Intel Processor 8GB RAM & 628GB Storage",
+        "price": "$339.00",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "2026 Dell Inspiron 15 Laptop FHD Touch Intel i5 Upto 32GB RAM&1TB SSD Win 11 Pro",
+        "price": "$1,289.00",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Dell Precision 3560 Laptop 15.6\u201d FHD Core i7 11th Gen 16GB RAM 256GB SSD Win 11",
+        "price": "$411.52",
+        "status": "Good - Refurbished \u00b7 Dell",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 84
+    },
+    {
+        "name": "Lenovo Thinkpad T14 Gen 2 14\" 16GB 512GB, Touch, Black",
+        "price": "$259.99",
+        "status": "Very Good - Refurbished \u00b7 Lenovo \u00b7 512 GB",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "HP EliteBook 840 G6 14\u201d FHD Laptop Intel i5-8265U 16GB RAM 256GB SSD Win 11 Pro",
+        "price": "$229.99",
+        "status": "Certified - Refurbished \u00b7 HP",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 21
+    },
+    {
+        "name": "DELL Latitude E5470 14\" Laptop i5-6300 2.4GHz 8GB 256GB SSD WIN 10 pro cam WIFI",
+        "price": "$129.99",
+        "status": "Very Good - Refurbished \u00b7 Dell",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 15
+    },
+    {
+        "name": "Windows 10 PRO Laptop Notebook PC Computer Dual core, 4GB Ram, 250GB HDD DVDRW",
+        "price": "$129.99",
+        "status": "Pre-Owned \u00b7 250 GB",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 221
+    },
+    {
+        "name": "Lenovo Chromebook 300e 2nd Gen 11.6\" Touchscreen/4GB/32GB no charger",
+        "price": "$39.99",
+        "status": "Good - Refurbished \u00b7 Lenovo \u00b7 32 GB",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 96
+    },
+    {
+        "name": "Dell Precision 7750 17\" FHD i9-10885H 2.4GHz No RAM No SSD See Description",
+        "price": "$300.00",
+        "status": "Parts Only \u00b7 Dell",
+        "shipping": 16.53,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Dell Latitude 7430 i5-1245U 1.60GHz 16GB RAM 256GB SSD Laptop",
+        "price": "$249.00",
+        "status": "Good - Refurbished \u00b7 Dell \u00b7 256 GB",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "G GETAC V110 G6 RUGGED LAPTOP I5-10210U 1.60G 16GB 256GB DUAL BATTERY  WIN 11P",
+        "price": "$449.99",
+        "status": "Good - Refurbished \u00b7 Getac \u00b7 256 GB",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 97
+    },
+    {
+        "name": "Dell Latitude 5410 Laptop 14\u201d Intel Core i7 16GB RAM 256GB SSD Windows 11 Pro",
+        "price": "$296.09",
+        "status": "Good - Refurbished \u00b7 Dell",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 60
+    },
+    {
+        "name": "Acer Swift Go 16 Laptop 16\" OLED Intel Core Ultra 5 125H 8GB RAM 512GB SSD",
+        "price": "$899.99",
+        "status": "Brand New \u00b7 Acer",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Toshiba Dynabook i7 10th Gen 512GB SSD 16GB Windows 11 Pro Wifi-6 HDMI Laptop",
+        "price": "$477.00",
+        "status": "Pre-Owned \u00b7 Toshiba \u00b7 512 GB",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 122
+    },
+    {
+        "name": "Dell Precision 5570 15\" Laptop i7-12800H 64GB 1TB SSD W11P (Low Battery Health)",
+        "price": "$649.99",
+        "status": "Good - Refurbished \u00b7 Dell",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Dell Latitude 14\" Laptop PC Intel i5 Quad Core! 16GB RAM 256GB SSD Touchscreen!",
+        "price": "$199.99",
+        "status": "Very Good - Refurbished \u00b7 Dell \u00b7 256 GB",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Microsoft Evolve III Maestro 11.6'' 64GB Intel N3450, 1.1GHz, 4GB RAM Laptop",
+        "price": "$89.89",
+        "status": "Brand New \u00b7 64 GB",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 60
+    },
+    {
+        "name": "Samsung 16\u201d Galaxy Book5 Pro 360 Copilot+ PC, AI Computer, Intel Core 7 Ultra",
+        "price": "$599.99",
+        "status": "Brand New \u00b7 Samsung",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "ACEMAGIC 15.6\" FHD Laptop Intel 12th Alder Lake N97 16GB RAM 512GB refurbished",
+        "price": "$199.99",
+        "status": "Certified - Refurbished \u00b7 Acemagic",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Lenovo ThinkPad T14 Gen 5 FHD+ Touch, Ryzen 7 PRO 8840U, 32GB RAM 512GB SSD 2 YR",
+        "price": "$829.94",
+        "status": "Excellent - Refurbished \u00b7 Lenovo \u00b7 512 GB",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 128
+    },
+    {
+        "name": "Dell Latitude 5420 Quad Core i5-1145G7 2.60GHz 256GB SSD 16GB RAM Windows 11 Pro",
+        "price": "$190.00",
+        "status": "Pre-Owned \u00b7 Dell",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "15.6\" DELL Latitude Laptop: i7-8650U (16GB RAM - 256GB NVME SSD) Windows 11 Pro",
+        "price": "$279.59",
+        "status": "Good - Refurbished \u00b7 Dell",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 630
+    },
+    {
+        "name": "HP Elitebook 840 G7 i5-10310U 1.7GHZ  16GB, 256GB, WCam, WiFi, Win 11 Cord",
+        "price": "$175.00",
+        "status": "Pre-Owned \u00b7 HP \u00b7 256 GB",
+        "shipping": 15.99,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Dynabook Portege X30L-J i5-1135G7 2.4 GHz DDR4 8GB RAM 256GB SSD Laptop",
+        "price": "$149.95",
+        "status": "Pre-Owned \u00b7 dynabook \u00b7 256 GB",
+        "shipping": 19.9524,
+        "free_returns": false,
+        "items_sold": 20
+    },
+    {
+        "name": "NIMO 15.6 Gaming Laptop AMD Ryzen 5 6600H, 8GB RAM 256GB SSD Backlit KB Win11",
+        "price": "$299.99",
+        "status": "Brand New \u00b7 256 GB",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 63
+    },
+    {
+        "name": "Lenovo ThinkPad T490s 14\"  Laptop i5 8th Gen 256GB NVMe 8GB RAM Win 11 Pro Cam",
+        "price": "$199.99",
+        "status": "Excellent - Refurbished \u00b7 Lenovo \u00b7 256 GB",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 223
+    },
+    {
+        "name": "Dell Latitude 5420 14in Laptop Intel i5-1145G7 2.6GHz 16GB RAM 1TB SSD No OS",
+        "price": "$317.27",
+        "status": "Very Good - Refurbished \u00b7 Dell",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 6
+    },
+    {
+        "name": "2026 Lenovo IdeaPad Laptop Notebook 14\" Intel Processor Up to 20GB RAM & 1TB SSD",
+        "price": "$549.00",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "2026 Lenovo Business Laptop 15.6 8-Core Ryzen 7 Upto 40GB RAM 2TB SSD Office Pro",
+        "price": "$1,119.00",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "HP 15.6\" FHD Laptop, 6-Core Intel i3 Up to 4.4GHz 32GB RAM & 1TB SSD, Win 11 Pro",
+        "price": "$759.00",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Dell Silver Notebook Laptop Windows 11 Portable Computer PC Sleek Design",
+        "price": "$125.00",
+        "status": "Pre-Owned \u00b7 Dell",
+        "shipping": 15.6,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Dell Latitude 7480-i5-7300U@2.60GHz 8GB DDR4 Ram 256GB SSD W11P (890)",
+        "price": "$70.00",
+        "status": "Pre-Owned \u00b7 Dell",
+        "shipping": 17.0024,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "ASUS VivoBook 15.6\" FHD Laptop Core i5-1135G7 8GB 256GB SSD Win 11 Home",
+        "price": "$221.99",
+        "status": "Pre-Owned \u00b7 ASUS",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Lenovo Chromebook N21 11.6\" Intel N2840 @ 2.16GHz 4GB RAM 16GB with Charger",
+        "price": "$34.99",
+        "status": "Pre-Owned \u00b7 Lenovo \u00b7 16 GB",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": 282
+    },
+    {
+        "name": "Acer Swift Go 16\" Laptop OLED Intel Core Ultra 9 285H 32GB 1TB SSD Refurbished",
+        "price": "$809.09",
+        "status": "Certified - Refurbished \u00b7 Acer",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 66
+    },
+    {
+        "name": "HP 15 Laptop 15-ef2048nr - 2.1 GHz Ryzen 5 5500U 8GB 256GB 15.6\" Touchscreen",
+        "price": "$149.99",
+        "status": "Pre-Owned \u00b7 HP \u00b7 256 GB",
+        "shipping": 19.99,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "LENOVO SLIM 7i 14IRP8 14'' 2.8K 1TB SSD, Intel Core i5 13th Gen., 4.60GHz, 16GB",
+        "price": "$455.50",
+        "status": "Pre-Owned \u00b7 Lenovo \u00b7 1 TB",
+        "shipping": 12.12,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "jumper 17.6 Inch Laptop with Office 365 16GB RAM 640GB SSD N95 CPU Windows 11",
+        "price": "$429.00",
+        "status": "Brand New \u00b7 Jumper \u00b7 640 GB",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "HP ProBook x360 11 G5 Laptop Celeron N4020 4GB 64GB 11.6\" Touch W11 Pro 2 in 1 !",
+        "price": "$79.99",
+        "status": "Pre-Owned \u00b7 HP \u00b7 64 GB",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 360
+    },
+    {
+        "name": "Dell Latitude 7310 i7 10610U 16GB RAM Laptop (NO HDDOSAdapter)",
+        "price": "$130.00",
+        "status": "Pre-Owned \u00b7 Dell",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "NIMO 15.6'' FHD IPS Laptop Computer 8GB RAM 256GB SSD AMD Ryzen 5 3500U Wi-Fi 5",
+        "price": "$319.99",
+        "status": "Brand New \u00b7 256 GB",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Lenovo LOQ 15.6\" FHD 144Hz AMD Ryzen 7 250 NVIDIA RTX 5060 Laptop 16GB RAM 512GB",
+        "price": "$999.99",
+        "status": "Brand New \u00b7 Lenovo",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 585
+    },
+    {
+        "name": "Lenovo ThinkPad 11E 11.6\" 4GB/500GB Win 11pro charger included.",
+        "price": "$75.00",
+        "status": "Pre-Owned \u00b7 Lenovo \u00b7 500 GB",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Dell Latitude 5480 14\" (i5-7440HQ - 8GB RAM - 256GB SSD - Win11Home)",
+        "price": "$129.84",
+        "status": "Pre-Owned \u00b7 Dell",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Lenovo IdeaPad 5 14\" WUXGA IPS 2-in-1 Ryzen AI 7 350 16GB 1TB 83KT001YUS w/ Pen",
+        "price": "$579.00",
+        "status": "Open Box \u00b7 Lenovo",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 48
+    },
+    {
+        "name": "Lenovo ThinkPad 14\" Premium Laptop- i7 8th Gen | 16GB RAM 512GB SSD | Windows",
+        "price": "$349.99",
+        "status": "Very Good - Refurbished \u00b7 Lenovo \u00b7 512 GB",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "14\" Full HD Laptop Intel Celeron N 8GB RAM 256GB SSD Windows 11 Home",
+        "price": "$129.99",
+        "status": "Pre-Owned \u00b7 Unbranded \u00b7 256 GB",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "HP Chromebook 11A G8 11.6\" Laptop 4GB RAM 32GB SSD WIFI Webcam Chrome OS",
+        "price": "$46.38",
+        "status": "Very Good - Refurbished \u00b7 HP",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 2510
+    },
+    {
+        "name": "Dell 5520 15.6\" Touch Light Gaming Laptop Intel Core i5 4.40GHz 64GB RAM 2TB SSD",
+        "price": "$950.00",
+        "status": "Excellent - Refurbished",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 447
+    },
+    {
+        "name": "Dell Latitude 5520 Laptop - 2.6 GHz i5-1145G7 16GB 512GB 15.6\" Touchscreen - SP",
+        "price": "$238.00",
+        "status": "Pre-Owned \u00b7 Dell",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 176
+    },
+    {
+        "name": "Dell Inspiron 3530 Laptop 15.6\" FHD Intel Core i5 1355U 16GB RAM 512gb Ssd Good",
+        "price": "$255.00",
+        "status": "Pre-Owned \u00b7 Dell \u00b7 512 GB",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "HP X360 11 G1 Touchscreen 2-in-1 Laptop 11.6\" 4GB 128GB SSD Windows 10 Pro",
+        "price": "$94.00",
+        "status": "Pre-Owned \u00b7 HP \u00b7 128 GB",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 82
+    },
+    {
+        "name": "Microsoft Surface Laptop 3 13.5\" Touch Intel i7-1065G7 16GB 256GB SSD - Black",
+        "price": "$259.99",
+        "status": "Pre-Owned \u00b7 Microsoft",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 331
+    },
+    {
+        "name": "NEW 10'' Mini Laptop Windows 11 Notebook 8GB 128GB Intel Celeron Quad-Core WiFi",
+        "price": "$188.99",
+        "status": "Brand New \u00b7 128 GB",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Lenovo IdeaPad Flex 5 14\" FHD+ Chrome 14IAU7 Laptop i3-1315U 8GB RAM 256GB Ob A",
+        "price": "$190.00",
+        "status": "Open Box \u00b7 Lenovo \u00b7 256 GB",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "HP ProBook 14\u201d Business Laptop Intel Core i5 16GB RAM 256GB SSD Windows 11 Pro",
+        "price": "$234.63",
+        "status": "Good - Refurbished \u00b7 HP",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 420
+    },
+    {
+        "name": "Dell Precision 5560 11th Gen i7-11800H 32GB RAM 512GB SSD - Windows 11 - Grade A",
+        "price": "$599.99",
+        "status": "Excellent - Refurbished \u00b7 Dell \u00b7 512 GB",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "HP Laptop Notebook 15.6 AMD Athlon Upto 3.2GHz, 16GB RAM 1TB SSD Office 2024 Pro",
+        "price": "$566.00",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Acer Aspire Go 16 Laptop Intel Core i7 13620H 16GB RAM 512GB SSD \u2013 AG16-71P-7680",
+        "price": "$699.99",
+        "status": "Brand New \u00b7 Acer",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Lenovo ThinkPad L14 14\" FHD Touchscreen Business Laptop ( AMD Ryzen 7 5825U,16GB",
+        "price": "$549.00",
+        "status": "Pre-Owned \u00b7 Lenovo",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "2026 HP Laptop 17.3\" FHD 6-Core AMD Ryzen 5 Up to 64GB RAM 2TB SSD Win 11 Pro",
+        "price": "$1,349.00",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Acer Aspire Vero 15.6\" FHD Laptop Intel Core i5-1335U 8GB RAM 512GB SSD Green PC",
+        "price": "$699.99",
+        "status": "Brand New \u00b7 Acer",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "HP 15-fd0139wm 15.6\" FHD Touchscreen i3-N305 1.8GHz Intel UHD Graphics 8GB RAM",
+        "price": "$208.00",
+        "status": "Very Good - Refurbished \u00b7 HP",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 99
+    },
+    {
+        "name": "Lenovo IdeaPad Slim 5 16\" WUXGA Touch Laptop Ryzen AI 7 350 16GB 1TB 83HY001KUS",
+        "price": "$529.00",
+        "status": "Open Box \u00b7 Lenovo \u00b7 1 TB",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 23
+    },
+    {
+        "name": "Dell Latitude 14\" Laptop : i5 8th Gen | 8GB RAM 256GB SSD | Windows 11 Pro",
+        "price": "$209.99",
+        "status": "Excellent - Refurbished \u00b7 Dell \u00b7 256 GB",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 7
+    },
+    {
+        "name": "Dell Latitude 3120  11.6\" Laptop Pentium N6000  8GB RAM 256GB SSD  Win 11 Pro",
+        "price": "$108.00",
+        "status": "Pre-Owned \u00b7 Dell \u00b7 256 GB",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": 42
+    },
+    {
+        "name": "Lenovo Thinkpad T14 Gen 2 14\" 16GB 512GB, Black",
+        "price": "$280.00",
+        "status": "Excellent - Refurbished \u00b7 Lenovo \u00b7 512 GB",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Dell Latitude E5570 15.6\" i5-6200U 2.3GHz 16GB 250GB HDD W10Pro Laptop",
+        "price": "$85.00",
+        "status": "Pre-Owned \u00b7 Dell \u00b7 250 GB",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Brand New HP 15.6\" Touchscreen HD Intel i3-1315U/8GB/256GB SSD Laptop Silver",
+        "price": "$339.85",
+        "status": "Brand New \u00b7 HP \u00b7 256 GB",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "HP 15-fd0259wm 15.6\" FHD i5-1334U 1.3GHz Intel UHD Graphics 16GB RAM 512GB SSD",
+        "price": "$287.00",
+        "status": "Pre-Owned \u00b7 HP",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 14
+    },
+    {
+        "name": "Dell Latitude 3190 2 in 1 11.6\" Intel N5030 @1.10GHz 8GB 128GB SSD",
+        "price": "$74.00",
+        "status": "Pre-Owned \u00b7 Dell \u00b7 128 GB",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "2026 Dell Laptop 16 FHD+Touch 10-Core Intel 5 120U Upto 64GB RAM 2TB SSD Backlit",
+        "price": "$1,509.00",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Acer Nitro V 16\" Gaming Laptop WUXGA NVIDIA RTX 5070 16GB 512GB SSD Core 7",
+        "price": "$1,299.99",
+        "status": "Brand New \u00b7 Acer",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 253
+    },
+    {
+        "name": "Acer Aspire Go 15 AI Laptop 15.6\" Intel Core i7 32GB RAM 1TB SSD AG15-71PT-7378",
+        "price": "$849.99",
+        "status": "Brand New \u00b7 Acer",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "HP EliteBook 845 G8 14\" FHD AMD Ryzen 5 PRO 5650U 32GB 256GB SSD W11P Laptop SL",
+        "price": "$379.00",
+        "status": "Certified - Refurbished \u00b7 HP",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Acer Chromebook Spin 713 CP713-2W 13.5\" (256GB SSD, Intel Core i5 10th Gen.,...",
+        "price": "$100.00",
+        "status": "Pre-Owned \u00b7 Acer",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Microsoft Surface Go Laptop 12.4\" i5-1035G1 16GB 256GB SSD Win 11 Pro 1943 PLT",
+        "price": "$219.99",
+        "status": "Very Good - Refurbished \u00b7 Microsoft \u00b7 256 GB",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Google Pixelbook Go 13.3\" i5-8200Y 1.30GHz 8GB RAM 128GB SSD ChromeOS",
+        "price": "$172.49",
+        "status": "Good - Refurbished \u00b7 Google",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Dell Latitude 5420 14\" FHD i5-1145G7 Iris Xe 16GB DDR4 512GB NVMe SSD W11 Laptop",
+        "price": "$279.99",
+        "status": "Excellent - Refurbished \u00b7 Dell \u00b7 512 GB",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 50
+    },
+    {
+        "name": "HP 15-fd0082wm 15.6\" HD N200 1GHz Integrated Intel Graphics 4GB RAM 128GB SSD",
+        "price": "$109.00",
+        "status": "Pre-Owned \u00b7 HP",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 37
+    },
+    {
+        "name": "Dell Latitude E5570 Intel Core i5-6200U - 8GB Ram- 256GB  SSD Windows 10 Pro",
+        "price": "$74.95",
+        "status": "Pre-Owned \u00b7 Dell \u00b7 256 GB",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "HP FHD 15.6\" (256GB SSD, Intel Core i5 11th Gen., 2.40GHz, 8GB) Laptop - Silver",
+        "price": "$289.00",
+        "status": "Brand New \u00b7 HP \u00b7 256 GB",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Dell Latitude 5400 14\" Laptop i5 8th Gen 256GB SSD 16GB RAM Win 11 Pro (AVA)",
+        "price": "$149.95",
+        "status": "Pre-Owned \u00b7 Dell \u00b7 256 GB",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 45
+    },
+    {
+        "name": "Dell Latitude 7440 Laptop 14\" Core i5-1345U 1.60Ghz 16GB RAM 256GB SSD WARRANTY",
+        "price": "$419.99",
+        "status": "Pre-Owned \u00b7 Dell",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Dell Latitude 5400 14\" Intel Core i7-8665U 1.9GHz 4GB 128GB SSD Windows 11 BIOS",
+        "price": "$110.95",
+        "status": "Pre-Owned \u00b7 Dell \u00b7 128 GB",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Dell Latitude laptop 5420 14\" FHD Core i7 1185G7 16gb Ram 256gb NVMe w11 Pro cam",
+        "price": "$299.99",
+        "status": "Excellent - Refurbished \u00b7 Dell",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Acer Aspire Spin 14\" Laptop Touchscreen WUXGA IPS Core Ultra 7 16GB RAM 1TB SSD",
+        "price": "$999.99",
+        "status": "Brand New \u00b7 Acer",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "2025 Acer Aspire 5 14\" Laptop Quad-Core Intel i5 12GB RAM 512GB SSD Office 2024",
+        "price": "$399.00",
+        "status": "Brand New \u00b7 Acer \u00b7 512 GB",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "2026 HP Laptop Computer 15.6\" Touch 13th Gen Intel i3, 16GB RAM 1TB SSD, WinPro",
+        "price": "$559.00",
+        "status": "Brand New \u00b7 HP \u00b7 1 TB",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "MSI Raider GE68 HX 14VGG-287US 16\" Gaming Laptop i9-14900HX RTX 4070 32GB 1TB",
+        "price": "$1,299.00",
+        "status": "Certified - Refurbished \u00b7 MSI",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 36
+    },
+    {
+        "name": "Acer Aspire 3 15.6\" FHD Laptop AMD Ryzen 5 8GB RAM 512GB SSD Radeon Refurbished",
+        "price": "$239.93",
+        "status": "Certified - Refurbished \u00b7 Acer \u00b7 512 GB",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 3862
+    },
+    {
+        "name": "Dell Latitude 5440 10-Core i7-1365U 5.20GHz 256GB SSD 16GB RAM Windows 11 Pro",
+        "price": "$340.00",
+        "status": "Pre-Owned \u00b7 Dell",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": 73
+    },
+    {
+        "name": "Dell Latitude 5330 13.3\u201d Laptop Core i5 12th Gen 16GB RAM 512GB SSD Win 11 Pro",
+        "price": "$295.21",
+        "status": "Very Good - Refurbished \u00b7 Dell",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Dell 3100 2-in-1 Touchscreen Laptop Windows 11 Installed Birthday Gift Set",
+        "price": "$90.00",
+        "status": "Pre-Owned \u00b7 Dell \u00b7 32 GB",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Dell Latitude 3190 2-in-1 11.6\" Touchscreen Windows 10 Pentium 4GB RAM 128GB SSD",
+        "price": "$79.99",
+        "status": "Pre-Owned \u00b7 Dell",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 292
+    },
+    {
+        "name": "Dell Latitude 5420 14\" Laptop i5-1145G7 2.6GHz 16GB Ram 256GB SSD Windows 11",
+        "price": "$174.99",
+        "status": "Pre-Owned \u00b7 Dell",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Acer Aspire Go 16\" WUXGA Laptop Intel Core i9 32GB RAM 1TB SSD - AG16-71PT-95LK",
+        "price": "$899.99",
+        "status": "Brand New \u00b7 Acer",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Acer Nitro V 16\" WUXGA Gaming Laptop NVIDIA RTX5050 16GB 512GB SSD ANV16-72-541D",
+        "price": "$999.99",
+        "status": "Brand New \u00b7 Acer",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "HP EliteBook 840 G5 Laptop Intel Core i5 8th Gen 16GB 256GB SSD W11P Touch",
+        "price": "$144.99",
+        "status": "Pre-Owned \u00b7 HP",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Acer Chromebook Plus 516 16\" Intel i5 120U 8GB RAM 256GB SSD Iris Xe Refurbished",
+        "price": "$278.99",
+        "status": "Certified - Refurbished \u00b7 Acer \u00b7 256 GB",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 340
+    },
+    {
+        "name": "HP OmniBook X 14-fk00 2-in-1 14\" Touch Laptop, Ryzen 7, 24GB, 1TB, Windows",
+        "price": "$599.99",
+        "status": "Certified - Refurbished \u00b7 HP",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "2020 Microsoft Surface Laptop Go 1st Gen | Ice Blue | 8GB RAM, 128GB Storage SSD",
+        "price": "$149.99",
+        "status": "Pre-Owned \u00b7 Microsoft",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Dell Latitude 3190 - Intel Celeron, 128 GB SSD, 4 GB RAM, Windows 11",
+        "price": "$50.00",
+        "status": "Pre-Owned \u00b7 Dell",
+        "shipping": 18.0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Dell Latitude 5320 Laptop 13.3\u201d Touchscreen Core i7 16GB RAM 512GB SSD Win 11",
+        "price": "$323.33",
+        "status": "Good - Refurbished \u00b7 Dell",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 49
+    },
+    {
+        "name": "HP EliteBook 845 G10 14\" Laptop, Ryzen 5 Pro 7545U, 16GB, 512GB SSD, Win11 Pro",
+        "price": "$399.99",
+        "status": "Excellent - Refurbished \u00b7 HP \u00b7 512 GB",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 13
+    },
+    {
+        "name": "Asus Vivobook S14 S5406SA 14\" WUXGA OLED Intel Ultra 7 258V 32GB 1TB W11H Laptop",
+        "price": "$762.00",
+        "status": "Certified - Refurbished \u00b7 ASUS",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 117
+    },
+    {
+        "name": "ASUS Vivobook 15.6\" Laptop Intel Core 7 150U - 16GB - 1TB - F1504VAP-IH79T",
+        "price": "$449.95",
+        "status": "Open Box \u00b7 ASUS \u00b7 1 TB",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "14\" Dell LATITUDE 5411 Laptop i5-10400 @ 2.90GHz 16GB 256GB SSD WINDOWS 10 PRO",
+        "price": "$149.95",
+        "status": "Pre-Owned \u00b7 Dell \u00b7 256 GB",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Dell Latitude Touchscreen Laptop 11.6\" Pentium 8GB RAM 128GB SSD Win 11 Pro HDMI",
+        "price": "$150.00",
+        "status": "Good - Refurbished \u00b7 Dell",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 492
+    },
+    {
+        "name": "Dell Latitude 5420 14\" Touch Core i5-1145G7 16GB Ram 256GB SSD Windows 11 Pro",
+        "price": "$199.95",
+        "status": "Pre-Owned \u00b7 Dell \u00b7 256 GB",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 63
+    },
+    {
+        "name": "HP OmniBook X AI 14-fe0013dx 14\" Touch Elite X1E-78-100 16GB 1TB SSD W11 Laptop",
+        "price": "$475.00",
+        "status": "Very Good - Refurbished \u00b7 HP",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 83
+    },
+    {
+        "name": "Dell Latitude 5420 14\" FHD Laptop Intel Core i5-1135G7 16GB 256GB W11 Pro",
+        "price": "$299.99",
+        "status": "Certified - Refurbished \u00b7 Dell",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Dell Gaming Laptop Intel i7- 16GB RAM   500GB SSD Drive Windows 11 Office",
+        "price": "$299.00",
+        "status": "Pre-Owned \u00b7 Dell \u00b7 500 GB",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": 38
+    },
+    {
+        "name": "\ud83d\udca5NEW\ud83d\udca5 Acer Nitro V  RTX 5050/165Hz Gaming Laptop 16GB RAM/512 SSD Ships Fast",
+        "price": "$718.95",
+        "status": "Brand New \u00b7 Acer \u00b7 512 GB",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 136
+    },
+    {
+        "name": "15.6\" DELL Latitude Laptop: i7-8650U, 8GB RAM - 256GB NVME SSD, Windows 11 Pro",
+        "price": "$236.38",
+        "status": "Good - Refurbished \u00b7 Dell",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 30
+    },
+    {
+        "name": "Dell Latitude 7420 2-in-1 14\" FHD Touch Laptop, i7-1165G7, 16GB, 256GB, Windows",
+        "price": "$331.49",
+        "status": "Excellent - Refurbished \u00b7 Dell",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 19
+    },
+    {
+        "name": "MSI Prestige 14EVO A11M-012 14\" FHD  i7-1185G7 Iris Xe 16GB/1TB SSD Win10",
+        "price": "$709.00",
+        "status": "Certified - Refurbished \u00b7 MSI \u00b7 1 TB",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Acer Aspire Go 16\" Touchscreen Laptop IntelCore7 16GB RAM 1TB SSD AG16-71PT-7488",
+        "price": "$799.99",
+        "status": "Brand New \u00b7 Acer",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Acer Chromebook 315 - 15.6\" Touchscreen Laptop Intel N100 8GB RAM 64GB eMMC",
+        "price": "$379.99",
+        "status": "Brand New \u00b7 Acer",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Acer Aspire Go 16\" Laptop Intel Core 5 120U 16GB RAM 512GB SSD \u2013 AG16-71PT-558A",
+        "price": "$649.99",
+        "status": "Brand New \u00b7 Acer",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "2026 Lenovo V15 Business Laptop 15.6\" AMD Ryzen 7 16GB RAM 256GB SSD, Win 11 Pro",
+        "price": "$529.00",
+        "status": "Brand New \u00b7 Lenovo \u00b7 256 GB",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "2026 Lenovo IdeaPad Laptop 15.6 FHD 6-Core Ryzen 5 Upto 40GB RAM&2TB SSD Win Pro",
+        "price": "$1,029.00",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Acer TravelMate B118-M , N4000 4GB Ram 64GB SSD   NO Windows installed.",
+        "price": "$34.00",
+        "status": "Pre-Owned \u00b7 Acer \u00b7 64 GB",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": 63
+    },
+    {
+        "name": "Microsoft Surface Laptop 4 15\" Touch i7 4.8GHz Turbo 32GB 1TB SSD Windows 11 Pro",
+        "price": "$482.90",
+        "status": "Very Good - Refurbished \u00b7 Microsoft",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 11
+    },
+    {
+        "name": "Lenovo Chromebook 300e 2nd Gen 2-in-1 11.6\" Touch 4GB 32GB X2 1.1GHz, Black",
+        "price": "$49.00",
+        "status": "Pre-Owned \u00b7 Lenovo \u00b7 32 GB",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": 33
+    },
+    {
+        "name": "Dell Latitude 5420 14\" FHD Laptop Intel Core i5-1135G7 16GB 256GB W11 Pro",
+        "price": "$299.99",
+        "status": "Certified - Refurbished \u00b7 Dell",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "HP ProBook x360 11 G1 11.6\" TouchScreen Notebook PC 4GB 128GB SSD Windows 10 Pro",
+        "price": "$78.00",
+        "status": "Pre-Owned \u00b7 HP \u00b7 128 GB",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": 1109
+    },
+    {
+        "name": "2026 Lenovo Business Laptop 15 Ryzen 7 16GB RAM & Upto 2TB SSD Office 2024 Touch",
+        "price": "$869.00",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "15.6\" HP 6560/70b Series Laptop Windows 7 64 Bit i3 2ghz 4gb 250gb Serial Port",
+        "price": "$124.99",
+        "status": "Pre-Owned \u00b7 HP \u00b7 250 GB",
+        "shipping": 19.75,
+        "free_returns": true,
+        "items_sold": 107
+    },
+    {
+        "name": "Panasonic  CF-31   MK5  5th GEN Core i5  WIN11 PRO  16GB 500GB SSD WWAN  BLACK",
+        "price": "$377.77",
+        "status": "Pre-Owned \u00b7 Panasonic \u00b7 500 GB",
+        "shipping": 18.99,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "HP ProBook 440 G4 14\" Core i5 7th gen  2.50GHz, 8 GB RAM 256 GB SSD WIN 10 PRO",
+        "price": "$115.00",
+        "status": "Pre-Owned \u00b7 HP \u00b7 256 GB",
+        "shipping": 9.37,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Acer Aspire Go 15 AI Laptop 15.6\" FHD IntelCorei5 16GB RAM 1TB SSD AG1571PT50X8",
+        "price": "$649.99",
+        "status": "Brand New \u00b7 Acer",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Acer Nitro Slim 16\" Gaming Laptop RTX 5070 TI Ryzen AI 7 350 16GB RAM 512GB SSD",
+        "price": "$1,599.99",
+        "status": "Brand New \u00b7 Acer",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "2026 Lenovo Slim 3 Business Laptop 15.6 AMD Ryzen 7 16GB RAM 1TB SSD Office 2024",
+        "price": "$659.00",
+        "status": "Brand New \u00b7 Lenovo \u00b7 1 TB",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "HP Pavilion 16-ag 16\" FHD Laptop AMD Ryzen 7 8840U 16GB RAM 512GB SSD W11H",
+        "price": "$299.00",
+        "status": "Pre-Owned \u00b7 HP",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Acer Swift Edge 14\" OLED Laptop Intel Core Ultra 7 16GB RAM 1TB SSD",
+        "price": "$1,399.99",
+        "status": "Brand New \u00b7 Acer",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Dell Inspiron 15 3535 Laptop AMD Ryzen 7 7730U 16GB 512GB SSD 15.6\" FHD Touch",
+        "price": "$299.99",
+        "status": "Pre-Owned \u00b7 Dell \u00b7 512 GB",
+        "shipping": 25.0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "HP EliteBook Laptop Computer PC 14 AMD Ryzen 5 PRO 32GB RAM 1TB Windows 11 Pro",
+        "price": "$429.99",
+        "status": "Pre-Owned",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Acer Predator Triton 14 AI Gaming Laptop Touch Ultra 9 32GB RAM 2TB SSD RTX 5070",
+        "price": "$2,599.99",
+        "status": "Brand New \u00b7 Acer",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Dell Latitude 7420 14\" FHD 2.6GHz i5-1145G7 16GB 256gb NVME W11 pro Laptop Cam",
+        "price": "$279.99",
+        "status": "Excellent - Refurbished \u00b7 Dell \u00b7 512 GB",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 49
+    },
+    {
+        "name": "Lenovo Chromebook 500e 3rd Gen 2in1 11.6\" (N5100 - 8GB RAM - 64GB ) With Charger",
+        "price": "$42.50",
+        "status": "Pre-Owned \u00b7 Lenovo \u00b7 64 GB",
+        "shipping": 22.45,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Lenovo Yoga 7 2-in-1 Copilot+ PC 14\" 2K OLED Touch Ryzen AI 5 340 16GB 512GB",
+        "price": "$569.98",
+        "status": "Open Box \u00b7 Lenovo \u00b7 512 GB",
+        "shipping": 5.0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Dell Precision 7550 i7-10850H / 32GB RAM / Quadro T2000 / NO SSD -RL5102",
+        "price": "$370.00",
+        "status": "Pre-Owned \u00b7 Dell",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "CHUWI Laptop 14.1'' HD Intel Celeron N4000 8GB 256GB SSD Webcam Windows 11 H",
+        "price": "$185.99",
+        "status": "Brand New \u00b7 Chuwi \u00b7 256 GB",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 75
+    },
+    {
+        "name": "Lenovo Thinkpad T480 14\" Laptop Intel Core i5-8350U 8GB RAM 256GB SSD W11P",
+        "price": "$246.99",
+        "status": "Good - Refurbished \u00b7 Lenovo",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Samsung Chromebook Plus 2-in-1 12.2\" Touch Intel Celeron 3965Y 4GB RAM 32GB eMMC",
+        "price": "$72.00",
+        "status": "Pre-Owned \u00b7 Samsung \u00b7 32 GB",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": 18
+    },
+    {
+        "name": "Lenovo ThinkPad L13 Yoga 13\" Touch Laptop Core i5 16GB RAM 256GB SSD Win 11 Pro",
+        "price": "$239.73",
+        "status": "Good - Refurbished \u00b7 Lenovo",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 150
+    },
+    {
+        "name": "Lenovo IdeaPad 3 Laptop 15.6\" Touch Intel i5 Upto 36GB RAM 2TB SSD + Office 2024",
+        "price": "$1,049.00",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Acer Predator Helios Neo 16\" Gaming Laptop GeForceRTX5070 Ti 64GB 2TB CoreUltra9",
+        "price": "$2,499.99",
+        "status": "Brand New \u00b7 Acer",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "15.6\" Dell Laptop 5520/30 Vintage Windows XP Pro 32 Bit 2ghz 4gb 250gb DVD",
+        "price": "$124.99",
+        "status": "Pre-Owned \u00b7 Dell \u00b7 250 GB",
+        "shipping": 19.75,
+        "free_returns": true,
+        "items_sold": 62
+    },
+    {
+        "name": "Laptop 15.6 FHD Gaming Laptop, AMD Ryzen 7 5825U, 16GB RAM, 1TB SSD, Windows 11P",
+        "price": "$480.00",
+        "status": "Brand New \u00b7 Unbranded \u00b7 1 TB",
+        "shipping": 40.02,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "MAINGEAR Vector Pro 2 Ryzen 9 5900hx RTX 3080 17.3 \u201c 165hz NO RAMSSD PARTS READ",
+        "price": "$399.00",
+        "status": "Parts Only \u00b7 64 GB",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "(LOT OF 2) HP EliteBook 840 G7  Intel Core i5-1031G7 1.70GHz  8GB RAM  NO SSD",
+        "price": "$249.98",
+        "status": "Parts Only \u00b7 HP",
+        "shipping": 22.9524,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "2026 HP Laptop Computer 15.6\" Touch 6-Core Intel i3 Upto 64GB RAM 2TB SSD WinPro",
+        "price": "$1,269.00",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "HP 15-fd0150wm 15.6\" FHD Touchscreen i5-1334U 1.3GHz Intel UHD Graphics 8GB RAM",
+        "price": "$271.00",
+        "status": "Very Good - Refurbished \u00b7 HP",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 29
+    },
+    {
+        "name": "Dell Latitude E5420 14\" Laptop Intel Core i3 4GB 500GB HDD Windows 7",
+        "price": "$125.00",
+        "status": "Pre-Owned \u00b7 Dell \u00b7 500 GB",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 3979
+    },
+    {
+        "name": "MSI Vector 16 HX AI A2XWHG-060US 16\" Gaming Laptop U9-275HX 5070Ti 32GB 2TB W11P",
+        "price": "$1,999.00",
+        "status": "Certified - Refurbished \u00b7 MSI",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Acer Nitro V 15 Gaming Laptop GeForce RTX 5060 32GB RAM 1TB SSD ANV15-52-90QH",
+        "price": "$1,399.99",
+        "status": "Brand New \u00b7 Acer",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Dell 16 Plus DB16250 16 Silver FHD 3.3 GHz Ultra 7 258V 32GB 1TB SSD Arc 140v",
+        "price": "$595.00",
+        "status": "Pre-Owned \u00b7 Dell \u00b7 1 TB",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Dell Latitude 14\" Laptop Computer Intel i7 Up To 32GB RAM 1TB SSD Windows 11 Pro",
+        "price": "$589.70",
+        "status": "Good - Refurbished",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Cyber Special - Dell Latitude 5520 Laptop - 2.6 GHz i5-1145G7 16GB 512GB - Touch",
+        "price": "$248.00",
+        "status": "Pre-Owned \u00b7 Dell",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 670
+    },
+    {
+        "name": "HP Laptop 14\" HD Quad-Core Intel N150 8GB RAM 128GB UFS Webcam Windows 11 Blue",
+        "price": "$206.00",
+        "status": "Certified - Refurbished \u00b7 HP",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Lenovo V15 G4 15.6\" FHD Laptop Intel i5-13420H 16GB/512GB Win11H 83A100PSUS",
+        "price": "$329.99",
+        "status": "Good - Refurbished \u00b7 Lenovo",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Dell Latitude 7420 14\" FHD Laptop: i7-11th Gen, 16GB Ram, 512GB NVME SSD, Win 11",
+        "price": "$389.00",
+        "status": "Very Good - Refurbished \u00b7 Dell \u00b7 512 GB",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 23
+    },
+    {
+        "name": "Acer Aspire 3 14\" Laptop Intel i3-N305 8GB RAM 128GB SSD A314-36P Refurbished",
+        "price": "$166.46",
+        "status": "Certified - Refurbished \u00b7 Acer",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 455
+    },
+    {
+        "name": "Lenovo Yoga C630 13.3\" Touch Laptop Snapdragon 850 8GB RAM 256GB SSD",
+        "price": "$229.99",
+        "status": "Brand New \u00b7 Lenovo \u00b7 256 GB",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "ASUS ROG Z1 Extreme With Upgraded 1TB SSD (Bad SD Slot) -Includes Original SSD",
+        "price": "$330.00",
+        "status": "Pre-Owned \u00b7 ASUS",
+        "shipping": 14.49,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Lenovo LOQ-E 15.6\" Ryzen 7 7735HS 16GB DDR5 512GB SSD NVIDIA GeForce RTX 4050",
+        "price": "$799.99",
+        "status": "Brand New \u00b7 Lenovo",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 250
+    },
+    {
+        "name": "Lenovo Yoga 11e 11.6\" Touch Laptop Celeron 8GB RAM 128GB SSD Windows 11 C-GRADE",
+        "price": "$64.95",
+        "status": "Pre-Owned \u00b7 Lenovo",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 65
+    },
+    {
+        "name": "Dell Touchscreen Laptop 11.6\" Intel Pentium Silver 4GB RAM 128GB SSD Windows 11",
+        "price": "$122.77",
+        "status": "Good - Refurbished \u00b7 Dell",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 475
+    },
+    {
+        "name": "Lenovo Chromebook 300e 2nd Gen 2-in-1 11.6\" Touch 4GB 32GB SSD  *SEE PHOTOS*",
+        "price": "$41.00",
+        "status": "Pre-Owned \u00b7 Lenovo \u00b7 32 GB",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "DELL LATITUDE E5250 INTEL CORE I5-5300U 2.30GHZ 8GB RAM",
+        "price": "$55.00",
+        "status": "Pre-Owned \u00b7 Dell",
+        "shipping": 13.83,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "HP  14 G4 Chromebook, 16GB SSD, 4GB RAM, WiFi, , 14inch screen FREE SHIPPING",
+        "price": "$46.00",
+        "status": "Pre-Owned \u00b7 HP \u00b7 16 GB",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": 878
+    },
+    {
+        "name": "Libreboot ThinkPad T480 | i5-7300U | 8 GB RAM | 256 GB SSD",
+        "price": "$275.00",
+        "status": "Pre-Owned \u00b7 Lenovo",
+        "shipping": 15.0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Lenovo ThinkPad x1 Yoga 3rd Gen 2in1 (i5-8250u - 8GB RAM - 256GB SSD - Win11Pro)",
+        "price": "$140.00",
+        "status": "Pre-Owned \u00b7 Lenovo \u00b7 256 GB",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "HP EliteBook 850 G7 15.6\" Laptop i7-10610U 1.80GHz 16GB RAM 256GB NVMe Win 11",
+        "price": "$279.99",
+        "status": "Very Good - Refurbished \u00b7 HP",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "2026 Lenovo IdeaPad Touchscreen Laptop 15.6 13th Intel i5 12GB RAM 512GB SSD Pro",
+        "price": "$479.00",
+        "status": "Brand New \u00b7 Lenovo \u00b7 512 GB",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Acer Aspire Go 15 Laptop 15.6\" AMD Ryzen 5 16GB RAM 512GB SSD FHD AG15-21PT-R641",
+        "price": "$599.99",
+        "status": "Brand New \u00b7 Acer",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "2026 Lenovo IdeaPad Touchscreen Laptop 15.6 13th Intel i5 12GB RAM 512GB SSD Pro",
+        "price": "$479.00",
+        "status": "Brand New \u00b7 Lenovo \u00b7 512 GB",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "~CLEARANCE~ HP EliteBook Laptop: Intel i5! 16GB RAM~1 TB Storage! Windows 10!",
+        "price": "$197.81",
+        "status": "Good - Refurbished \u00b7 HP \u00b7 1 TB",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 168
+    },
+    {
+        "name": "Acer Aspire Go 15 Laptop 15.6\" AMD Ryzen 5 16GB RAM 512GB SSD FHD AG15-21PT-R641",
+        "price": "$599.99",
+        "status": "Brand New \u00b7 Acer",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Dell Precision 3540 15.6\" FHD Laptop i5-8365U 16GB RAM 128GB NVMe SSD Win11 Pro",
+        "price": "$189.00",
+        "status": "Pre-Owned \u00b7 Dell",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "HP 14-dq6013dx 14\" Intel N150 0.8 GHz 4GB 128GB UFS Intel UHD W11H Laptop, GR",
+        "price": "$139.00",
+        "status": "Very Good - Refurbished \u00b7 HP",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "HP 15-fd0130wm 15.6\" FHD Touchscreen i3-N305 1.8GHz Intel UHD Graphics 8GB RAM",
+        "price": "$208.00",
+        "status": "Very Good - Refurbished \u00b7 HP",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 65
+    },
+    {
+        "name": "Dell Latitude 3189 Touchscreen Laptop 11.6\" Celeron 4GB 128GB SSD Windows 10",
+        "price": "$98.00",
+        "status": "Pre-Owned \u00b7 Dell \u00b7 128 GB",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": 472
+    },
+    {
+        "name": "Lenovo - Legion 7i 16\" 2.5k OLED Gaming Laptop - Intel Core Ultra 9 275HX 202...",
+        "price": "$2,249.99",
+        "status": "Brand New \u00b7 Lenovo",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": 230
+    },
+    {
+        "name": "Samsung Chromebook 15.6\" (32GB eMMC, Intel Celeron, 1.1GHz, 4GB RAM) - Platinum",
+        "price": "$100.99",
+        "status": "Open Box \u00b7 Samsung \u00b7 32 GB",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "HP 15-dy2095wm 15.6\" FHD Laptop i5-1135G7 8GB RAM 256GB NVMe SSD Win11 Iris Xe",
+        "price": "$219.00",
+        "status": "Pre-Owned \u00b7 HP \u00b7 256 GB",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "HP - Laptop - 15.6\" - Intel\u00ae Core\u2122 i7 - 16GB RAM - 512GB SSD - Free Shipping",
+        "price": "$499.99",
+        "status": "Brand New \u00b7 HP",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": 21
+    },
+    {
+        "name": "HP 15.6\" Touch Laptop, 13th Gen Intel i3, 16GB RAM & 512BG SSD Win 11 Pro+Office",
+        "price": "$409.00",
+        "status": "Open Box \u00b7 HP \u00b7 512 GB",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 11
+    },
+    {
+        "name": "Dell Latitude 5440 14\" 256 GB SSD 8 GB RAM i5-1335U Windows 11 Pro",
+        "price": "$255.00",
+        "status": "Pre-Owned \u00b7 Dell",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "MSI Vector 16 HX A14VHG-278US 16\" Gaming Laptop i9-14900HX 4080 32GB 1TB Win11P",
+        "price": "$1,999.00",
+        "status": "Certified - Refurbished \u00b7 MSI",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Acer Nitro V 17.3\" FHD Gaming Laptop NVIDIA RTX5060 16GB 512GB SSD ANV17-41-R8ML",
+        "price": "$1,199.99",
+        "status": "Brand New \u00b7 Acer",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "\ud83d\udd25 Lenovo ThinkPad Yoga Touchscreen Laptop | i7-4600U | 8GB RAM | 120GB SSD |",
+        "price": "$139.00",
+        "status": "Pre-Owned \u00b7 Lenovo",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "HP EliteBook 845 G8 Gaming Laptop Ryzen 5 PRO 5650U 16GB 256GB Windows 11 Pro",
+        "price": "$249.99",
+        "status": "Good - Refurbished \u00b7 HP \u00b7 256 GB",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 142
+    },
+    {
+        "name": "2026 HP Pavilion Laptop 17.3\" FHD, AMD Ryzen 5, 8GB RAM & 512GB SSD Win 11 Pro",
+        "price": "$549.00",
+        "status": "Brand New \u00b7 HP \u00b7 512 GB",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Lenovo ThinkPad 13.3\" Laptop : i5 8th Gen | 8GB Ram 128GB SSD | Windows 11 Home",
+        "price": "$109.99",
+        "status": "Pre-Owned \u00b7 Lenovo \u00b7 128 GB",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "HP Laptop 17-CN0001TG",
+        "price": "$240.00",
+        "status": "Pre-Owned \u00b7 HP \u00b7 512 GB",
+        "shipping": 15.28,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "HP EliteBook 840 G6 Laptop Intel Core i5 8365U 1.6GHz 16GB 256GB SSD W11P Touch",
+        "price": "$169.99",
+        "status": "Pre-Owned \u00b7 HP",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Lenovo IdeaPad 3 14\" FHD Laptop Intel Core i3-1115G4 8GB RAM 128GB SSD",
+        "price": "$205.99",
+        "status": "Open Box \u00b7 Lenovo \u00b7 128 GB",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Dell Chromebook 11 3180 11.6\" Intel 1.6GHz 4GB 16GB SSD Laptop , w charger. S3",
+        "price": "$29.99",
+        "status": "Pre-Owned \u00b7 Dell \u00b7 16 GB",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Dell Chromebook 3100 11.6\" Laptop / TESTED WORKING / Webcam w/charger",
+        "price": "$49.00",
+        "status": "Pre-Owned \u00b7 Dell",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 1072
+    },
+    {
+        "name": "10 Inch Ultra Slim Mini Laptop Win 11 8GB RAM 128GB SSD Celeron WiFi PC",
+        "price": "$194.99",
+        "status": "Brand New \u00b7 128 GB",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Dell Precision 7550 i7-10850H / 32GB RAM / Quadro T2000 / NO SSD -RL5102",
+        "price": "$370.00",
+        "status": "Pre-Owned \u00b7 Dell",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "16ial10 Ideapad 5 2n1 Ultra 7 255u 32gb 1tb Touch A Nice",
+        "price": "$530.00",
+        "status": "Pre-Owned \u00b7 Lenovo \u00b7 1 TB",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Touchscreen Lenovo Thinkpad X1 Carbon Gen 9 (Intel i7-1185G7 / 16GB RAM / 512GB)",
+        "price": "$379.99",
+        "status": "Good - Refurbished \u00b7 Lenovo \u00b7 512 GB",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 25
+    },
+    {
+        "name": "Lenovo T460s 14\" Intel i5 12GB 256GB SSD WIN 10 Pro Webcam laptop WIFI CAM",
+        "price": "$169.99",
+        "status": "Excellent - Refurbished \u00b7 Lenovo \u00b7 256 GB",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 213
+    },
+    {
+        "name": "Dell Latitude 7490 Intel Core i5 16G 256G Windows 11 Wifi BT MS Office 21 Laptop",
+        "price": "$224.99",
+        "status": "Pre-Owned \u00b7 Dell \u00b7 256 GB",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": 34
+    },
+    {
+        "name": "Lenovo L590 1.6GHz i5-8265U 8GB 256GB SSD Win 11 Pro Webcam 15.6\" Passed Tests",
+        "price": "$168.00",
+        "status": "Pre-Owned \u00b7 Lenovo \u00b7 256 GB",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "ASUS Chromebook Plus CX 14\" Touchscreen Laptop. Intel Core 3-N355, 256GB, 8GB Ob",
+        "price": "$175.00",
+        "status": "Open Box \u00b7 ASUS \u00b7 256 GB",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "HP Elite Dragonfly Max, i7-1165G7, 16GB RAM, 512GB NVMe, No OS, Grade B, A3",
+        "price": "$325.00",
+        "status": "Pre-Owned \u00b7 HP",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "HP EliteBook 865 G9 Ryzen 5 Pro 6650U 2.90 GHz 16 GB DDR5 256 GB NVMe Windows 11",
+        "price": "$299.99",
+        "status": "Pre-Owned \u00b7 HP",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Lenovo ThinkPad T14 G2 14\" Laptop AMD Ryzen 7 PRO 5850U 1.90GHz Windows 11 Pro",
+        "price": "$539.99",
+        "status": "Very Good - Refurbished",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Panasonic CF-20 Intel core M5-6Y57 1.1 GHz 8 GB ram 256 GB SSD/Win 11",
+        "price": "$139.99",
+        "status": "Pre-Owned \u00b7 Panasonic",
+        "shipping": 11.7224,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Dell precision 5570, intel i9 12th, Nvidia RTX A2000, **READ**",
+        "price": "$249.99",
+        "status": "Pre-Owned \u00b7 Dell",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "HP Laptop 15-fd0008ca (NON-TOUCH), Windows 11 Home, Intel Core I5-1335U 16GB 1TB",
+        "price": "$409.99",
+        "status": "Brand New \u00b7 HP",
+        "shipping": 14.74,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "SGIN 17.3\" FHD Laptop 512GB SSD 12GB RAM Notebook-Intel N5095 Up to 2.9GHz WiFi",
+        "price": "$288.99",
+        "status": "Brand New \u00b7 Sgin \u00b7 512 GB",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "HP 11.6\" Touchscreen X360 G1 EE Laptop Windows 11 Pro Touch Screen 2in1 Children",
+        "price": "$85.00",
+        "status": "Pre-Owned \u00b7 HP \u00b7 32 GB",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": 83
+    },
+    {
+        "name": "HP Elitebook 845 G8 14\" FHD Laptop AMD Ryzen 5 PRO 5650U 16GB 256GB W11P",
+        "price": "$294.99",
+        "status": "Certified - Refurbished \u00b7 HP",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Lenovo Laptop Win 11  Touch 128GB SSD 4GB RAM Win 11 Celeron N4120 11.6\"",
+        "price": "$99.99",
+        "status": "Excellent - Refurbished \u00b7 Lenovo \u00b7 128 GB",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 48
+    },
+    {
+        "name": "HP Probook 640 G2 14\u201d Laptop i3-6100U 2.3GHz 8GB RAM 500GB HDD Windows 10 Pro GB",
+        "price": "$68.00",
+        "status": "Pre-Owned \u00b7 HP \u00b7 500 GB",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "HP  17-cn2123nr 17t Silver Laptop PC 17.3\" Touch i3-1215U 12GB 512G SSD HDMI W11",
+        "price": "$399.57",
+        "status": "Very Good - Refurbished \u00b7 HP",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Dell Inspiron 13-7359 Intel Core i7 6th Gen. 8GB RAM 256GB SSD",
+        "price": "$125.00",
+        "status": "Pre-Owned \u00b7 Dell \u00b7 256 GB",
+        "shipping": 16.73,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Dell Latitude 3120 2-in-1 Laptop 11.6\" Pentium N6000 @1.1GHz 8GB RAM 256GB SSD",
+        "price": "$108.00",
+        "status": "Pre-Owned \u00b7 Dell \u00b7 256 GB",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": 111
+    },
+    {
+        "name": "Lenovo Laptop Win 11 Touch N4120 4GB RAM 64GB SSD Celeron N4120 11.6",
+        "price": "$84.99",
+        "status": "Excellent - Refurbished \u00b7 Lenovo \u00b7 64 GB",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 20
+    },
+    {
+        "name": "HP 15-fd0133wm 15.6\" FHD i3-N305 1.8GHz Intel UHD Graphics 8GB RAM 256GB SSD Win",
+        "price": "$237.00",
+        "status": "Open Box \u00b7 HP",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 110
+    },
+    {
+        "name": "Samsung Galaxy Book 2 Pro NP950QED i7-1260P / 16GB RAM / NO SSD -RL5041",
+        "price": "$150.00",
+        "status": "Pre-Owned \u00b7 Samsung",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Acer Aspire Go 15 15.6\" Notebook FHD Intel i3-N305 8GB 128GB SSD UHD Refurbished",
+        "price": "$182.27",
+        "status": "Certified - Refurbished \u00b7 Acer \u00b7 128 GB",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 245
+    },
+    {
+        "name": "ASUS ROG Z1 Extreme With Upgraded 1TB SSD (Bad SD Slot) -Includes Original SSD",
+        "price": "$330.00",
+        "status": "Pre-Owned \u00b7 ASUS",
+        "shipping": 14.49,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Acer Nitro V 16 Laptop ANV16-42-R96P AMD Ryzen 7 RTX 5050 16GB RAM 512GB SSD",
+        "price": "$756.08",
+        "status": "Certified - Refurbished \u00b7 Acer",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 78
+    },
+    {
+        "name": "DELL Latitude 5430 14\" FHD Core i5-1245U 4.4GHz 16GB RAM 512GB SSD Win 10 Pro",
+        "price": "$225.00",
+        "status": "Pre-Owned \u00b7 Dell \u00b7 512 GB",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Lenovo ThinkPad L13 Yoga G2 | i5-1145G7| 16 GB RAM| NO SSD. Read desc",
+        "price": "$89.99",
+        "status": "Parts Only \u00b7 Lenovo",
+        "shipping": 4.99,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Dell Latitude 7330 13.3\" Intel Core i7-1265U 16GB RAM 256GB SSD Touchscreen",
+        "price": "$300.00",
+        "status": "Pre-Owned \u00b7 Dell \u00b7 256 GB",
+        "shipping": 15.0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Dell Latitude 5480 14.1\" Core i5 7th Gen Incomplete with Batt.No RAM, No SSD.",
+        "price": "$70.00",
+        "status": "Pre-Owned \u00b7 Dell",
+        "shipping": 15.0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Dell 7420 intel core i7-1185G7, 32GB, 256GB, Windows 11 pro",
+        "price": "$224.99",
+        "status": "Pre-Owned \u00b7 Dell",
+        "shipping": 12.0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Dell Latitude E6440 i5-4310M 8GB 128GB SSD Webcam Wi-Fi Win10 Pro 14\"",
+        "price": "$90.00",
+        "status": "Pre-Owned \u00b7 Dell \u00b7 128 GB",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": 352
+    },
+    {
+        "name": "Dell Latitude 7420 \u2013 Intel Core i7 | 16GB RAM | 512GB SSD | 14\u201d Touch | Win 11",
+        "price": "$199.00",
+        "status": "Pre-Owned \u00b7 Dell \u00b7 256 GB",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": 46
+    },
+    {
+        "name": "HP ProBook x360 11 G1  Intel Pentium N4200 4GB RAM  128GB SSD  **SEE PHOTOS**",
+        "price": "$48.00",
+        "status": "Pre-Owned \u00b7 HP \u00b7 128 GB",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "2026 Dell Laptop 16\" Touch Backlit Intel 5 120U 16GB RAM & 512GB SSD Office 2024",
+        "price": "$599.00",
+        "status": "Brand New \u00b7 Dell \u00b7 512 GB",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "MSI Vector 16 HX A14VHG-278US 16\" Gaming Laptop i9-14900HX 4080 32GB 1TB Win11P",
+        "price": "$1,999.00",
+        "status": "Certified - Refurbished \u00b7 MSI",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Acer Nitro V 17.3\" FHD Gaming Laptop NVIDIA RTX5060 16GB 512GB SSD ANV17-41-R8ML",
+        "price": "$1,199.99",
+        "status": "Brand New \u00b7 Acer",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "2026 Dell Inspiron Laptop 15.6 Touch 13th Gen Intel i7 16GB RAM & 512GB SSD Pro",
+        "price": "$679.00",
+        "status": "Brand New \u00b7 Dell \u00b7 512 GB",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Dell Latitude 5480 14.1\" Core i5 7th Gen Incomplete with Batt.No RAM, No SSD.",
+        "price": "$70.00",
+        "status": "Pre-Owned \u00b7 Dell",
+        "shipping": 15.0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Dell 7420 intel core i7-1185G7, 32GB, 256GB, Windows 11 pro",
+        "price": "$224.99",
+        "status": "Pre-Owned \u00b7 Dell",
+        "shipping": 12.0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Acer Aspire Go 15 15.6\" Notebook FHD Intel i3-N305 8GB 128GB SSD UHD Refurbished",
+        "price": "$182.27",
+        "status": "Certified - Refurbished \u00b7 Acer \u00b7 128 GB",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 245
+    },
+    {
+        "name": "Dell Latitude E6440 i5-4310M 8GB 128GB SSD Webcam Wi-Fi Win10 Pro 14\"",
+        "price": "$90.00",
+        "status": "Pre-Owned \u00b7 Dell \u00b7 128 GB",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": 352
+    },
+    {
+        "name": "Lenovo 300e Chromebook 2nd Gen 11.6\" Touch| 4GB RAM 32GB eMMC + Charger  Grade B",
+        "price": "$29.99",
+        "status": "Pre-Owned \u00b7 Lenovo \u00b7 32 GB",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": 46
+    },
+    {
+        "name": "2026 HP Pavilion Laptop 17.3\" FHD, AMD Ryzen 5, 8GB RAM & 512GB SSD Win 11 Pro",
+        "price": "$549.00",
+        "status": "Brand New \u00b7 HP \u00b7 512 GB",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Samsung Galaxy Book3 Pro 14\" (512GB SSD, Intel Core i7 13th Gen., 5.00 GHz,...",
+        "price": "$599.99",
+        "status": "Pre-Owned \u00b7 Samsung",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Lenovo ThinkPad T490-i5-8365U-8GB RAM-256GB SSD-Win11 Pro NB",
+        "price": "$125.00",
+        "status": "Pre-Owned \u00b7 Lenovo \u00b7 256 GB",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Lenovo ThinkPad X1 Yoga Gen 6 14\" Touch 16GB RAM 512GB SSD 4.8GHz i7 Turbo",
+        "price": "$397.00",
+        "status": "Very Good - Refurbished \u00b7 Lenovo",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 8
+    },
+    {
+        "name": "2026 Dell Inspiron 15 Laptop FHD Touch AMD Ryzen 7 7730U 12GB RAM 256GB SSD Pro",
+        "price": "$489.00",
+        "status": "Brand New \u00b7 Dell \u00b7 256 GB",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Dell Precision 3540 15.6\" FHD Laptop i5-8365U 16GB RAM 128GB NVMe SSD Win11 Pro",
+        "price": "$189.00",
+        "status": "Pre-Owned \u00b7 Dell",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "HP EliteBook 840 G6 Laptop Intel Core i5 8365U 1.6GHz 16GB 256GB SSD W11P Touch",
+        "price": "$169.99",
+        "status": "Pre-Owned \u00b7 HP",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Lenovo TP T14 G3 14-inch WUXGA Touch Intel i5-1245U 16GB, 256GB SSD Win 11 Pro",
+        "price": "$359.99",
+        "status": "Excellent - Refurbished \u00b7 Lenovo",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "\ud83d\udd25 Lenovo ThinkPad Yoga Touchscreen Laptop | i7-4600U | 8GB RAM | 120GB SSD |",
+        "price": "$139.00",
+        "status": "Pre-Owned \u00b7 Lenovo",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Lenovo ThinkPad T14s Gen 6 14\" WUXGA AMD Ryzen AI 7 PRO 350 32GB 1TB SSD Cam FPR",
+        "price": "$937.00",
+        "status": "Certified - Refurbished \u00b7 Lenovo \u00b7 1 TB",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Dell Precision 5570 15.6-Inch UHD+ Touch i7-12700H 32GB 1TB NVIDIA RTX Win11 Pro",
+        "price": "$729.99",
+        "status": "Excellent - Refurbished \u00b7 Dell",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "14\" Dell Latitude Laptop i5 Dual Core  Up To 16GB RAM 1TB HDD Zorin Core Edition",
+        "price": "$163.55",
+        "status": "Pre-Owned",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "HP EliteBook X G1i 14 (Touch) --- Ultra 7 268V / 32GB RAM / 512GB SSD / WTY 2029",
+        "price": "$1,049.00",
+        "status": "Open Box \u00b7 HP",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": 29
+    },
+    {
+        "name": "HP EliteBook Folio 1040 G3: i5-6300U 2.4GHz, 8GB RAM, 128GB SSD, AC adapter-USED",
+        "price": "$100.00",
+        "status": "Pre-Owned \u00b7 HP \u00b7 128 GB",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": 32
+    },
+    {
+        "name": "Dell Latitude 5450 14\" FHD - Intel Ultra 5 125U - 16GB RAM 256GB SSD",
+        "price": "$418.00",
+        "status": "Brand New \u00b7 Dell \u00b7 256 GB",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "DELL PRECISION 5550 Laptop Intel I7-10850H 8GB 512GB SEE NOTES",
+        "price": "$316.82",
+        "status": "Pre-Owned \u00b7 Dell",
+        "shipping": 30.35,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Lenovo ThinkPad T14s 14\" Intel i7 4.8GHz 32GB 512GB SSD Win11",
+        "price": "$369.99",
+        "status": "Good - Refurbished \u00b7 Lenovo",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 40
+    },
+    {
+        "name": "Lenovo Chromebook 500e 3rd Gen 2in1 11.6\" (N5100 - 8GB RAM - 64GB eMMC)",
+        "price": "$64.84",
+        "status": "Pre-Owned \u00b7 Lenovo",
+        "shipping": 10.0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Lenovo ThinkPad P15s 15.6\" i7-10510U @ 1.80GHz 16GB RAM 512GB NVMe P520 Win11Pro",
+        "price": "$250.00",
+        "status": "Good - Refurbished \u00b7 Lenovo",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "HP 14\" Laptop Intel Processor N150 4GB RAM 128GB Storage UFS - Natural Silver",
+        "price": "$188.95",
+        "status": "Brand New \u00b7 HP",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": 36
+    },
+    {
+        "name": "~CLEARANCE~ HP EliteBook Laptop: Intel i5! 16GB RAM~1 TB Storage! Windows 10!",
+        "price": "$197.81",
+        "status": "Good - Refurbished \u00b7 HP \u00b7 1 TB",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 168
+    },
+    {
+        "name": "SGIN 17.3\" FHD Laptop 512GB SSD 12GB RAM Notebook-Intel N5095 Up to 2.9GHz WiFi",
+        "price": "$288.99",
+        "status": "Brand New \u00b7 Sgin \u00b7 512 GB",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Lenovo Legion 5 Gaming 15.1\" WQXGA OLED 165Hz Ryzen 7 260 16GB 1TB SSD RTX 5060",
+        "price": "$1,099.00",
+        "status": "Certified - Refurbished \u00b7 Lenovo",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Dell Latitude 5290 2 in 1 Touchscreen Notebook/ Laptop Windows 11",
+        "price": "$125.00",
+        "status": "Pre-Owned \u00b7 Dell \u00b7 256 GB",
+        "shipping": 18.0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Samsung Chromebook 4+ 15.6\" (N4000 1.10GHz - 4GB RAM - 128GB eMMC)",
+        "price": "$59.84",
+        "status": "Pre-Owned \u00b7 Samsung",
+        "shipping": 10.0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Dell Latitude 5520 Laptop i5-1145G7 up to 64GB RAM & 2TB SSD 15.6\" Touchscreen",
+        "price": "$499.00",
+        "status": "Very Good - Refurbished",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 12
+    },
+    {
+        "name": "HP ProBook 640 G3 Notebook i5-7200U 8GB 256GB SSD W11P 1VB63AV#ABA",
+        "price": "$119.99",
+        "status": "Pre-Owned \u00b7 HP",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Dell XPS 13 9310 13.4\" PC Laptop, Intel Core i5-1145G7  2.6GHz, 16GB RAM",
+        "price": "$259.99",
+        "status": "Pre-Owned \u00b7 Dell \u00b7 16 GB",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "New Lenovo Yoga 7 2-in-1 14\" 2K Touch Ryzen AI 5 340 16GB 512GB SSD IR CAM FPR",
+        "price": "$659.00",
+        "status": "Brand New \u00b7 Lenovo",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "CHUWI FreeBook 13.5'' Touchscreen Laptop \u2013 Intel N5100 360\u00b0 Win 11 PC 12G 512G",
+        "price": "$279.99",
+        "status": "Brand New \u00b7 Chuwi \u00b7 512 GB",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "EXECUTIVE SPECIAL~ 14 DELL Latitude Laptop: Intel i5! 16GB RAM - 1 TB NVME SSD",
+        "price": "$369.59",
+        "status": "Excellent - Refurbished \u00b7 Dell",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 20
+    },
+    {
+        "name": "HP EliteBook 640 G10 14\" (i5-1335u - 32GB RAM - 256GB SSD - Win11Home)",
+        "price": "$264.84",
+        "status": "Pre-Owned \u00b7 HP",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "CUSTOM ORDER",
+        "price": "$11,000.00",
+        "status": "Brand New \u00b7 Unbranded",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "HP ProBook 445 G9 14\" FHD Ryzen 5 5625U 2.3GHz 512GB SSD 16GB RAM W11H",
+        "price": "$219.99",
+        "status": "Pre-Owned \u00b7 HP",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Dell Latitude 5420 Laptop - 2.4 GHz i5-1135G7 16GB 256GB SSD Webcam 14\"",
+        "price": "$199.00",
+        "status": "Pre-Owned \u00b7 Dell \u00b7 256 GB",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 36
+    },
+    {
+        "name": "2025 HP Laptop 14\" HD Intel Quad-Core N150 4GB/128GB Microsoft 365 1 Year",
+        "price": "$186.98",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Lenovo ThinkPad T490 Intel Core i7 8565u 1.8GHz 32GB RAM 1TB SSD Win 11 Pro",
+        "price": "$445.00",
+        "status": "Excellent - Refurbished \u00b7 Lenovo",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "HP 15.6\" Touchscreen Laptop Ryzen 5 7520U 8GB RAM 256GB SSD Windows 11 - Silver",
+        "price": "$399.99",
+        "status": "Brand New \u00b7 HP",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "HP ZBOOK 17 G6 17\" Intel Core i7-9850H 2.60GHz 32GB RAM 512GB NVMe",
+        "price": "$402.49",
+        "status": "Pre-Owned \u00b7 HP",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Dell Latitude 7390 2-in-1 Intel Core i5-8350U 1.7Ghz 8GB Ram No SSD 13.3\" Laptop",
+        "price": "$99.95",
+        "status": "Pre-Owned \u00b7 Dell",
+        "shipping": 12.95,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Dell Latitude 5500 15.6\" Laptop i5-8365U 1.6GHz 4GB RAM No SSD/OS! BIOS PW! #69",
+        "price": "$109.99",
+        "status": "Pre-Owned \u00b7 Dell",
+        "shipping": 10.0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Dell Latitude 5520 15.6\" (i5-1145G7 2.60GHz - 8GB RAM - 256GB SSD - Win11Home)",
+        "price": "$164.84",
+        "status": "Pre-Owned \u00b7 Dell",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Dell Latitude 7410 14\" FHD (i5-10310U @1.70, 8GB RAM, Boot To Bio) NO HD/ADAPTER",
+        "price": "$100.00",
+        "status": "Parts Only \u00b7 Dell",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Microsoft Surface Laptop 5 Touchscreen 13.5\" i7-1265U 16GB RAM 512GB SSD W11 Pro",
+        "price": "$435.00",
+        "status": "Pre-Owned \u00b7 Microsoft",
+        "shipping": 14.1324,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Dell Latitude 7420 2 in 1 Tablet Laptop - i7 1185G7 16GB 512GB - 14\" Touchscreen",
+        "price": "$319.00",
+        "status": "Pre-Owned \u00b7 Dell",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 83
+    },
+    {
+        "name": "HP ELITE DRAGONFLY | INTEL CORE I5-1245U | 256GB | 16GB | CHROME OS",
+        "price": "$199.99",
+        "status": "Pre-Owned \u00b7 HP",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 51
+    },
+    {
+        "name": "Dell Latitude 5400 i7-8665U 1.9GHz 16GB 512GB NVMe 14\" No OS: Excellent",
+        "price": "$159.00",
+        "status": "Pre-Owned \u00b7 Dell",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Acer Aspire 14 AI Laptop 14\" WUXGA IPS Intel Core Ultra 7+ARC 16GB RAM 1TB SSD",
+        "price": "$524.00",
+        "status": "Brand New \u00b7 Acer \u00b7 1 TB",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Microsoft Surface Laptop 3 15\"  1872 Core i7 512GB SSD 16GB RAM w/Dock Station",
+        "price": "$319.99",
+        "status": "Pre-Owned \u00b7 Microsoft \u00b7 512 GB",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "14\" HP EliteBook Laptop: Ryzen 5 Pro 3500U 16GB RAM - 512GB NVME SSD TouchScreen",
+        "price": "$265.97",
+        "status": "Good - Refurbished \u00b7 HP",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Dell Latitude 5300 13\" Laptop Intel Core i5 8th Gen 4GB RAM 128GB SSD Windows 11",
+        "price": "$115.00",
+        "status": "Pre-Owned \u00b7 Dell",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Dell Latitude 7390 13.3 Touch 2-IN-1 Intel i7 16GB 512 SSD, Win 11 Pro Grade A!!",
+        "price": "$299.95",
+        "status": "Pre-Owned \u00b7 Dell \u00b7 512 GB",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "HP ProBook Laptop Computer PC 14 Core i5 16GB RAM 512GB Windows 11 Pro OFFICE!",
+        "price": "$259.88",
+        "status": "Pre-Owned \u00b7 HP \u00b7 512 GB",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": 20
+    },
+    {
+        "name": "HP EliteBook 840 G5 Laptop Core i5 8350U 1.7GHz 8GB RAM 256GB SSD W11P Touch",
+        "price": "$139.99",
+        "status": "Pre-Owned \u00b7 HP",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "~CD/DVD BURNER~ 14\" HP ProBook Laptop PC: Intel i5! 16GB RAM - 256GB SSD! Win 10",
+        "price": "$178.74",
+        "status": "Good - Refurbished \u00b7 HP",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 157
+    },
+    {
+        "name": "Lenovo ThinkPad T14 Gen 6 14\" WUXGA Ultra 5 225U 16GB 512GB SSD Cam FPReader",
+        "price": "$750.00",
+        "status": "Certified - Refurbished \u00b7 Lenovo",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Lenovo ThinkPad X1 Carbon Gen 9 + i7-1165G7 2.80GHz 16GB 512, SSD,",
+        "price": "$349.00",
+        "status": "Pre-Owned \u00b7 Lenovo \u00b7 512 GB",
+        "shipping": 15.0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "HP OmniBook 5 Laptop Computer 16\" 2K Touch Screen Snapdragon X Plus 32 GB",
+        "price": "$649.99",
+        "status": "Brand New \u00b7 HP",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Lenovo Legion Go 2 Handheld Gaming PC Ryzen Z2 32GB RAM 1TB SSD 8.8\"OLED 144Hz",
+        "price": "$1,419.00",
+        "status": "Open Box \u00b7 Lenovo",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 37
+    },
+    {
+        "name": "Dell Latitude 5530 15-inch FHD Touchscreen i7 32GB 512GB W11 Pro Laptop",
+        "price": "$554.99",
+        "status": "Excellent - Refurbished \u00b7 Dell",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "HP ProBook 645 G4 AMD Ryzen 7 Pro w/ Radeon Vega Mobile Gfx 8GB RAM 256GB NVMe",
+        "price": "$169.00",
+        "status": "Pre-Owned \u00b7 HP \u00b7 256 GB",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": 32
+    },
+    {
+        "name": "Lenovo ThinkPad T14s 14\" Intel i7 4.8GHz 32GB 512GB SSD Win 11 Pro",
+        "price": "$364.55",
+        "status": "Good - Refurbished \u00b7 Lenovo",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Dell Latitude 5400 14\" i7-8665U@1.9GHz, 16GB RAM, 512GB M2, Win 11 Pro *READ*",
+        "price": "$130.00",
+        "status": "Pre-Owned \u00b7 Dell \u00b7 512 GB",
+        "shipping": 16.33,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "HP ProBook 440 G9 14\" Laptop i5-1235U 8GB RAM 256GB NVMe, As Is",
+        "price": "$229.99",
+        "status": "Pre-Owned \u00b7 HP",
+        "shipping": 16.34,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "HP EliteBook 850 G6 15.6\" Windows 11 Laptop (Intel Core i5 / 256GB / 16GB RAM)",
+        "price": "$219.99",
+        "status": "Very Good - Refurbished \u00b7 HP",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 24
+    },
+    {
+        "name": "Dell 3100 2-in-1 Touchscreen Laptop Windows 11 Installed Student Teacher",
+        "price": "$90.00",
+        "status": "Pre-Owned \u00b7 Dell \u00b7 32 GB",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Dell Latitude 5420 14\" Touch Core i5-1145G7 2.6GHz 16GB RAM 256GB SSD WIN 11 PRO",
+        "price": "$189.95",
+        "status": "Pre-Owned \u00b7 Dell \u00b7 256 GB",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "HP ProBook 440 G9 14\" Laptop i5-1235U 8GB RAM 256GB NVMe, As Is",
+        "price": "$229.99",
+        "status": "Pre-Owned \u00b7 HP",
+        "shipping": 16.34,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Dell Precision 3540 Laptop Intel i5-8th Gen 8GB RAM 256GB M.2 SSD Win 11 Pro",
+        "price": "$129.99",
+        "status": "Pre-Owned \u00b7 Dell",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Laptop Computer 17.3 Inch Laptop 4GB DDR4 128GB SSD Webcam Up to 2.4GHz 8000 mAh",
+        "price": "$194.99",
+        "status": "Brand New \u00b7 Sgin \u00b7 128 GB",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "HP Elite Dragonfly Chromebook 13.5\" QHD Touch i5-1245U 16GB 256GB WIFI CHROMEOS",
+        "price": "$279.99",
+        "status": "Very Good - Refurbished \u00b7 HP \u00b7 256 GB",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 18
+    },
+    {
+        "name": "Lenovo L590 1.6GHz i5-8265U 8GB 256GB SSD Win 11 Pro Webcam 15.6\" Passed Tests",
+        "price": "$168.00",
+        "status": "Pre-Owned \u00b7 Lenovo \u00b7 256 GB",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "HP Elitebook 800 G5 Desktop Mini Core i5 9600T 8GB 128GB Win11Pro",
+        "price": "$130.99",
+        "status": "Pre-Owned \u00b7 HP",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "HP ELITEBOOK 745 G6 14\" AMD Ryzen 7 3700U 2.30GHz 16GB RAM 256GB NVMe",
+        "price": "$164.99",
+        "status": "Pre-Owned \u00b7 HP",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 12
+    },
+    {
+        "name": "HP Laptop 14-ep2012wm 14\" 128 GB SSD 4 GB RAM Intel N150 Windows 11 Home",
+        "price": "$120.00",
+        "status": "Pre-Owned \u00b7 HP",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Lenovo V15 G4 15.6\" FHD Laptop Intel i5-13420H 16GB 512GB Win11H 83A100PSUS",
+        "price": "$389.99",
+        "status": "Open Box \u00b7 Lenovo",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Lenovo Chromebook 100e 11.6\" Gen 2 A4 1.6GHz/4GB/32GB SSD 82CD0000US",
+        "price": "$36.18",
+        "status": "Pre-Owned \u00b7 Lenovo",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 64
+    },
+    {
+        "name": "Dell Latitude 5289 i5-7300U 2.6GHz 8GB 128GB Win11 Pro Touch Notebook PC",
+        "price": "$140.00",
+        "status": "Pre-Owned \u00b7 Dell",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Acer TravelMate B311-31 11.6\" N100 3.40GHz/8GB/128GB (Black) - N23C1 w/Warranty",
+        "price": "$108.93",
+        "status": "Excellent - Refurbished \u00b7 Acer",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Lenovo Thinkpad T14 Gen 2A Ryzen 7 Pro 5850 16GB FHD 512GB Win 11 Pro",
+        "price": "$349.99",
+        "status": "Pre-Owned \u00b7 Lenovo",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "HP EliteBook 840 G6 Laptop Intel Core i5 8365U 1.6GHz 8GB 256GB SSD W11P Touch",
+        "price": "$139.99",
+        "status": "Pre-Owned \u00b7 HP",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "ACEMAGIC 15.6\" Laptop Intel 12th Alder Lake N95 16GB RAM 512GB WIFI5 Windows 11",
+        "price": "$179.00",
+        "status": "Pre-Owned \u00b7 Acemagic",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "FZ-G1 Toughpad i5-7300u 2.6GHz 8gb 256gb Windows 11 Tablet MK5 4gLTE Rugged Tab",
+        "price": "$299.99",
+        "status": "Excellent - Refurbished \u00b7 Panasonic \u00b7 256 GB",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "HP ELITEBOOK 745 G6 14\" AMD Ryzen 7 3700U 2.30GHz 16GB RAM 256GB NVMe",
+        "price": "$201.24",
+        "status": "Pre-Owned \u00b7 HP",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 35
+    },
+    {
+        "name": "Dell Inspiron i3535 15.6\" FHD Touch AMD Ryzen 5 7530U 8GB 1TB SSD W11H Laptop BK",
+        "price": "$290.70",
+        "status": "Very Good - Refurbished \u00b7 Dell",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "AceMagic Laptop AX18 18.5\" Intel N150 512GB- Gray",
+        "price": "$329.98",
+        "status": "Open Box \u00b7 Acemagic",
+        "shipping": 38.55,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Dell Latitude 5520 15.6\u201d Core i7-1185G7 32GB 1TB SSD Win 11 Pro Touchscreen",
+        "price": "$545.00",
+        "status": "Excellent - Refurbished \u00b7 Dell",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "ThinkPad L440 Laptop 14\" Intel Core i5-4330M 2.8GHz 16GB 256GB SSD Win 10 Pro",
+        "price": "$159.99",
+        "status": "Pre-Owned \u00b7 Lenovo",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Dell Latitude 5530 11th Gen i5-1145G7 8GB 15.6 Laptop - For parts Not Working",
+        "price": "$79.99",
+        "status": "Parts Only \u00b7 Dell",
+        "shipping": 46.07,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Acer 14 CB3-431 4GB RAM 32GB eMMC Windows 11 Installed Laptop Birthday Gift Set",
+        "price": "$80.00",
+        "status": "Pre-Owned \u00b7 Acer \u00b7 32 GB",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "CHUWI HeroBook Pro 14.1 Intel Celeron N4020 Windows 11 Laptop 256GB SSD 8GB RAM",
+        "price": "$194.00",
+        "status": "Brand New \u00b7 Chuwi \u00b7 8 GB",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 503
+    },
+    {
+        "name": "HP ProBook 440 G8/13.0\" i7-1165G7 @2.80GHz/16GB RAM/256GB NVME/WIN 11 PRO *READ*",
+        "price": "$224.50",
+        "status": "Pre-Owned \u00b7 HP",
+        "shipping": 16.15,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "ASUS CX1500CKA 15.6\" FHD NanoEdge Intel N4500 8GB 64GB Military Grade Chromebook",
+        "price": "$116.00",
+        "status": "Certified - Refurbished \u00b7 ASUS",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 1066
+    },
+    {
+        "name": "Dell Chromebook 3100 2 IN 1 11.6\", Intel Celeron,4GB, 6GB, ChromeOS TOUCH SCREEN",
+        "price": "$35.99",
+        "status": "Pre-Owned \u00b7 Dell \u00b7 16 GB",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Lenovo IdeaPad 1 15IAU7 15.6\" 256 GB SSD 8 GB RAM i3-1215U Windows 11 Home",
+        "price": "$175.00",
+        "status": "Pre-Owned \u00b7 Lenovo",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "HP Elitebook 840 G9 14in FHD - Intel i7-1265U - 16GB RAM 512GB SSD - SureView 2",
+        "price": "$399.00",
+        "status": "Pre-Owned \u00b7 HP \u00b7 512 GB",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Dynabook TECRA A40-J 14\" Laptop i7 11th Gen 1TB SSD 32GB RAM Win 11 Pro (CI)",
+        "price": "$299.95",
+        "status": "Good - Refurbished \u00b7 dynabook",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "MINT Dell Latitude 5550 TOUCH Laptop Ultra 5 16GB RAM 512GB SSD 15.6\u201d Warranty!",
+        "price": "$549.00",
+        "status": "Pre-Owned \u00b7 Dell \u00b7 512 GB",
+        "shipping": 30.0012,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Dell Chromebook 3100 2-in-1 11.6\" Touchscreen Intel 2.40 4GB RAM Bluetooth WiFi",
+        "price": "$87.99",
+        "status": "Good - Refurbished",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "HP EliteBook 840 G10 - Intel i7-1370P - 16GB RAM 256GB SSD - WARRANTY 2027",
+        "price": "$429.00",
+        "status": "Pre-Owned \u00b7 HP \u00b7 256 GB",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Dell Latitude 5400 14\" i7-8665U@1.9GHz, 16GB RAM, 512GB M2, Windows 11 Pro",
+        "price": "$135.00",
+        "status": "Pre-Owned \u00b7 Dell \u00b7 512 GB",
+        "shipping": 16.33,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "HP 17t-CN200 17 Black Laptop PC 17.3\" 12th Gen i7-1255U 8GB 256GB SSD HDMI W11",
+        "price": "$399.35",
+        "status": "Certified - Refurbished \u00b7 HP",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "\ud83d\udd25NEW Lenovo V15 Gen 4 IRU 15.6\" FHD Laptop Intel Core i5-13420H 16GB 1TB W11Pro",
+        "price": "$495.99",
+        "status": "Brand New \u00b7 Lenovo \u00b7 1 TB",
+        "shipping": 9.9924,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "ASUS Zenbook 14\" WUXGA OLED Touch Laptop Intel Core Ultra 7 255H 16GB RAM 512GB",
+        "price": "$719.00",
+        "status": "Open Box \u00b7 ASUS \u00b7 512 GB",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "HP EliteBook 860 G10 i7- 1365U 16GB 512GB SSD 1920x1200 Win 11 Pro",
+        "price": "$449.99",
+        "status": "Pre-Owned \u00b7 HP \u00b7 512 GB",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Dell Precision 3551 Laptop 2.6 GHz i7-10750H 32GB 256GB SSD 15.6\" NVIDIA P620",
+        "price": "$329.00",
+        "status": "Pre-Owned \u00b7 Dell \u00b7 256 GB",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 115
+    },
+    {
+        "name": "Lenovo ThinkPad T490 Laptop i5 8265U 1.60GHZ 14\" FHD 8GB 256GB NVMe Windows 11",
+        "price": "$169.99",
+        "status": "Pre-Owned \u00b7 Lenovo",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "New HP 255R G10 15.6\" FHD 8-Core Ryzen 7 7735U 16GB 512GB PCIe SSD Cam Win11Pro",
+        "price": "$549.00",
+        "status": "Brand New \u00b7 HP \u00b7 512 GB",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Lenovo ThinkPad P14s Gen 2 14\" Touchscreen i7-1185G7@3.0GHz 48GB/1TB Nvidia T500",
+        "price": "$459.99",
+        "status": "Very Good - Refurbished \u00b7 Lenovo",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 35
+    },
+    {
+        "name": "Microsoft Surface Laptop Studio i7 32GB 1TB 14in No OS",
+        "price": "$630.00",
+        "status": "Pre-Owned \u00b7 Microsoft \u00b7 1 TB",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 49
+    },
+    {
+        "name": "HP EliteBook 830 G6 Laptop i5 8265U 1.6GHz 8GB RAM 256GB SSD W11P Touch",
+        "price": "$134.49",
+        "status": "Pre-Owned \u00b7 HP",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "HP EliteBook 850 G6 15.6\"- i5-8265U, 16GB RAM,  512GB NVMe SSD, Win 11P Laptop",
+        "price": "$249.00",
+        "status": "Very Good - Refurbished \u00b7 HP \u00b7 256 GB",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "DELL LATITUDE 7440 13TH GEN i7-1365U 32GB RAM 256GB SSD",
+        "price": "$420.00",
+        "status": "Pre-Owned \u00b7 Dell",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "HP ZBook 15 G5 Laptop Intel Core i7 8850H 2.6GHz 16GB RAM 512GB SSD W11P P2000",
+        "price": "$249.99",
+        "status": "Pre-Owned \u00b7 HP",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Touchscreen Dell Latitude 7420 Windows 11 Laptop (Intel i7 11th / 16GB / 512GB)",
+        "price": "$259.99",
+        "status": "Good - Refurbished \u00b7 Dell \u00b7 512 GB",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Lenovo Thinkpad T15p Gen 2 i5-11400H / 8GB RAM / NO SSD -RL5103",
+        "price": "$230.00",
+        "status": "Pre-Owned \u00b7 Lenovo",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "HP ZBook Firefly 14 G10 14\" WUXGA Intel i5-1350P 16GB 256GB SSD W11P Laptop, GR",
+        "price": "$371.00",
+        "status": "Good - Refurbished \u00b7 HP",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Lenovo ThinkPad T14s 14\" Intel i7 4.8GHz 32GB 512GB SSD Win11 Pro Touch -",
+        "price": "$359.00",
+        "status": "Good - Refurbished \u00b7 Lenovo",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "HP OmniBook X Flip Laptop 16\" 3K OLED 120Hz Ultra 9 288V/32GB/2TB",
+        "price": "$1,099.00",
+        "status": "Open Box \u00b7 HP",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Dell Latitude 3300/3310 13.3\" (i5 8th Gen - 8GB/16GB RAM - NO OS/HDD) - Lot of 5",
+        "price": "$349.84",
+        "status": "Pre-Owned \u00b7 Dell",
+        "shipping": 30.0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "HP Laptop Computer Office 2024 14\" FHD Intel i3 Upto 4.1GH 32GB RAM 1TB SSD Pro",
+        "price": "$719.00",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "HP ProBook 440 G8 14\" Laptop i5-1135G7 8GB RAM 256GB NVMe, As Is",
+        "price": "$169.99",
+        "status": "Pre-Owned \u00b7 HP",
+        "shipping": 16.34,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "HP ELITEBOOK 840 G6 14\" Intel Core i5-8365U 1.60GHz 16GB RAM 256GB NVMe",
+        "price": "$172.49",
+        "status": "Pre-Owned \u00b7 HP",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 70
+    },
+    {
+        "name": "HP EliteBook 860 G9 i7-1265U 16GB 512GB SSD Windows 11 Pro",
+        "price": "$379.99",
+        "status": "Pre-Owned \u00b7 HP",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 20
+    },
+    {
+        "name": "15.6\" Lenovo Laptop: Intel i5-10210U! 16GB RAM ~ 512GB NVME SSD! Windows 11 Pro!",
+        "price": "$349.59",
+        "status": "Good - Refurbished \u00b7 Lenovo",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 380
+    },
+    {
+        "name": "Dell Latitude 7490 Intel Core i5 16G 256G Windows 11 Wifi BT MS Office 21 Laptop",
+        "price": "$224.99",
+        "status": "Pre-Owned \u00b7 Dell \u00b7 256 GB",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": 34
+    },
+    {
+        "name": "HP EliteBook 840 G7 Laptop i5-10210U 16GB 256GB SSD Win11 Pro COA",
+        "price": "$199.99",
+        "status": "Pre-Owned \u00b7 HP",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "HP ProBook 440 G8 14\" Laptop i5-1135G7 8GB RAM 256GB NVMe, As Is",
+        "price": "$169.99",
+        "status": "Pre-Owned \u00b7 HP",
+        "shipping": 16.34,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Dell Latitude 5300 2-in-1 Touch 13.3\" Core I5 16GB RAM 256GB SSD WIN 11 PRO",
+        "price": "$166.24",
+        "status": "Pre-Owned \u00b7 Dell \u00b7 256 GB",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Dell Chromebook 3100 Intel Celeron N400 1.10 GHz 4 GB RAM 16GB SSD Lot of 2 READ",
+        "price": "$27.99",
+        "status": "Pre-Owned \u00b7 Dell \u00b7 16 GB",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Dell Precision 7550 15.6\" FHD i7-10875H 16GB 512GB SSD nVIDIA Rtx 3000 Win11 Pro",
+        "price": "$455.00",
+        "status": "Excellent - Refurbished \u00b7 Dell \u00b7 512 GB",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 12
+    },
+    {
+        "name": "14\" DELL Latitude Laptop: Intel i5! 8GB RAM! 256GB SSD! Zorin Core Edition!",
+        "price": "$130.00",
+        "status": "Good - Refurbished \u00b7 Dell",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 390
+    },
+    {
+        "name": "SGIN Laptop M15,15.6 Inch, 4GB, 128GB SSD LaptopsComputer Celeron Dual-Core",
+        "price": "$99.99",
+        "status": "Pre-Owned \u00b7 Sgin \u00b7 128 GB",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Dell Latitude 7430 i7-1265U 16GB 512GB SSD Windows 11 Pro",
+        "price": "$349.99",
+        "status": "Good - Refurbished \u00b7 Dell",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "ASUS Vivobook Flip 14\" OLED Touchscreen Intel Core Ultra 7 256V 16GB/1TB Win11H",
+        "price": "$572.99",
+        "status": "Excellent - Refurbished \u00b7 ASUS",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "HP 255 15.6\" FHD AMD Ryzen 7 7730U 2.00 GHz 16GB DDR4 512GB SSD W11P Laptop",
+        "price": "$418.00",
+        "status": "Certified - Refurbished \u00b7 HP",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 10
+    },
+    {
+        "name": "Samsung Galaxy Book2 360 13.3\"  256GB SSD, 8GB Intel Core i5 12th Gen., 4.40 GHz",
+        "price": "$245.00",
+        "status": "Pre-Owned \u00b7 Samsung \u00b7 256 GB",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Dell Latitude 5400 14\" i7-8665U@1.9GHz, 16GB RAM, 512GB M2, Windows 11 Pro",
+        "price": "$140.00",
+        "status": "Pre-Owned \u00b7 Dell \u00b7 512 GB",
+        "shipping": 16.33,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Dell Inspiron 5482 Intel Core i7-8565U 1.8Ghz 4GB Ram No SSD 14\" Laptop",
+        "price": "$69.95",
+        "status": "Parts Only \u00b7 Dell",
+        "shipping": 12.95,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "ASUS Vivobook 17 17.3\" FHD Intel 5 120U 1.4 GHz 8GB 512GB SSD W11H Laptop, BL",
+        "price": "$371.00",
+        "status": "Certified - Refurbished \u00b7 ASUS",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Lenovo ThinkPad E15 Gen 2 | 15.6\" | i5-1135G7 2.40GHz | 16GB RAM 256GB NVMe SSD",
+        "price": "$199.99",
+        "status": "Pre-Owned \u00b7 Lenovo",
+        "shipping": 28.3,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "HP EliteBook 840 G5 Laptop Intel Core i5 8350U 1.7GHz 16GB 256GB SSD W11P Touch",
+        "price": "$144.99",
+        "status": "Pre-Owned \u00b7 HP",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "\ud83d\udca5NEW\ud83d\udca5 Acer Chromebook 315 15.6 inch Laptop Intel Processor N4500 4GB RAM 64GB",
+        "price": "$128.50",
+        "status": "Brand New \u00b7 Acer \u00b7 64 GB",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Lenovo 100e Chromebook Gen 4 11.6\" HD MTK MT8186 4GB 32GB Chrome Laptop TMobile",
+        "price": "$134.99",
+        "status": "Open Box \u00b7 Lenovo",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 86
+    },
+    {
+        "name": "Libreboot ThinkPad T580 | i5-8350U | 16 GB RAM | 256 GB SSD",
+        "price": "$295.00",
+        "status": "Pre-Owned \u00b7 Lenovo",
+        "shipping": 15.0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Lenovo ThinkPad T14 Gen 1 i5-10210U 8GB RAM NO HDD/OS 33332",
+        "price": "$150.00",
+        "status": "Pre-Owned \u00b7 Lenovo",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Dell Latitude 5420 14\" FHD Laptop, Intel i7-1185G7, 16GB, 512Gb nvmeTOUCH",
+        "price": "$259.00",
+        "status": "Pre-Owned \u00b7 Dell",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Hp Zbook Firefly 14 G8 i7-1185G7 16GB/512GB NVME Windows 11 Pro",
+        "price": "$249.99",
+        "status": "Pre-Owned \u00b7 HP",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 34
+    },
+    {
+        "name": "HP ProBook 440 G9 14\" Laptop i5-1235U 8GB RAM 256GB NVMe, As Is",
+        "price": "$209.99",
+        "status": "Pre-Owned \u00b7 HP",
+        "shipping": 16.34,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "HP ZBook 15 G5 Laptop Intel Core i7 8850H 2.6GHz 32GB RAM 256GB SSD W11P P2000",
+        "price": "$244.99",
+        "status": "Pre-Owned \u00b7 HP",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Dell Latitude 3189 11.6\" 2-in-1 Touch Laptop Celeron 4GB 64GB SSD Windows 11 !!",
+        "price": "$99.00",
+        "status": "Pre-Owned \u00b7 Dell \u00b7 64 GB",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 4207
+    },
+    {
+        "name": "Lenovo ThinkPad P14s Gen 5 14.5\" WUXGA Ultra 5 135H 32GB 512GB SSD IR Cam FPR",
+        "price": "$819.00",
+        "status": "Brand New \u00b7 Lenovo",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "HP EliteBook 820 G3 Intel(R) Core(TM) i7-6600U 8 GB RAM 128 GB SSD 12.5\"",
+        "price": "$100.00",
+        "status": "Pre-Owned \u00b7 HP",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Panasonic Toughbook CF-54 - 14\" Touch Laptop - i5-6300u 8GB RAM 256GB SSD Win 11",
+        "price": "$220.00",
+        "status": "Pre-Owned \u00b7 Panasonic",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Dell Latitude 3500 Laptop i5-8265U 1.6GHz 16GB 256GB SSD No OS 15.6\" *See Detail",
+        "price": "$119.99",
+        "status": "Pre-Owned \u00b7 Dell",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Microsoft Surface Laptop 4 13.5 Touchscreen i7 4.8 GHz 16GB 512GB SSD Windows 11",
+        "price": "$359.00",
+        "status": "Very Good - Refurbished \u00b7 Microsoft \u00b7 512 GB",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Lenovo ThinkPad P14s Gen 2a 14\" Laptop Ryzen 7 PRO 5850U 16GBRAM 512GBNVMe As Is",
+        "price": "$269.99",
+        "status": "Pre-Owned \u00b7 Lenovo",
+        "shipping": 16.34,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "HP Envy x360 2-in-1 Laptop 15-ew0023dx 15.6\" 512 GB SSD 16 GB RAM i7-1255U",
+        "price": "$399.00",
+        "status": "Pre-Owned \u00b7 HP",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Microsoft Surface Pro 1960 7+ Intel i5-1135G7 16GB/256GB SSD Win 11 Pro",
+        "price": "$209.99",
+        "status": "Pre-Owned \u00b7 Microsoft",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "ASUS ExpertBook P3540FA 15.6\" FHD Intel 8th Gen 8/16GB 256/512GB SSD Win 11 Pro",
+        "price": "$109.00",
+        "status": "Pre-Owned",
+        "shipping": 20.9424,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "HP 15-fd0557nr FHD Business Laptop TouchScreen i7-1255u 64GB DDR4 2TB M.2 PCIE",
+        "price": "$795.00",
+        "status": "Open Box \u00b7 HP \u00b7 2 TB",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "HP 14 inch HD Chromebook Laptop Intel Processor N200 4GB RAM 128GB UFS Silver",
+        "price": "$159.00",
+        "status": "Open Box \u00b7 HP \u00b7 128 GB",
+        "shipping": 26.25,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Microsoft Surface Laptop 13\" 2095 Snapdragon X Plus 16GB RAM 512GB SSD",
+        "price": "$518.00",
+        "status": "Pre-Owned \u00b7 Microsoft \u00b7 512 GB",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Lot of 5 Dynabook Portege X30L-J i5-1135G7 2.4 GHz DDR4 8GB RAM 256GB SSD Laptop",
+        "price": "$699.95",
+        "status": "Pre-Owned \u00b7 dynabook \u00b7 256 GB",
+        "shipping": 29.9524,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Lenovo ThinkBook 13s G3 2K 13.3\" Laptop Ryzen 7 5800U 16GB RAM 512GB NVMe, As Is",
+        "price": "$174.99",
+        "status": "Pre-Owned \u00b7 Lenovo",
+        "shipping": 16.34,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Dell Precision 3560 3.0 GHz i7-1185G7 32GB 512GB SSD Webcam T500 15.6\" FHD",
+        "price": "$348.00",
+        "status": "Pre-Owned \u00b7 Dell \u00b7 512 GB",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 134
+    },
+    {
+        "name": "Lenovo 10e Chromebook Touchscreen 10\" Tablet 32GB eMMC (No Charger)",
+        "price": "$32.00",
+        "status": "Pre-Owned \u00b7 Lenovo",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Dell Latitude E5470 Business Laptop Intel i5 6th Quad Core 3.0 16GB 256GB M.2",
+        "price": "$159.99",
+        "status": "Good - Refurbished \u00b7 Dell",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Lenovo IdeaPad Slim 3 15.6\" FHD Touch Ryzen 7 7730U 16GB 512GB FPR CAM Win11 2Yr",
+        "price": "$429.00",
+        "status": "Certified - Refurbished \u00b7 Lenovo \u00b7 512 GB",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 89
+    },
+    {
+        "name": "Dell Latitude 5430 Rugged | 14\" Touch | i5-1135G7 2.40GHz | 16GB RAM | 256GB SSD",
+        "price": "$699.00",
+        "status": "Pre-Owned \u00b7 Dell \u00b7 256 GB",
+        "shipping": 15.0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Dell Inspiron 15 3530 Touchscreen, Intel 13th 10-Core i7, 32GB RAM 1TB SSD Black",
+        "price": "$498.62",
+        "status": "Pre-Owned \u00b7 Dell",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    }
+]
