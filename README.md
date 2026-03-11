@@ -14,7 +14,20 @@ Each item in the JSON file includes:
 
 My program automatically skips promotional listings.
 
----
-
 ## How to Run the Program 
+
+First install the required Python packages: 
+
+```
+pip3 install requests beautifulsoup4 playwright
+undetected-playwright playwright-stealth
+```
+
+Install the browser used by Playwright:
+
+```
+playwright install
+```
+
+
 
